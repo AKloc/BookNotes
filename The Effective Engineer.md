@@ -9,9 +9,9 @@
 - Probably NOT a book for veterans.
 
 Future Value?
-- 
+- Use in training for new engineers?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mzg4Njg3NCw3NzA0OTQyNTMsMjkyMD
-E0MjUxLDE0ODIzMTIzMjBdfQ==
+eyJoaXN0b3J5IjpbMTA2OTU4OTA5MiwxODUzODg2ODc0LDc3MD
+Q5NDI1MywyOTIwMTQyNTEsMTQ4MjMxMjMyMF19
 -->
