@@ -9,10 +9,11 @@
 - Probably NOT a book for veterans.
 
 
-**Future Value?**
+**Future Value**
 - Use in training for new engineers?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjUzODU3MCwxODUzODg2ODc0LDc3MD
-Q5NDI1MywyOTIwMTQyNTEsMTQ4MjMxMjMyMF19
+eyJoaXN0b3J5IjpbLTEwMDc0MDE0MzUsLTI0MjUzODU3MCwxOD
+UzODg2ODc0LDc3MDQ5NDI1MywyOTIwMTQyNTEsMTQ4MjMxMjMy
+MF19
 -->
