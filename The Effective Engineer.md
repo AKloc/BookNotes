@@ -8,10 +8,11 @@
 - Really nice organization overall, starting with mindset, then going to short and long-term thinking.
 - Probably NOT a book for veterans.
 
-Future Value?
+
+**Future Value?**
 - Use in training for new engineers?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTU4OTA5MiwxODUzODg2ODc0LDc3MD
+eyJoaXN0b3J5IjpbLTI0MjUzODU3MCwxODUzODg2ODc0LDc3MD
 Q5NDI1MywyOTIwMTQyNTEsMTQ4MjMxMjMyMF19
 -->
