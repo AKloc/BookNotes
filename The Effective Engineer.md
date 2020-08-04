@@ -6,7 +6,8 @@
 - Big focus on prioritization and how what you invest in your time in matters down the road.
 - Big on metrics.
 - Big on general DevOps.
-- Big on automation
+- Big on automation.
+- Big on small, quick changes.
 - Props for mentioning that he did stints at big companies without harping on that too much (*cough* Radical Candor).
 - Really nice organization overall, starting with mindset, then going to short and long-term thinking.
 - Probably not as much of a book for veterans.
@@ -18,7 +19,7 @@
 **Bottom Line**
 - 9/10. The book lives up to its title. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NDk2NjQzLC0xMTEyMzM2ODkyLDE5Mz
+eyJoaXN0b3J5IjpbNzc0MDI4Mzc0LC0xMTEyMzM2ODkyLDE5Mz
 UyODU4ODMsNTc0Nzc3MDUyLC0zMzY4NDIwOTYsLTEwMDc0MDE0
 MzUsLTI0MjUzODU3MCwxODUzODg2ODc0LDc3MDQ5NDI1MywyOT
 IwMTQyNTEsMTQ4MjMxMjMyMF19
