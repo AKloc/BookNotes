@@ -13,10 +13,11 @@
 **Future Value**
 - Use in training for new engineers?
 
-Bottom Line
-- 9/10 for new engineers seeking how to 
+**Bottom Line**
+- 9/10 for new engineers l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTI4NTg4Myw1NzQ3NzcwNTIsLTMzNj
-g0MjA5NiwtMTAwNzQwMTQzNSwtMjQyNTM4NTcwLDE4NTM4ODY4
-NzQsNzcwNDk0MjUzLDI5MjAxNDI1MSwxNDgyMzEyMzIwXX0=
+eyJoaXN0b3J5IjpbMTI0NjMzNDk1OCwxOTM1Mjg1ODgzLDU3ND
+c3NzA1MiwtMzM2ODQyMDk2LC0xMDA3NDAxNDM1LC0yNDI1Mzg1
+NzAsMTg1Mzg4Njg3NCw3NzA0OTQyNTMsMjkyMDE0MjUxLDE0OD
+IzMTIzMjBdfQ==
 -->
