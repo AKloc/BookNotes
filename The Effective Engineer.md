@@ -14,10 +14,10 @@
 - Use in training for new engineers?
 
 **Bottom Line**
-- 9/10. The book lives up to the title
+- 9/10. The book lives up to its title. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5ODE1ODIxLDE5MzUyODU4ODMsNTc0Nz
-c3MDUyLC0zMzY4NDIwOTYsLTEwMDc0MDE0MzUsLTI0MjUzODU3
-MCwxODUzODg2ODc0LDc3MDQ5NDI1MywyOTIwMTQyNTEsMTQ4Mj
-MxMjMyMF19
+eyJoaXN0b3J5IjpbLTExMTIzMzY4OTIsMTkzNTI4NTg4Myw1Nz
+Q3NzcwNTIsLTMzNjg0MjA5NiwtMTAwNzQwMTQzNSwtMjQyNTM4
+NTcwLDE4NTM4ODY4NzQsNzcwNDk0MjUzLDI5MjAxNDI1MSwxND
+gyMzEyMzIwXX0=
 -->
