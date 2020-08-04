@@ -7,14 +7,14 @@
 - Big on metrics.
 - Props for mentioning that he did stints at big companies without harping on that too much (*cough* Radical Candor).
 - Really nice organization overall, starting with mindset, then going to short and long-term thinking.
-- Probably NOT a book for veterans.
+- Probably not as much of a book for veterans.
 
 
 **Future Value**
 - Use in training for new engineers?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjg0MjA5NiwtMTAwNzQwMTQzNSwtMj
-QyNTM4NTcwLDE4NTM4ODY4NzQsNzcwNDk0MjUzLDI5MjAxNDI1
-MSwxNDgyMzEyMzIwXX0=
+eyJoaXN0b3J5IjpbNTc0Nzc3MDUyLC0zMzY4NDIwOTYsLTEwMD
+c0MDE0MzUsLTI0MjUzODU3MCwxODUzODg2ODc0LDc3MDQ5NDI1
+MywyOTIwMTQyNTEsMTQ4MjMxMjMyMF19
 -->
