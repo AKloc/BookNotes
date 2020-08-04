@@ -14,10 +14,10 @@
 - Use in training for new engineers?
 
 **Bottom Line**
-- 9/10 for new engineers l
+- 9/10. The book lives up to the title
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjMzNDk1OCwxOTM1Mjg1ODgzLDU3ND
-c3NzA1MiwtMzM2ODQyMDk2LC0xMDA3NDAxNDM1LC0yNDI1Mzg1
-NzAsMTg1Mzg4Njg3NCw3NzA0OTQyNTMsMjkyMDE0MjUxLDE0OD
-IzMTIzMjBdfQ==
+eyJoaXN0b3J5IjpbMjI5ODE1ODIxLDE5MzUyODU4ODMsNTc0Nz
+c3MDUyLC0zMzY4NDIwOTYsLTEwMDc0MDE0MzUsLTI0MjUzODU3
+MCwxODUzODg2ODc0LDc3MDQ5NDI1MywyOTIwMTQyNTEsMTQ4Mj
+MxMjMyMF19
 -->
