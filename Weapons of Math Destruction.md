@@ -6,7 +6,7 @@
 	- Police using ML to predict where they should be patrolling based on previous crimes, which leads to more confirmed crimes in those areas, which leads to the model placing more weight in those areas, etc... this sounds fine at first, but what if the same thing was done in affluent neighborhoods? Traffic laws, white collar crimes, etc...
 	- Employment screening systems that were setup to help recruiters in the 80s, learned a model that basically threw out any resumes that didn't have "American" names
 	- Political campaigning that can be super-targeted to individuals; e.g., a candidate can send different messaging to different potential voters.
-	- Biggest item
+	- Biggest item: Data models can be abused to the same extent 
 
 **What can I do with this?**
 - Be super careful about what any sort of data models, surveys, etc are optimizing for.
@@ -14,7 +14,7 @@
 **Bottom Line**
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM3OTg4MiwxOTY4Mzc4MTU2LDQ1MD
+eyJoaXN0b3J5IjpbLTY4ODIzMzI5MywxOTY4Mzc4MTU2LDQ1MD
 A1NTE2MCwtODEyNTYxMDQwLDM0MzUyMDQxOSwxNjMwODkzODgy
 XX0=
 -->
