@@ -10,6 +10,7 @@
 - Yes, sometimes you have to reduce a model's accuracy for fairness.
 - Yes, you can remove race as a factor you're analyzing, but if you're still using something like zip codes, it's not much better. Book calls this "proxying."
 - Models are good at predicting the past, but they'll never trailblaze the future.
+- - This book will probably be regarding as being politically left-leaning in nature given the themes of things like empathizing with regions that have higher crime rates rather than increasing police presence.
 - Biggest item: Some of these WMDs can be as bad as the most aggressive, craven capitalists in a vacuum where the ONLY thing that matters is the output you're optimizing for. "These models and ML are great for Amazon and Netflix, but not for serving out Democracy and justice."
 
 **What can I do with this?**
@@ -20,9 +21,9 @@
 **Bottom Line**
 - 9/10.
 - Really reinforced the idea of being responsible about what models are built for and being careful about how they're optimizing, then takes it to the next level with potential solutions around the Asimov's rules, being really cautious about where these models are being used and demanding transparency, etc.
-- This book will probably be regarding as being politically left-leaning in nature given the themes of things like empathizing with regions that have higher crime rates rather than increasing police presence.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzg5MjkyMSwtODcxMjU5MjA2LDE5Nj
-gzNzgxNTYsNDUwMDU1MTYwLC04MTI1NjEwNDAsMzQzNTIwNDE5
-LDE2MzA4OTM4ODJdfQ==
+eyJoaXN0b3J5IjpbODkyMDA2NzYsLTg3MTI1OTIwNiwxOTY4Mz
+c4MTU2LDQ1MDA1NTE2MCwtODEyNTYxMDQwLDM0MzUyMDQxOSwx
+NjMwODkzODgyXX0=
 -->
