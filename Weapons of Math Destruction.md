@@ -7,18 +7,19 @@
 	- Employment screening systems that were setup to help recruiters in the 80s, learned a model that basically threw out any resumes that didn't have "American" names
 	- Political campaigning that can be super-targeted to individuals; e.g., a candidate can send different messaging to different potential voters.
 	- Job application screening systems that ask psychological questions and tries to predict mental illness from them, which gets around some HIPAA / ADA considerations.
-- Yes, sometimes you have 
+- Yes, sometimes you have to reduce a model's accuracy for fairness.
+- Models are good at predicting the past, but they'll never trailblaze the future.
 - Biggest item: Some of these WMDs can be as bad as the most aggressive, craven capitalists in a vacuum where the ONLY thing that matters is the output you're optimizing for. "These models and ML are great for Amazon and Netflix, but not for serving out Democracy and justice."
 
 **What can I do with this?**
 - Be super careful about what any sort of data models, surveys, etc are optimizing for.
 - Really like the bit about having something an Asimov's AI laws for data models like these
-- Basically convinced me that 
+- Basically convinced me that open-sourcing some of these models needs to start happening. We need governance as these become more pervasive. 
 
 **Bottom Line**
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTU2NDEwNywxOTY4Mzc4MTU2LDQ1MD
+eyJoaXN0b3J5IjpbMTQ2NjgwNzc2MSwxOTY4Mzc4MTU2LDQ1MD
 A1NTE2MCwtODEyNTYxMDQwLDM0MzUyMDQxOSwxNjMwODkzODgy
 XX0=
 -->
