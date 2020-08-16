@@ -20,9 +20,9 @@
 **Bottom Line**
 - 9/10.
 - Really reinforced the idea of being responsible about what models are built for and being careful about how they're optimizing, then takes it to the next level with potential solutions around the Asimov's rules, being really cautious about where these models are being used and demanding transparency, etc.
-- Thi
+- This book will probably be regarding as being politically left-leaning in nature given the themes of things like empathizing with regions that have higher crime rates rather than increasing police presence.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzOTAxNDIzLC04NzEyNTkyMDYsMTk2OD
-M3ODE1Niw0NTAwNTUxNjAsLTgxMjU2MTA0MCwzNDM1MjA0MTks
-MTYzMDg5Mzg4Ml19
+eyJoaXN0b3J5IjpbLTgwMzg5MjkyMSwtODcxMjU5MjA2LDE5Nj
+gzNzgxNTYsNDUwMDU1MTYwLC04MTI1NjEwNDAsMzQzNTIwNDE5
+LDE2MzA4OTM4ODJdfQ==
 -->
