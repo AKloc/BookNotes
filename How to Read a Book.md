@@ -12,10 +12,10 @@
 **What can I do with this?**
 - I'm going to start reading the Table of Contents.
 - Skim books that I don't have Amazon reviews for to get an idea re: what they're about.
-- Prefer to re-read a book rather than read it once and spending time re-reading passages. It's a false  constraint.
+- I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
 - 9/10. The book lives up to its title. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMjQxOTU3XX0=
+eyJoaXN0b3J5IjpbNjEwOTkxMDUzXX0=
 -->
