@@ -17,9 +17,10 @@
 - Basically convinced me that open-sourcing some of these models needs to start happening. We need governance as these become more pervasive. 
 
 **Bottom Line**
--
+- 8.5/10.
+- Really reinforced the idea of being responsible about what models are built for and being careful about how they're optimizing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjgwNzc2MSwxOTY4Mzc4MTU2LDQ1MD
+eyJoaXN0b3J5IjpbMTIwOTcxNTIzMCwxOTY4Mzc4MTU2LDQ1MD
 A1NTE2MCwtODEyNTYxMDQwLDM0MzUyMDQxOSwxNjMwODkzODgy
 XX0=
 -->
