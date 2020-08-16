@@ -8,7 +8,7 @@
 	- Political campaigning that can be super-targeted to individuals; e.g., a candidate can send different messaging to different potential voters.
 	- Job application screening systems that ask psychological questions and tries to predict mental illness from them, which gets around some HIPAA / ADA considerations.
 - Yes, sometimes you have to reduce a model's accuracy for fairness.
-- Yes, you can remove race as a factor you're analyzing, but if you're still using something like zip codes, it's not much better. Book calls these 
+- Yes, you can remove race as a factor you're analyzing, but if you're still using something like zip codes, it's not much better. Book calls this "proxying."
 - Models are good at predicting the past, but they'll never trailblaze the future.
 - Biggest item: Some of these WMDs can be as bad as the most aggressive, craven capitalists in a vacuum where the ONLY thing that matters is the output you're optimizing for. "These models and ML are great for Amazon and Netflix, but not for serving out Democracy and justice."
 
@@ -20,8 +20,9 @@
 **Bottom Line**
 - 9/10.
 - Really reinforced the idea of being responsible about what models are built for and being careful about how they're optimizing, then takes it to the next level with potential solutions around the Asimov's rules, being really cautious about where these models are being used and demanding transparency, etc.
+- Thi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTI1OTIwNiwxOTY4Mzc4MTU2LDQ1MD
-A1NTE2MCwtODEyNTYxMDQwLDM0MzUyMDQxOSwxNjMwODkzODgy
-XX0=
+eyJoaXN0b3J5IjpbNzMzOTAxNDIzLC04NzEyNTkyMDYsMTk2OD
+M3ODE1Niw0NTAwNTUxNjAsLTgxMjU2MTA0MCwzNDM1MjA0MTks
+MTYzMDg5Mzg4Ml19
 -->
