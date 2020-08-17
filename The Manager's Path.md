@@ -14,7 +14,8 @@
 - Be deliberate about what management styles you use at different times and with different individuals. Some people NEED to be micromanaged to some degree, but that has to be a temporary thing.
 - Don't ask for information you can't get yourself.
 - Positive feedback is important and will make colleagues more likely to listen to you when there's coaching.
-- NO SURPRISES ALLOWED. If you give someone a nasty review and they're taken aback by it, you failed.
+- NO SURPRISES ALLOWED. If you give someone a nasty review and they're taken aback by it, you've probably failed them.
+- 
 
 **What can I do with this?**
 - We used the concepts from this book to draw up our leveling criteria.
@@ -24,6 +25,6 @@
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for the programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc0MTQ0MTMsLTE0ODU3NjE4NTJdfQ
+eyJoaXN0b3J5IjpbLTIxMDM0MzY3NjEsLTE0ODU3NjE4NTJdfQ
 ==
 -->
