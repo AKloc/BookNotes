@@ -10,12 +10,17 @@
 - Rock stars vs. superstars
 - Senior engineers are much more than technical expertise.
 - Process isn't the enemy, but you have to keep up with it, be agile, change as conditions do, etc.
+- Self-advocacy is everything.
+- Be deliberate about what management styles you use at different times and with different individuals. Some people NEED to be micromanaged to some
 
 **What can I do with this?**
-- We used the concepts from this book to draw up our leveli
+- We used the concepts from this book to draw up our leveling criteria.
+- Great reminder about how important meaningful 1:1s are, and to bring items to meetings.
+- 
 
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for the programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDA1ODEyOCwtMTQ4NTc2MTg1Ml19
+eyJoaXN0b3J5IjpbLTEyNjIwMDA4OTUsLTE0ODU3NjE4NTJdfQ
+==
 -->
