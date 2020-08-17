@@ -8,6 +8,7 @@
 	- Going back and re-reading too often. It's OK to not completely "get" something sometimes.
 	- Book recommended pointing with index, middle, and thumb to scan across lines
 - Don't understand something? Keep reading, straight through, and then try reading the book again afterward when you have more context.
+- It gets WORDY at some points. I spent 20 minutes reading about the concept that sometimes words mean different things in different contexts.
 
 **What can I do with this?**
 - I'm going to start reading the Table of Contents.
@@ -15,7 +16,8 @@
 - I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
-- A few too many flourishes.
+- A few too many flourishes. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjU5NzMyMyw2MTA5OTEwNTNdfQ==
+eyJoaXN0b3J5IjpbNDY3Mzc1MTk0LDE1ODI1OTczMjMsNjEwOT
+kxMDUzXX0=
 -->
