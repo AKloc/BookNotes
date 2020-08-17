@@ -21,12 +21,12 @@
 - Managers have to stay technical. Go out of your way to do it. But have to stay technical. Don't be the middle manager who's just passing information through.
 
 **What can I do with this?**
-- We used the concepts from this book to draw up our leveling criteria.
+- I used many of the concepts from this book when designing the leveling framework for my department.
 - Great reminder about how important meaningful 1:1s are, and to bring items to meetings.
-- 
 
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for software engineers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMDU3NDEyLC0xNDg1NzYxODUyXX0=
+eyJoaXN0b3J5IjpbMjExMjE1ODU0MSwyNTMwNTc0MTIsLTE0OD
+U3NjE4NTJdfQ==
 -->
