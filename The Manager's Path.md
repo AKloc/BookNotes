@@ -9,13 +9,13 @@
 - Management is ACTIVE. If you're just keeping the lights on, you're probably not a great boss.
 - Rock stars vs. superstars
 - Senior engineers are much more than technical expertise.
-- 
+- Process isn't the enemy, but you have to keep up with it, be agile, change as conditions do, etc.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- We used the concepts from this book to draw up our leveli
 
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for the programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MDYwMzk5LC0xNDg1NzYxODUyXX0=
+eyJoaXN0b3J5IjpbLTQzNDA1ODEyOCwtMTQ4NTc2MTg1Ml19
 -->
