@@ -15,7 +15,9 @@
 - Don't ask for information you can't get yourself.
 - Positive feedback is important and will make colleagues more likely to listen to you when there's coaching.
 - NO SURPRISES ALLOWED. If you give someone a nasty review and they're taken aback by it, you've probably failed them.
-- 
+- Change the environment sometimes. Happy hours, lunches, etc are really helpful in building bonds that carry over into work.
+- Don't be nice. Be kind.
+- Much of management is shielding your people where possible, without over-sheltering. e.g. - business shifting priorities 100 times. Make the decision to NOT complain to your team
 
 **What can I do with this?**
 - We used the concepts from this book to draw up our leveling criteria.
@@ -25,6 +27,5 @@
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for the programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM0MzY3NjEsLTE0ODU3NjE4NTJdfQ
-==
+eyJoaXN0b3J5IjpbMTc3NzkwODU2NywtMTQ4NTc2MTg1Ml19
 -->
