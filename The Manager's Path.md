@@ -6,7 +6,7 @@
 - If you want to be promoted or to become a manager or get into leadership, it's on you to actually manage and lead that.
 - The Peter Principle, and not climbing the ladder just for the sake of it
 - Being the alpha geek isn't a good thing, and being super-technical but not understanding the rest of the business or even the local team environment is still often more harmful than it is good
-- Management is ACTIVE. If you're just keeping the lights on, you're probably not a great boss.
+- Management is ACTIVE. If you're just keeping the lights on, you're probably not a great boss. Open-door policy is a feel-good idea, but you have to be active in asking for and giving feedback.
 - Rock stars vs. superstars
 - Senior engineers are much more than technical expertise.
 - Process isn't the enemy, but you have to keep up with it, be agile, change as conditions do, etc.
@@ -17,7 +17,8 @@
 - NO SURPRISES ALLOWED. If you give someone a nasty review and they're taken aback by it, you've probably failed them.
 - Change the environment sometimes. Happy hours, lunches, etc are really helpful in building bonds that carry over into work.
 - Don't be nice. Be kind.
-- Much of management is shielding your people where possible, without over-sheltering. e.g. - business shifting priorities 100 times. Make the decision to NOT complain to your team
+- Much of management is shielding your people where possible, without over-sheltering. e.g. - business shifting priorities 100 times. Make the decision to NOT complain to your team as the leader.
+- Managers have to stay technical. Go out of your way to do it. But have to stay technical. Don't be t
 
 **What can I do with this?**
 - We used the concepts from this book to draw up our leveling criteria.
@@ -27,5 +28,5 @@
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for the programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzkwODU2NywtMTQ4NTc2MTg1Ml19
+eyJoaXN0b3J5IjpbMTk5NDIzNDY0NCwtMTQ4NTc2MTg1Ml19
 -->
