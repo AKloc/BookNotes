@@ -15,7 +15,7 @@
 - I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
-- 
+- A few too many flourishes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTY4MTQ0NSw2MTA5OTEwNTNdfQ==
+eyJoaXN0b3J5IjpbMTU4MjU5NzMyMyw2MTA5OTEwNTNdfQ==
 -->
