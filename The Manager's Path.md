@@ -18,7 +18,7 @@
 - Change the environment sometimes. Happy hours, lunches, etc are really helpful in building bonds that carry over into work.
 - Don't be nice. Be kind.
 - Much of management is shielding your people where possible, without over-sheltering. e.g. - business shifting priorities 100 times. Make the decision to NOT complain to your team as the leader.
-- Managers have to stay technical. Go out of your way to do it. But have to stay technical. Don't be t
+- Managers have to stay technical. Go out of your way to do it. But have to stay technical. Don't be the middle manager who's just passing information through.
 
 **What can I do with this?**
 - We used the concepts from this book to draw up our leveling criteria.
@@ -26,7 +26,7 @@
 - 
 
 **Bottom Line**
-- 9/10. Probably the most practical "how to career" book for the programming
+- 9/10. Probably the most practical "how to career" book for software engineers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDIzNDY0NCwtMTQ4NTc2MTg1Ml19
+eyJoaXN0b3J5IjpbMjUzMDU3NDEyLC0xNDg1NzYxODUyXX0=
 -->
