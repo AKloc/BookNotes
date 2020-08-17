@@ -22,11 +22,11 @@
 
 **What can I do with this?**
 - I used many of the concepts from this book when designing the leveling framework for my department.
-- Great reminder about how important meaningful 1:1s are, and to bring items to meetings.
+- Great reminder about how important meaningful 1:1s are, keeping a people journal, and to bring questions to meetings.
 
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for software engineers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjE1ODU0MSwyNTMwNTc0MTIsLTE0OD
-U3NjE4NTJdfQ==
+eyJoaXN0b3J5IjpbNzUxNTAyOTQ4LDI1MzA1NzQxMiwtMTQ4NT
+c2MTg1Ml19
 -->
