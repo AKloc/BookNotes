@@ -10,7 +10,7 @@
 	- "That guy is an idiot because I saw him do something stupid" is an evaluation. "That guy just locked his keys in his car" is an observation.
 	- "You never do what I want" is an evaluation. "The last three times I pitched something you said no" is an observation.
 - SECOND COMPONENT OF NVC: Express how we're feeling.
-	- Don't contain them.
+	- Doesn't mean "let everything ou
 
 **What can I do with this?**
 - I really like the idea of using "because" more with my kids to explain why what I'm telling them to do is ultimately important.
@@ -19,5 +19,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg2ODM4MDcsMTUzOTI5NTQ3M119
+eyJoaXN0b3J5IjpbNzk2MDUzNTUyLDE1MzkyOTU0NzNdfQ==
 -->
