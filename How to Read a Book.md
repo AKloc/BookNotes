@@ -11,7 +11,7 @@
 - It gets WORDY at some points. I spent 20 minutes reading about the concept that sometimes words mean different things in different contexts.
 - Getting further into the book, it only got worse. 20 pages dedicated to the concept that authors will make important points and then try to back them up with evidence. Who is this for?
 - I threw the towel in about halfway through the book and skimming the remainder. This isn't a practical guide, it's a philosophical interpretation of what books are, the relationship of an author and a reader, etc.
-- The ultimate "level" of reading is a made-up term, "syntopic reading." 
+- The ultimate "level" of reading is a made-up term, "syntopic reading." Despite the book being 350 pages, it only spends 25 of them on the topic, which boils down to "It
 
 **What can I do with this?**
 - I'm going to start reading the Table of Contents.
@@ -21,6 +21,6 @@
 **Bottom Line**
 - 4/10. I couldn't finish it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMzNzA3NzcsMTUxNDAxMTUwMiw0Nj
-czNzUxOTQsMTU4MjU5NzMyMyw2MTA5OTEwNTNdfQ==
+eyJoaXN0b3J5IjpbOTk5ODc5Mjc5LDE1MTQwMTE1MDIsNDY3Mz
+c1MTk0LDE1ODI1OTczMjMsNjEwOTkxMDUzXX0=
 -->
