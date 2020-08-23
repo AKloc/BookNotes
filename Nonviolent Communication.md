@@ -12,7 +12,8 @@
 - SECOND COMPONENT OF NVC: Express how we're feeling.
 	- Doesn't mean "let everything out," but there's a way to express emotion that can help ensure that what you're saying isn't interpreted as criticism / aggression.
 	- There's a difference between what we FEEL and what we THINK we are.
-	- e.g.: "I feel 
+	- e.g.: "I feel inadequate as a guitar player" isn't really what we're feeling. "I feel disappointed in myself as a guitar player" is. "Inadequate" isn't a feeling. Frustrated / disappointed / frustrated is.
+	- Watch out for words like ignored / disrupted / rejected / unwanted / pressured. They're not OUR feelings, they're words that we use to INTERPR
 
 **What can I do with this?**
 - I really like the idea of using "because" more with my kids to explain why what I'm telling them to do is ultimately important.
@@ -21,5 +22,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODcxODIzNSwxNTM5Mjk1NDczXX0=
+eyJoaXN0b3J5IjpbMTMwMDE5MTYxNSwxNTM5Mjk1NDczXX0=
 -->
