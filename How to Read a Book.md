@@ -19,8 +19,8 @@
 - I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
-- 3/10. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophica
+- 4/10, emphasizing that that re. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophical book instead of a practical one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTA1NDQxOSwxNTE0MDExNTAyLDQ2Nz
-M3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1M119
+eyJoaXN0b3J5IjpbNDA4MDE0MjIwLDE1MTQwMTE1MDIsNDY3Mz
+c1MTk0LDE1ODI1OTczMjMsNjEwOTkxMDUzXX0=
 -->
