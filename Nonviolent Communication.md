@@ -16,11 +16,12 @@
 	- Watch out for words like ignored / disrupted / rejected / unwanted / pressured. They're not OUR feelings, they're words that we use to INTERPRET others.
 
 **What can I do with this?**
-- I really like the idea of using "because" more with my kids to explain why what I'm telling them to do is ultimately important.
+- I really like the idea of using "I feel disappointed / angry because" more with my kids to explain why what I'm telling them to do is ultimately important.
 - Using observations instead of evaluations could probably help out in a lot of my personal conversations.
 
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwOTAxMTI1LDE1MzkyOTU0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDQxNDUyMzgsNDEwOTAxMTI1LDE1Mz
+kyOTU0NzNdfQ==
 -->
