@@ -1,6 +1,6 @@
 ## How to Read a Book
 
-**Main Takeaways**
+**Main Takeaways** 
 - Don't skip the table of contents. It's like having a roadmap ahead of you and lets you know the structure of what you're reading before you really start.
 - For educational / learning stuff, it's OK to cheat and skim the end of chapters since that's where authors do a lot of their summations.
 - Speed reading isn't really important, what's important is to understand that having different speeds for different kinds of books is an important tool. BUT - things that slow us down include...
@@ -18,6 +18,6 @@
 **Bottom Line**
 - A few too many flourishes. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3Mzc1MTk0LDE1ODI1OTczMjMsNjEwOT
-kxMDUzXX0=
+eyJoaXN0b3J5IjpbMTUxNDAxMTUwMiw0NjczNzUxOTQsMTU4Mj
+U5NzMyMyw2MTA5OTEwNTNdfQ==
 -->
