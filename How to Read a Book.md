@@ -11,7 +11,7 @@
 - It gets WORDY at some points. I spent 20 minutes reading about the concept that sometimes words mean different things in different contexts.
 - Getting further into the book, it only got worse. 20 pages dedicated to the concept that authors will make important points and then try to back them up with evidence. Who is this for?
 - I threw the towel in about halfway through the book and skimming the remainder. This isn't a practical guide, it's a philosophical interpretation of what books are, the relationship of an author and a reader, etc.
-- The ultimate "level" of reading is a made-up term, "syntopic reading." Despite the book being 350 pages, it only spends 25 of them on the topic, which boils down to "It
+- The ultimate "level" of reading is a made-up term, "syntopic reading." Despite the book being 350 pages, it only spends 25 of them on the topic, which boils down to "It's when you read multiple books on the same topic, and by the way, if you want to learn more, we have another book on the topic..."
 
 **What can I do with this?**
 - I'm going to start reading the Table of Contents.
@@ -19,8 +19,8 @@
 - I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
-- 4/10. I couldn't finish it.
+- 3/10. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5ODc5Mjc5LDE1MTQwMTE1MDIsNDY3Mz
-c1MTk0LDE1ODI1OTczMjMsNjEwOTkxMDUzXX0=
+eyJoaXN0b3J5IjpbLTc5OTA1NDQxOSwxNTE0MDExNTAyLDQ2Nz
+M3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1M119
 -->
