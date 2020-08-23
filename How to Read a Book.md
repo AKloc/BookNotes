@@ -9,6 +9,7 @@
 	- Book recommended pointing with index, middle, and thumb to scan across lines
 - Don't understand something? Keep reading, straight through, and then try reading the book again afterward when you have more context.
 - It gets WORDY at some points. I spent 20 minutes reading about the concept that sometimes words mean different things in different contexts.
+- Getting further into the book, it only got worse. 20 pages dedicated to the concept that authors will make important points and then try to back them up with evidence. Who is this for?
 
 **What can I do with this?**
 - I'm going to start reading the Table of Contents.
@@ -16,8 +17,8 @@
 - I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
-- A few too many flourishes. 
+- 4/10. I couldn't finish it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDAxMTUwMiw0NjczNzUxOTQsMTU4Mj
-U5NzMyMyw2MTA5OTEwNTNdfQ==
+eyJoaXN0b3J5IjpbLTMwNjQ0MDUwNywxNTE0MDExNTAyLDQ2Nz
+M3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1M119
 -->
