@@ -11,7 +11,8 @@
 	- "You never do what I want" is an evaluation. "The last three times I pitched something you said no" is an observation.
 - SECOND COMPONENT OF NVC: Express how we're feeling.
 	- Doesn't mean "let everything out," but there's a way to express emotion that can help ensure that what you're saying isn't interpreted as criticism / aggression.
-	- e.g.: "
+	- There's a difference between what we FEEL and what we THINK we are.
+	- e.g.: "I feel 
 
 **What can I do with this?**
 - I really like the idea of using "because" more with my kids to explain why what I'm telling them to do is ultimately important.
@@ -20,5 +21,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NzI4NTQ2LDE1MzkyOTU0NzNdfQ==
+eyJoaXN0b3J5IjpbMTk5ODcxODIzNSwxNTM5Mjk1NDczXX0=
 -->
