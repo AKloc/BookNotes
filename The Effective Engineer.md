@@ -1,4 +1,4 @@
-## The Effective Engineer
+## The Effective Engineer (July 2020)
 
 **Main Takeaways**
 - Very solid book for a new engineer. Probably the best I've ever read in this category that isn't focused on coding - and it's nice that the content isn't muddled with being technical.
@@ -19,8 +19,9 @@
 **Bottom Line**
 - 9/10. The book lives up to its title. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTQ4MTkyOSw3NzQwMjgzNzQsLTExMT
-IzMzY4OTIsMTkzNTI4NTg4Myw1NzQ3NzcwNTIsLTMzNjg0MjA5
-NiwtMTAwNzQwMTQzNSwtMjQyNTM4NTcwLDE4NTM4ODY4NzQsNz
-cwNDk0MjUzLDI5MjAxNDI1MSwxNDgyMzEyMzIwXX0=
+eyJoaXN0b3J5IjpbNzU0MTA5NzgyLDE3MDU0ODE5MjksNzc0MD
+I4Mzc0LC0xMTEyMzM2ODkyLDE5MzUyODU4ODMsNTc0Nzc3MDUy
+LC0zMzY4NDIwOTYsLTEwMDc0MDE0MzUsLTI0MjUzODU3MCwxOD
+UzODg2ODc0LDc3MDQ5NDI1MywyOTIwMTQyNTEsMTQ4MjMxMjMy
+MF19
 -->
