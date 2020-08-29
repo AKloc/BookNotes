@@ -8,12 +8,13 @@
 
 **What can I do with this?**
 - I like the angle of being really deliberate about ROI of online stuff.
+- Be deliberate when signing up for any sort of social me
 - I deleted Instagram from my phone because I can both catch up with it when I'm on a PC and FB is notorious for tracking mobile users more than I'm comfortable with. Two birds with one stone.
 
 **Bottom Line**
 - x/10
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg0NTgyNDMsMTQwNDc5NjMzNSwxNz
-Y4MTc5NDg1XX0=
+eyJoaXN0b3J5IjpbLTE0NzQzOTY3MDcsLTE0OTg0NTgyNDMsMT
+QwNDc5NjMzNSwxNzY4MTc5NDg1XX0=
 -->
