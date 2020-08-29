@@ -11,13 +11,13 @@
 - Be deliberate when signing up for any sort of social media / news / digital life stuff.
 	- What do I want to get out of this?
 	- How much time do I want to spend on it on an ongoing basis?
-	- How do I know 
+	- How do I know if it's "working?" How do I evaluate that and make changes?
 - I deleted Instagram from my phone because I can both catch up with it when I'm on a PC and FB is notorious for tracking mobile users more than I'm comfortable with. Two birds with one stone.
 
 **Bottom Line**
 - x/10
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDc4NDcyNiwtMTQ5ODQ1ODI0MywxND
-A0Nzk2MzM1LDE3NjgxNzk0ODVdfQ==
+eyJoaXN0b3J5IjpbNTEyNjA3NzcxLC0xNDk4NDU4MjQzLDE0MD
+Q3OTYzMzUsMTc2ODE3OTQ4NV19
 -->
