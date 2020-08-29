@@ -1,4 +1,4 @@
-## The Manager's Path
+## The Manager's Path (2018ish)
 
 **Main Takeaways**
 - 1:1s that don't suck are hugely important. 
@@ -27,6 +27,6 @@
 **Bottom Line**
 - 9/10. Probably the most practical "how to career" book for software engineers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTAyOTQ4LDI1MzA1NzQxMiwtMTQ4NT
-c2MTg1Ml19
+eyJoaXN0b3J5IjpbMTYwMzMzMjYwNCw3NTE1MDI5NDgsMjUzMD
+U3NDEyLC0xNDg1NzYxODUyXX0=
 -->
