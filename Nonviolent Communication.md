@@ -1,4 +1,4 @@
-## Nonviolent Communication
+## Nonviolent Communication (August 2020)
 
 **Main Takeaways**
 - Empathy is a major theme - similar feel to it that Radical Candor's "give a damn" point.
@@ -22,6 +22,6 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTMxMTIzOCwtMTA0NDE0NTIzOCw0MT
-A5MDExMjUsMTUzOTI5NTQ3M119
+eyJoaXN0b3J5IjpbMTkxNzk0ODkxNCwtNzYxMzExMjM4LC0xMD
+Q0MTQ1MjM4LDQxMDkwMTEyNSwxNTM5Mjk1NDczXX0=
 -->
