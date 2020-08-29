@@ -1,4 +1,4 @@
-## How to Read a Book
+## How to Read a Book (July 2020)
 
 **Main Takeaways** 
 - Don't skip the table of contents. It's like having a roadmap ahead of you and lets you know the structure of what you're reading before you really start.
@@ -21,6 +21,6 @@
 **Bottom Line**
 - 3/10, emphasizing that that reflects my personal attitude toward the book and not a universal judgement on it. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophical book instead of a practical one. Even philosophically, it wasn't particularly interesting. Yes, books are for exchanging information, and the reader has to figure out what the author is attempting to say. It doesn't take 20 pages of fluff to express that concept along with another 5 about how the reader generally can't respond to the author, because it's a book. Oi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMyNjcyODcsMTUxNDAxMTUwMiw0Nj
-czNzUxOTQsMTU4MjU5NzMyMyw2MTA5OTEwNTNdfQ==
+eyJoaXN0b3J5IjpbLTI3NDM0Mjk4NiwxNTE0MDExNTAyLDQ2Nz
+M3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1M119
 -->
