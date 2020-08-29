@@ -1,4 +1,4 @@
-## Weapons of Math Destruction
+## Weapons of Math Destruction (June 2020)
 
 **Main Takeaways**
 - Data science is all about creating models to represent solutions, but you have to be pretty careful about what you're trying to test for. Examples:
@@ -23,7 +23,7 @@
 - Really reinforced the idea of being responsible about what models are built for and being careful about how they're optimizing, then takes it to the next level with potential solutions around the Asimov's rules, being really cautious about where these models are being used and demanding transparency, etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDA2NzYsLTg3MTI1OTIwNiwxOTY4Mz
-c4MTU2LDQ1MDA1NTE2MCwtODEyNTYxMDQwLDM0MzUyMDQxOSwx
-NjMwODkzODgyXX0=
+eyJoaXN0b3J5IjpbNzA2ODM2ODc3LDg5MjAwNjc2LC04NzEyNT
+kyMDYsMTk2ODM3ODE1Niw0NTAwNTUxNjAsLTgxMjU2MTA0MCwz
+NDM1MjA0MTksMTYzMDg5Mzg4Ml19
 -->
