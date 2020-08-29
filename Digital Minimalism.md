@@ -3,7 +3,8 @@
 
 **Main Takeaways**
 - There's an ROI with all of our digital lives. Seek to optimize.
-- Too much online stuff is isolating and depressing.
+- Too much online stuff is isolating and depressing. Don't be obsessed with getting Facebook likes. Don't fall into the trap of losing massive amounts of time because there are small benefits with platforms like Twitter and Reddit.
+- Amish arne't luddites; they're DELIBERATE in which technologies they use and don't use. e.g. - cars aren't allowed because it eats away from families spending time together, visiting the sick in the community, etc.
 
 **What can I do with this?**
 - I like the angle of being really deliberate about ROI of online stuff.
@@ -12,5 +13,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NDYxNjQyLDE3NjgxNzk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDAzNjMzNTIsMTc2ODE3OTQ4NV19
 -->
