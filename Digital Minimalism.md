@@ -1,5 +1,5 @@
 
-## Digital Minimalism
+## Digital Minimalism (August 2020)
 
 **Main Takeaways**
 - There's an ROI with all of our digital lives. Seek to optimize.
@@ -12,7 +12,7 @@
 
 **Bottom Line**
 - x/10
-- 
+- General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc5NTY5NTcsMTc2ODE3OTQ4NV19
+eyJoaXN0b3J5IjpbMTQwNDc5NjMzNSwxNzY4MTc5NDg1XX0=
 -->
