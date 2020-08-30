@@ -7,6 +7,8 @@
 - Amish aren't luddites; they're DELIBERATE in which technologies they use and don't use. e.g. - cars aren't allowed because it eats away from families spending time together, visiting the sick in the community, etc.
 - DECLUTTER STEPS:
 	- STEP 1: Define your technology rules
+		- Try to get away from completely optional stuff
+		- It's OK to set qualifiers for some things ("Operating Procedures") - e.g., I'll only access Instagram from a PC
 	- STEP 2: Take a 30 day break
 	- STEP 3: Reintroduce technology
 
@@ -22,6 +24,7 @@
 - x/10
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDIwMjQxMywtMTA5MjgyMzE2MiwtMT
-Q5ODQ1ODI0MywxNDA0Nzk2MzM1LDE3NjgxNzk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTY1MDU2NTM5LDE0NjAyMDI0MTMsLTEwOT
+I4MjMxNjIsLTE0OTg0NTgyNDMsMTQwNDc5NjMzNSwxNzY4MTc5
+NDg1XX0=
 -->
