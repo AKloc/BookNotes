@@ -13,6 +13,7 @@
 		- Don't just stop using certain tech, fill the newly-freed time up with good stuff like reading books, making career investments, etc
 	- STEP 3: Reintroduce technology
 		- Deliberately. Be picky about what you allow back.
+		- "How do I maximize the benefits and minimize the harm?"
 
 **What can I do with this?**
 - I like the angle of being really deliberate about ROI of online stuff.
@@ -26,7 +27,7 @@
 - x/10
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE3OTc5MTksLTY1MDU2NTM5LDE0Nj
-AyMDI0MTMsLTEwOTI4MjMxNjIsLTE0OTg0NTgyNDMsMTQwNDc5
-NjMzNSwxNzY4MTc5NDg1XX0=
+eyJoaXN0b3J5IjpbLTE5NTA2NTI2NjAsLTEwNDE3OTc5MTksLT
+Y1MDU2NTM5LDE0NjAyMDI0MTMsLTEwOTI4MjMxNjIsLTE0OTg0
+NTgyNDMsMTQwNDc5NjMzNSwxNzY4MTc5NDg1XX0=
 -->
