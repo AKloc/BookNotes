@@ -22,13 +22,17 @@
 	- How much time do I want to spend on it on an ongoing basis?
 	- How do I know if it's "working?" How do I evaluate that and make changes?
 - I deleted Instagram from my phone because I can both catch up with it when I'm on a PC and FB is notorious for tracking mobile users more than I'm comfortable with. Two birds with one stone.
+- I installed an app that tracks how often I unlock my phone and how much time I spend in apps.
+- I'm seriously considering deleting Reddit from my phone.
+- SHOULD: Find a hobby that's "physical" and spend time on it.
 
 **Bottom Line**
-- x/10
+- 9.5/10
+- Very eloquent, very readable, ver
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDczNjg3OCwtMTk1MDY1MjY2MCwtMT
-A0MTc5NzkxOSwtNjUwNTY1MzksMTQ2MDIwMjQxMywtMTA5Mjgy
-MzE2MiwtMTQ5ODQ1ODI0MywxNDA0Nzk2MzM1LDE3NjgxNzk0OD
-VdfQ==
+eyJoaXN0b3J5IjpbLTE1NjcxOTQ0MDgsLTE5NTA2NTI2NjAsLT
+EwNDE3OTc5MTksLTY1MDU2NTM5LDE0NjAyMDI0MTMsLTEwOTI4
+MjMxNjIsLTE0OTg0NTgyNDMsMTQwNDc5NjMzNSwxNzY4MTc5ND
+g1XX0=
 -->
