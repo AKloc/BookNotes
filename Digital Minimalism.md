@@ -14,6 +14,9 @@
 	- STEP 3: Reintroduce technology
 		- Deliberately. Be picky about what you allow back.
 		- "How do I maximize the benefits and minimize the harm?"
+- The general concept of the "attention economy." 
+	- "Your time = their money."
+	- Who is going to look back on the endless nights refreshing Facebook / Reddit / Twitter and say "That was completely worth it!"
 
 **What can I do with this?**
 - I like the angle of being really deliberate about ROI of online stuff.
@@ -32,8 +35,8 @@
 - Very eloquent, very readable, pacing is great, doesn't slog.
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDU0ODg4MSwtMTk1MDY1MjY2MCwtMT
-A0MTc5NzkxOSwtNjUwNTY1MzksMTQ2MDIwMjQxMywtMTA5Mjgy
-MzE2MiwtMTQ5ODQ1ODI0MywxNDA0Nzk2MzM1LDE3NjgxNzk0OD
-VdfQ==
+eyJoaXN0b3J5IjpbLTEwNDYwMTgxMzgsLTE5NTA2NTI2NjAsLT
+EwNDE3OTc5MTksLTY1MDU2NTM5LDE0NjAyMDI0MTMsLTEwOTI4
+MjMxNjIsLTE0OTg0NTgyNDMsMTQwNDc5NjMzNSwxNzY4MTc5ND
+g1XX0=
 -->
