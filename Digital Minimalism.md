@@ -25,14 +25,15 @@
 - I installed an app that tracks how often I unlock my phone and how much time I spend in apps.
 - I'm seriously considering deleting Reddit from my phone.
 - SHOULD: Find a hobby that's "physical" and spend time on it.
+- SHOULD: Create a house to-do list that I can burn through that would lend itself to some of those "feeling accomplished" days.
 
 **Bottom Line**
 - 9.5/10
-- Very eloquent, very readable, ver
+- Very eloquent, very readable, pacing is great, doesn't slog.
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcxOTQ0MDgsLTE5NTA2NTI2NjAsLT
-EwNDE3OTc5MTksLTY1MDU2NTM5LDE0NjAyMDI0MTMsLTEwOTI4
-MjMxNjIsLTE0OTg0NTgyNDMsMTQwNDc5NjMzNSwxNzY4MTc5ND
-g1XX0=
+eyJoaXN0b3J5IjpbMTkzMDU0ODg4MSwtMTk1MDY1MjY2MCwtMT
+A0MTc5NzkxOSwtNjUwNTY1MzksMTQ2MDIwMjQxMywtMTA5Mjgy
+MzE2MiwtMTQ5ODQ1ODI0MywxNDA0Nzk2MzM1LDE3NjgxNzk0OD
+VdfQ==
 -->
