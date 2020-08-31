@@ -17,7 +17,7 @@
 
 **What can I do with this?**
 - I like the angle of being really deliberate about ROI of online stuff.
-- Be deliberate when signing up for any sort of social media / news / digital life stuff.
+- Going forward - be intentional and deliberate when signing up for any sort of social media / news / digital life stuff.
 	- What do I want to get out of this?
 	- How much time do I want to spend on it on an ongoing basis?
 	- How do I know if it's "working?" How do I evaluate that and make changes?
@@ -27,7 +27,8 @@
 - x/10
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA2NTI2NjAsLTEwNDE3OTc5MTksLT
-Y1MDU2NTM5LDE0NjAyMDI0MTMsLTEwOTI4MjMxNjIsLTE0OTg0
-NTgyNDMsMTQwNDc5NjMzNSwxNzY4MTc5NDg1XX0=
+eyJoaXN0b3J5IjpbMTk5NDczNjg3OCwtMTk1MDY1MjY2MCwtMT
+A0MTc5NzkxOSwtNjUwNTY1MzksMTQ2MDIwMjQxMywtMTA5Mjgy
+MzE2MiwtMTQ5ODQ1ODI0MywxNDA0Nzk2MzM1LDE3NjgxNzk0OD
+VdfQ==
 -->
