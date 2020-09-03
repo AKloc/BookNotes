@@ -17,7 +17,7 @@
  - Some of the discussion scenarios here are wild. I think the reaction you would get by saying, over and over, "It sounds like you are x about y" would probably have most people shutting you out.
 	- There's a lot of r/cringe type sprinkled here. "And then everyone started crying because they *FINALLY* got it. Thank you, NVC!!!"
 	- Future self: If you re-read this book, skip the dialogues.
- - Tr
+ - Empathize and forgive yourself.
  - Punitive punishments are generally lame.
  - Dealing with anger:
 	 1. The other person isn't responsible for your anger.
@@ -33,9 +33,9 @@
 **Bottom Line**
  - 7.5/10
  - The general themes are great - empathizing and letting people know that you're empathizing, truly, is very powerful. Have to avoid judging.
- - Some of the quoted exchanges seem a little contrived.
+ - Some of the quoted exchanges are contrived, cringy, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjAwMDgwOCwxOTE3OTQ4OTE0LC03Nj
-EzMTEyMzgsLTEwNDQxNDUyMzgsNDEwOTAxMTI1LDE1MzkyOTU0
-NzNdfQ==
+eyJoaXN0b3J5IjpbNzY3NDM5NzcwLDE5MTc5NDg5MTQsLTc2MT
+MxMTIzOCwtMTA0NDE0NTIzOCw0MTA5MDExMjUsMTUzOTI5NTQ3
+M119
 -->
