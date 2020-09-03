@@ -20,8 +20,11 @@
 - Using observations instead of evaluations could probably help out in a lot of my personal conversations.
 
 **Bottom Line**
-- x/10
+- 7.5/10
+- The general themes are great - empathizing and letting people know that you're empathizing, truly, is very powerful. Have to avoid judging.
+- Some of the quoted exchanges seem a little overblown
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzk0ODkxNCwtNzYxMzExMjM4LC0xMD
-Q0MTQ1MjM4LDQxMDkwMTEyNSwxNTM5Mjk1NDczXX0=
+eyJoaXN0b3J5IjpbLTQ3NjM5NTA4MCwxOTE3OTQ4OTE0LC03Nj
+EzMTEyMzgsLTEwNDQxNDUyMzgsNDEwOTAxMTI1LDE1MzkyOTU0
+NzNdfQ==
 -->
