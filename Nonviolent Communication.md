@@ -17,7 +17,9 @@
 - Some of the discussion scenarios here are wild. I think the reaction you would get by saying, over and over, "It sounds like you are x about y" would probably have most people shutting you out.
 	- There's a lot of r/cringe type sprinkled here. "And then everyone started crying because they *FINALLY* got it. Thank you, NVC!!!"
 	- Future self: If you re-read this book, skip the dialogues.
-- Giving praise: Be specific. If you don't actually explain what the praise is, it comes off as demeaning - "Hey,y ou 
+- Punitive punishments are generally lame.
+- 
+- Giving praise: Be specific. If you don't actually explain what the praise is, it comes off as demeaning - "Hey, you should feel good because I'm in a position of judgment."
 
 **What can I do with this?**
 - I really like the idea of using "I feel disappointed / angry that you did x because y" more with my kids to explain why what I'm telling them to do is ultimately important.
@@ -30,7 +32,7 @@
 - The general themes are great - empathizing and letting people know that you're empathizing, truly, is very powerful. Have to avoid judging.
 - Some of the quoted exchanges seem a little contrived.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDYxMjIyMiwxOTE3OTQ4OTE0LC03Nj
-EzMTEyMzgsLTEwNDQxNDUyMzgsNDEwOTAxMTI1LDE1MzkyOTU0
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTEzODY4ODA1MjcsMTkxNzk0ODkxNCwtNz
+YxMzExMjM4LC0xMDQ0MTQ1MjM4LDQxMDkwMTEyNSwxNTM5Mjk1
+NDczXX0=
 -->
