@@ -1,6 +1,7 @@
 ## Nonviolent Communication (August 2020)
 
 **Main Takeaways**
+ - CHEAT CODE: Read the summaries at the end of each chapter.
  - Empathy is a major theme - similar feel to it that Radical Candor's "give a damn" point.
  - "Life Alienating Communication" that you want to generally avoid:
 	- Comparisons."How to Make yourself Miserable": Compare yourself to other people. Take a picture of yourself and compare it to celebrities. Humorous, but main point is that comparisons stink.
@@ -33,9 +34,10 @@
 **Bottom Line**
  - 7.5/10
  - The general themes are great - empathizing and letting people know that you're empathizing, truly, is very powerful. Have to avoid judging.
- - Some of the quoted exchanges are contrived, cringy, 
+ - Some of the quoted exchanges are contrived, cringy, and probably not literally applicable for everyday scenarios vs. the professional contexts the author was using them in most of the time.
+ - Book is really nicely organized. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NDM5NzcwLDE5MTc5NDg5MTQsLTc2MT
+eyJoaXN0b3J5IjpbMjg4MzM3NzgyLDE5MTc5NDg5MTQsLTc2MT
 MxMTIzOCwtMTA0NDE0NTIzOCw0MTA5MDExMjUsMTUzOTI5NTQ3
 M119
 -->
