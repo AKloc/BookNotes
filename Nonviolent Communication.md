@@ -14,6 +14,7 @@
 	- There's a difference between what we FEEL and what we THINK we are.
 	- e.g.: "I feel inadequate as a guitar player" isn't really what we're feeling. "I feel disappointed in myself as a guitar player" is. "Inadequate" isn't a feeling. Frustrated / disappointed / frustrated is.
 	- Watch out for words like ignored / disrupted / rejected / unwanted / pressured. They're not OUR feelings, they're words that we use to INTERPRET others.
+- Some of the discussion scenarios here are wild. I think the reaction you would get by saying, over and over, "It sounds like you are x about y"
 
 **What can I do with this?**
 - I really like the idea of using "I feel disappointed / angry that you did x because y" more with my kids to explain why what I'm telling them to do is ultimately important.
@@ -22,9 +23,9 @@
 **Bottom Line**
 - 7.5/10
 - The general themes are great - empathizing and letting people know that you're empathizing, truly, is very powerful. Have to avoid judging.
-- Some of the quoted exchanges seem a little overblown
+- Some of the quoted exchanges seem a little contrived.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjM5NTA4MCwxOTE3OTQ4OTE0LC03Nj
-EzMTEyMzgsLTEwNDQxNDUyMzgsNDEwOTAxMTI1LDE1MzkyOTU0
-NzNdfQ==
+eyJoaXN0b3J5IjpbNjUwMDM2Mzg3LDE5MTc5NDg5MTQsLTc2MT
+MxMTIzOCwtMTA0NDE0NTIzOCw0MTA5MDExMjUsMTUzOTI5NTQ3
+M119
 -->
