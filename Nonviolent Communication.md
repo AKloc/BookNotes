@@ -17,18 +17,20 @@
 - Some of the discussion scenarios here are wild. I think the reaction you would get by saying, over and over, "It sounds like you are x about y" would probably have most people shutting you out.
 	- There's a lot of r/cringe type sprinkled here. "And then everyone started crying because they *FINALLY* got it. Thank you, NVC!!!"
 	- Future self: If you re-read this book, skip the dialogues.
+- Giving praise: Be specific. If you don't actually explain what the praise is, it comes off as demeaning - "Hey,y ou 
 
 **What can I do with this?**
 - I really like the idea of using "I feel disappointed / angry that you did x because y" more with my kids to explain why what I'm telling them to do is ultimately important.
 - Using observations instead of evaluations could probably help out in a lot of my personal conversations.
-- I think I'll be more cognizant of when I'm making judgments. e.g., road ra
+- I think I'll be more cognizant of when I'm making judgments. e.g., road rage, "that person must be insane," etc.
+- The section about giving praise, but to be careful to be specific with it and what itch it scratched, is great advice.
 
 **Bottom Line**
 - 7.5/10
 - The general themes are great - empathizing and letting people know that you're empathizing, truly, is very powerful. Have to avoid judging.
 - Some of the quoted exchanges seem a little contrived.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDM5MjQ2MCwxOTE3OTQ4OTE0LC03Nj
+eyJoaXN0b3J5IjpbLTUwNDYxMjIyMiwxOTE3OTQ4OTE0LC03Nj
 EzMTEyMzgsLTEwNDQxNDUyMzgsNDEwOTAxMTI1LDE1MzkyOTU0
 NzNdfQ==
 -->
