@@ -1,7 +1,7 @@
 ## Speed Reading (August 2020)
 
 **Purpose For Reading**
-- What am I hoping to get out of reading this?
+- I hope to pick up a f
 
 **Main Takeaways**
 - Have a legitimate purpose before reading a book. What is it I want to get out of this?
@@ -12,5 +12,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTI0MzI2NywtMzYxMjYyODk4XX0=
+eyJoaXN0b3J5IjpbMTMwNDExOTE2NSwtMzYxMjYyODk4XX0=
 -->
