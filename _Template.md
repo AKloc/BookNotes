@@ -1,5 +1,8 @@
 ## Book Title
 
+**Purpose For Reading**
+- What am I hoping to get out of reading this?
+ 
 **Main Takeaways**
 - What are the major themes / points made?
 
@@ -9,5 +12,6 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDQzMDUyLDE1ODI1OTczMjNdfQ==
+eyJoaXN0b3J5IjpbMTM4MjAwNzg5NywtNzMwNDMwNTIsMTU4Mj
+U5NzMyM119
 -->
