@@ -27,9 +27,12 @@
 
 **Bottom Line**
 - 8.5/10
+- The chunking strategy is something I'm already using and I believe it's working.
+- The author gets to the point quickly. The content was all practical and never went on for too long.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTIxNjY0OCwxOTk4NTAxNjg5LC03OD
-IxNzg4MjAsODM1MjExNzc3LDUyMzgzODg1LC0xNzY5NDg3MDAw
-LC00NjE5NzIzNDgsLTE1NDQ3MjE4MTYsMTMwNDExOTE2NSwtMz
-YxMjYyODk4XX0=
+eyJoaXN0b3J5IjpbLTE5MTg1MTEwNDYsMTk5ODUwMTY4OSwtNz
+gyMTc4ODIwLDgzNTIxMTc3Nyw1MjM4Mzg4NSwtMTc2OTQ4NzAw
+MCwtNDYxOTcyMzQ4LC0xNTQ0NzIxODE2LDEzMDQxMTkxNjUsLT
+M2MTI2Mjg5OF19
 -->
