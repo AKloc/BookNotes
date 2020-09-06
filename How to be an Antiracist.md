@@ -1,7 +1,7 @@
 ## How to be an Antiracist (June 2020)
 
 **Purpose For Reading**
-- Given
+- I naively believed that systemic racism was not as large of an issue as current events have recently made apparent and wanted to 
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -12,5 +12,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE3MTEzOTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDQzODUzMF19
 -->
