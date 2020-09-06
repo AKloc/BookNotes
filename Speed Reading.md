@@ -26,13 +26,13 @@
 - I'm going to continue to write these little documents for each book that I read, as I read it.
 
 **Bottom Line**
-- 8.5/10
-- The chunking strategy is something I'm already using and I believe it's working.
+- 9/10
+- Most importantly, I think it's legit. The chunking strategy is something I'm already using and I believe it's working for me now and that I have a path forward to further increase my reading speed if I want to go down it.
 - The author gets to the point quickly. The content was all practical and never went on for too long. It probably would've been easy for the author to flourish with the joys of reading tons of books or to talk about how successful his methods are ad nauseum... none of that here.
 - Production quality on my copy of the book was low. It looked like someone basically dumped a Word doc into a book, but... who cares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAzOTU2NDIsMTk5ODUwMTY4OSwtNz
-gyMTc4ODIwLDgzNTIxMTc3Nyw1MjM4Mzg4NSwtMTc2OTQ4NzAw
-MCwtNDYxOTcyMzQ4LC0xNTQ0NzIxODE2LDEzMDQxMTkxNjUsLT
-M2MTI2Mjg5OF19
+eyJoaXN0b3J5IjpbMTAyNjMxNjk2NiwxOTk4NTAxNjg5LC03OD
+IxNzg4MjAsODM1MjExNzc3LDUyMzgzODg1LC0xNzY5NDg3MDAw
+LC00NjE5NzIzNDgsLTE1NDQ3MjE4MTYsMTMwNDExOTE2NSwtMz
+YxMjYyODk4XX0=
 -->
