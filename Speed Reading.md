@@ -9,7 +9,7 @@
 	- STRATEGY 1: Focus on spaces instead of individual words.
 	- STRATEGY 2: Focus on chunks 6-7 words apart. This seems to work well for me. For each line, start about 20% of the way in, then jump to 80%, then go to the next line.
 	- Make sure you're not "reading aloud" in your head. It slows you down.
-	- 
+	- Don't stop. Keep going. The brain will generally 
 
 
 **What can I do with this?**
@@ -18,7 +18,8 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjE3ODgyMCw4MzUyMTE3NzcsNTIzOD
-M4ODUsLTE3Njk0ODcwMDAsLTQ2MTk3MjM0OCwtMTU0NDcyMTgx
-NiwxMzA0MTE5MTY1LC0zNjEyNjI4OThdfQ==
+eyJoaXN0b3J5IjpbLTE3NTc1NjMxODUsLTc4MjE3ODgyMCw4Mz
+UyMTE3NzcsNTIzODM4ODUsLTE3Njk0ODcwMDAsLTQ2MTk3MjM0
+OCwtMTU0NDcyMTgxNiwxMzA0MTE5MTY1LC0zNjEyNjI4OThdfQ
+==
 -->
