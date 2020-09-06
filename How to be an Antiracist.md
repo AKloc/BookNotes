@@ -5,8 +5,10 @@
  
 **Main Takeaways**
 - "Not being a racist" is a copout. You either support policies that support racism or you're against them.
+	- "The opposite of 'racist' isn't 'not racist.
 - Individual acts can be racist or antiracist, and no one is perfect.
 - School taxes, standardized tests where you can pay for classes that teach how to take the test more effectively are generally suspect.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -14,5 +16,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njc1ODI4OCwxOTg5MDA3NjI2XX0=
+eyJoaXN0b3J5IjpbMTExMzcxOTI5OCwxOTg5MDA3NjI2XX0=
 -->
