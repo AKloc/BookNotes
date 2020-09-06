@@ -6,9 +6,11 @@
 **Main Takeaways**
 - Have a legitimate purpose before reading a book. What is it I want to get out of this? Use that to determine how careful to read.
 - IN GENERAL: It's all in the eyes and using more out of your peripheral vision.
-	- Make sure you're not "reading aloud" in your head. It slows you down.
 	- STRATEGY 1: Focus on spaces instead of individual words.
-	- STRATEGY 2: Focus on chunks 6-7 words apart. This seems to work well for me. For each line, start at 
+	- STRATEGY 2: Focus on chunks 6-7 words apart. This seems to work well for me. For each line, start about 20% of the way in, then jump to 80%, then go to the next line.
+	- Make sure you're not "reading aloud" in your head. It slows you down.
+	- 
+
 
 **What can I do with this?**
 - I'm adding a field for "Purpose of reading" in my template notes.
@@ -16,7 +18,7 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MjExNzc3LDUyMzgzODg1LC0xNzY5ND
-g3MDAwLC00NjE5NzIzNDgsLTE1NDQ3MjE4MTYsMTMwNDExOTE2
-NSwtMzYxMjYyODk4XX0=
+eyJoaXN0b3J5IjpbLTc4MjE3ODgyMCw4MzUyMTE3NzcsNTIzOD
+M4ODUsLTE3Njk0ODcwMDAsLTQ2MTk3MjM0OCwtMTU0NDcyMTgx
+NiwxMzA0MTE5MTY1LC0zNjEyNjI4OThdfQ==
 -->
