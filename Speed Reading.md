@@ -8,7 +8,7 @@
 - IN GENERAL: It's all in the eyes and using more out of your peripheral vision.
 	- Make sure you're not "reading aloud" in your head. It slows you down.
 	- STRATEGY 1: Focus on spaces instead of individual words.
-	- STRATEGY 2: Focus on chunks 6-7 words apart. This seems t
+	- STRATEGY 2: Focus on chunks 6-7 words apart. This seems to work well for me. For each line, start at 
 
 **What can I do with this?**
 - I'm adding a field for "Purpose of reading" in my template notes.
@@ -16,7 +16,7 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgyMTMwMDMsNTIzODM4ODUsLTE3Nj
-k0ODcwMDAsLTQ2MTk3MjM0OCwtMTU0NDcyMTgxNiwxMzA0MTE5
-MTY1LC0zNjEyNjI4OThdfQ==
+eyJoaXN0b3J5IjpbODM1MjExNzc3LDUyMzgzODg1LC0xNzY5ND
+g3MDAwLC00NjE5NzIzNDgsLTE1NDQ3MjE4MTYsMTMwNDExOTE2
+NSwtMzYxMjYyODk4XX0=
 -->
