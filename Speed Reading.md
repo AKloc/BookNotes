@@ -14,16 +14,22 @@
 - Advanced speed:
 	- All about increasing periphery even more - ideally, you'd look down the middle of the page and just move your eyes vertically rather than side to side. 
 	- Do eye exercises (there are five listed)
+- Increasing comprehension:
+	- Don't daydream.
+	- Visualize the content in your head.
+	- Occasionally ask yourself to sum up in your head what you just read - this helps the brain to retain info.
 
 
 **What can I do with this?**
 - I'm adding a field for "Purpose of reading" in my template notes.
+- I believe the chunking strategy actually works really for me
+- 
 
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTA1Njk2MiwxOTk4NTAxNjg5LC03OD
-IxNzg4MjAsODM1MjExNzc3LDUyMzgzODg1LC0xNzY5NDg3MDAw
-LC00NjE5NzIzNDgsLTE1NDQ3MjE4MTYsMTMwNDExOTE2NSwtMz
-YxMjYyODk4XX0=
+eyJoaXN0b3J5IjpbODk3ODIzMDc2LDE5OTg1MDE2ODksLTc4Mj
+E3ODgyMCw4MzUyMTE3NzcsNTIzODM4ODUsLTE3Njk0ODcwMDAs
+LTQ2MTk3MjM0OCwtMTU0NDcyMTgxNiwxMzA0MTE5MTY1LC0zNj
+EyNjI4OThdfQ==
 -->
