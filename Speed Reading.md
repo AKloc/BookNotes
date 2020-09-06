@@ -28,10 +28,10 @@
 **Bottom Line**
 - 8.5/10
 - The chunking strategy is something I'm already using and I believe it's working.
-- The author gets to the point quickly. The content was all practical and never went on for too long.
-- 
+- The author gets to the point quickly. The content was all practical and never went on for too long. It probably would've been easy for the author to flourish with the joys of reading tons of books or to talk about how successful his methods are ad nauseum... none of that here.
+- Production quality on my copy of the book was low. It looked like someone basically dumped a Word doc into a book, but... who cares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg1MTEwNDYsMTk5ODUwMTY4OSwtNz
+eyJoaXN0b3J5IjpbLTE0ODAzOTU2NDIsMTk5ODUwMTY4OSwtNz
 gyMTc4ODIwLDgzNTIxMTc3Nyw1MjM4Mzg4NSwtMTc2OTQ4NzAw
 MCwtNDYxOTcyMzQ4LC0xNTQ0NzIxODE2LDEzMDQxMTkxNjUsLT
 M2MTI2Mjg5OF19
