@@ -8,9 +8,12 @@
 - IN GENERAL: It's all in the eyes and using more out of your peripheral vision.
 	- STRATEGY 1: Focus on spaces instead of individual words.
 	- STRATEGY 2: Focus on chunks 6-7 words apart. This seems to work well for me. For each line, start about 20% of the way in, then jump to 80%, then go to the next line.
-	- Make sure you're not "reading aloud" in your head. It slows you down.
+	- Make sure you're not "reading aloud" in your head. It slows you way down.
 	- Don't stop. Keep going. The brain will generally catch up.
 	- It's OK to slow down depending on content.
+- Advanced speed:
+	- All about increasing periphery even more - ideally, you'd look down the middle of the page and just move your eyes vertically rather than side to side. 
+	- Do eye exercises (there are five listed)
 
 
 **What can I do with this?**
@@ -19,7 +22,8 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODUwMTY4OSwtNzgyMTc4ODIwLDgzNT
-IxMTc3Nyw1MjM4Mzg4NSwtMTc2OTQ4NzAwMCwtNDYxOTcyMzQ4
-LC0xNTQ0NzIxODE2LDEzMDQxMTkxNjUsLTM2MTI2Mjg5OF19
+eyJoaXN0b3J5IjpbMTcwMTA1Njk2MiwxOTk4NTAxNjg5LC03OD
+IxNzg4MjAsODM1MjExNzc3LDUyMzgzODg1LC0xNzY5NDg3MDAw
+LC00NjE5NzIzNDgsLTE1NDQ3MjE4MTYsMTMwNDExOTE2NSwtMz
+YxMjYyODk4XX0=
 -->
