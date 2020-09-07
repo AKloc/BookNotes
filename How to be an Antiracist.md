@@ -10,7 +10,7 @@
 - School taxes, standardized tests where you can pay for classes that teach how to take the test more effectively are generally suspect.
 - Race isn't really "real" - black isn't a race. Yet we fixate on it.
 - On things like affirmative action - "the defining question is whether the discrimination is creating equality or inequality."
-- "I d
+- "I don't see color" is the biggest bullshit that ever was.
 
 **What can I do with this?**
 - This book firmed up a lot of nebulous concepts I had in my head.
@@ -20,6 +20,6 @@
 - This book firmed up a lot of nebulous concepts I had in my head.
 - Really like the take 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDQxMTgzMSwtMjA3NTA4NzE3MCwxOT
+eyJoaXN0b3J5IjpbMTg4MjY2NTQyOCwtMjA3NTA4NzE3MCwxOT
 g5MDA3NjI2XX0=
 -->
