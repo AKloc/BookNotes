@@ -8,7 +8,8 @@
 	- "The opposite of 'racist' isn't 'not racist.'"
 - Individual acts can be racist or antiracist, and no one is perfect.
 - School taxes, standardized tests where you can pay for classes that teach how to take the test more effectively are generally suspect.
-- Race isn't really "real" - black isn't a race. Yet we fixate on it. That isn't necessarily 
+- Race isn't really "real" - black isn't a race. Yet we fixate on it.
+- On things like affirmative action - "the defining question is whether the discrimination is creating equality or inequality." It'
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -16,5 +17,6 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUwODcxNzAsMTk4OTAwNzYyNl19
+eyJoaXN0b3J5IjpbLTEzMzIzNDQ3MTYsLTIwNzUwODcxNzAsMT
+k4OTAwNzYyNl19
 -->
