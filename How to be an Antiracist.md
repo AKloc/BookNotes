@@ -18,8 +18,8 @@
 **Bottom Line**
 - 8/10
 - This book firmed up a lot of nebulous concepts I had in my head.
-- Really like the take 
+- Really like the pragmatic takes on no one being perfect, that individual actions can promote or 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjY2NTQyOCwtMjA3NTA4NzE3MCwxOT
+eyJoaXN0b3J5IjpbLTc0ODA5MzgzOSwtMjA3NTA4NzE3MCwxOT
 g5MDA3NjI2XX0=
 -->
