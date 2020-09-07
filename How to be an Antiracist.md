@@ -18,8 +18,8 @@
 **Bottom Line**
 - 8/10
 - Really like the pragmatic takes on no one being perfect, that individual actions can promote antiracism, and that discrimination isn't always a bad thing if it's promoting equality
-- A little wordy and repetitive at time - some language games played.
+- Only complaint is that it can get a little wordy and repetitive at times - some weird language games played at times where you have to track what word x means to the author
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDAxNTk2OSwtMjA3NTA4NzE3MCwxOT
-g5MDA3NjI2XX0=
+eyJoaXN0b3J5IjpbMjcwMTg5NTYwLC0yMDc1MDg3MTcwLDE5OD
+kwMDc2MjZdfQ==
 -->
