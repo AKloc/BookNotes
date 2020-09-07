@@ -9,14 +9,17 @@
 - Individual acts can be racist or antiracist, and no one is perfect.
 - School taxes, standardized tests where you can pay for classes that teach how to take the test more effectively are generally suspect.
 - Race isn't really "real" - black isn't a race. Yet we fixate on it.
-- On things like affirmative action - "the defining question is whether the discrimination is creating equality or inequality." It'
+- On things like affirmative action - "the defining question is whether the discrimination is creating equality or inequality."
+- "I d
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- This book firmed up a lot of nebulous concepts I had in my head.
 
 **Bottom Line**
-- x/10
+- 8/10
+- This book firmed up a lot of nebulous concepts I had in my head.
+- Really like the take 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIzNDQ3MTYsLTIwNzUwODcxNzAsMT
-k4OTAwNzYyNl19
+eyJoaXN0b3J5IjpbMTAwMDQxMTgzMSwtMjA3NTA4NzE3MCwxOT
+g5MDA3NjI2XX0=
 -->
