@@ -17,9 +17,9 @@
 
 **Bottom Line**
 - 8/10
-- This book firmed up a lot of nebulous concepts I had in my head.
-- Really like the pragmatic takes on no one being perfect, that individual actions can promote or 
+- Really like the pragmatic takes on no one being perfect, that individual actions can promote antiracism, and that discrimination isn't always a bad thing if it's promoting equality
+- A little wordy and repetitive at time - some language games played.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODA5MzgzOSwtMjA3NTA4NzE3MCwxOT
+eyJoaXN0b3J5IjpbLTk2MDAxNTk2OSwtMjA3NTA4NzE3MCwxOT
 g5MDA3NjI2XX0=
 -->
