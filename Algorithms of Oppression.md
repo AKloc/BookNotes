@@ -16,10 +16,10 @@
 
 **Bottom Line**
 - x/10
-- Very academic. Slowly and methodically builds its case... too slowly. 
+- Very academic. Slowly and methodically builds its case... too slowly. Feels unnecessarily elongated.
 - Well-organized. Author quickly states her thesis and her strategy for proving it. Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
 - BUT... where's the meat? Makes the same points numerous times. Search results are important, Google isn't working for the public interest, and the algorithms Google use aren't tuned for socio-economic equalization. What else? What are the solutions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NDM1MzksMTg5NTk1MjIyNiw0MjYyNT
-cyOTIsLTEyMzM1OTEzNjldfQ==
+eyJoaXN0b3J5IjpbLTgyNzc1MjA4LDE4OTU5NTIyMjYsNDI2Mj
+U3MjkyLC0xMjMzNTkxMzY5XX0=
 -->
