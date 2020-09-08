@@ -12,7 +12,7 @@
 - 
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- Not sure. I agreed with the content, but there aren't really any action items to take outside of being convinced that Google isn't driven by
 
 **Bottom Line**
 - x/10
@@ -20,6 +20,6 @@
 - Well-organized. Author quickly states her thesis and her strategy for proving it. Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
 - BUT... where's the meat? Makes the same points numerous times. Search results are important, Google isn't working for the public interest, and the algorithms Google use aren't tuned for socio-economic equalization. What else? What are the solutions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzc1MjA4LDE4OTU5NTIyMjYsNDI2Mj
-U3MjkyLC0xMjMzNTkxMzY5XX0=
+eyJoaXN0b3J5IjpbMTUyMjgxNjMyMSwtODI3NzUyMDgsMTg5NT
+k1MjIyNiw0MjYyNTcyOTIsLTEyMzM1OTEzNjldfQ==
 -->
