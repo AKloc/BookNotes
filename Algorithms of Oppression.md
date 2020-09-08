@@ -5,6 +5,8 @@
  
 **Main Takeaways**
 - There was a time when Googling "black girls" basically only turned up porn - at what point does Google have a responsibility for promoting racist concepts?
+- This is a thorough academic look at Google's search results, particularly as they relate to black women.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -12,5 +14,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NjY5NThdfQ==
+eyJoaXN0b3J5IjpbNTYyMjc1MjM2XX0=
 -->
