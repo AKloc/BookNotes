@@ -19,9 +19,9 @@
 - Very academic. Slowly and methodically builds its case, a little too slowly for me (very objective).
 - Well-organized. Author quickly states her thesis and her strategy for proving it.
 - Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
-- BUT... bland. Makes the same point numerous times. By virtue of buying the book, I likely 
+- BUT... bland. Makes the same point numerous
 - What are the solutions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTk1MjIyNiw0MjYyNTcyOTIsLTEyMz
-M1OTEzNjldfQ==
+eyJoaXN0b3J5IjpbLTkzNjYzMTU5MiwxODk1OTUyMjI2LDQyNj
+I1NzI5MiwtMTIzMzU5MTM2OV19
 -->
