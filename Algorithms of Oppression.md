@@ -16,8 +16,8 @@
 
 **Bottom Line**
 - x/10
-- Very academic. Slowly and builds its case.
-- Well-organized. Author quickly states her thesis
+- Very academic. Slowly and methodically builds its case, a little too slowly for me (very objective!).
+- Well-organized. Author quickly states her thesis and her strategy for proving it, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI4OTM2MDJdfQ==
+eyJoaXN0b3J5IjpbNzE2NTI1Njg0XX0=
 -->
