@@ -17,11 +17,10 @@
 **Bottom Line**
 - x/10
 - Very academic. Slowly and methodically builds its case, a little too slowly for me (very objective).
-- Well-organized. Author quickly states her thesis and her strategy for proving it.
-- Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
-- BUT... bland. Makes the same point numerous
+- Well-organized. Author quickly states her thesis and her strategy for proving it. Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
+- BUT... where's the meat? Makes the same point numerous times. Search results are important, Google isn't working for the public interest, and the algori
 - What are the solutions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjYzMTU5MiwxODk1OTUyMjI2LDQyNj
-I1NzI5MiwtMTIzMzU5MTM2OV19
+eyJoaXN0b3J5IjpbLTEwNTE1Mzc1OTgsMTg5NTk1MjIyNiw0Mj
+YyNTcyOTIsLTEyMzM1OTEzNjldfQ==
 -->
