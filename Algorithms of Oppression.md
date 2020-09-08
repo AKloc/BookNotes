@@ -18,7 +18,7 @@
 - x/10
 - Very academic. Slowly and methodically builds its case, a little too slowly for me (very objective!).
 - Well-organized. Author quickly states her thesis and her strategy for proving it.
-- Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination
+- Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwODEzNTgzXX0=
+eyJoaXN0b3J5IjpbLTEyMzM1OTEzNjldfQ==
 -->
