@@ -17,10 +17,10 @@
 - I feel like this will help me identify racist ideas more easily and has further increased my empathy on the topic.
 
 **Bottom Line**
-- 8/10
+- 7/10
 - Really like the pragmatic takes on no one being perfect, that individual actions can promote antiracism, and that discrimination isn't always a bad thing if it's promoting equality
-- Only complaint is that it can get a little wordy and repetitive at times - some weird language games played at times where you have to track what word x means to the author
+- It can get a little wordy and repetitive at times - some weird language games played at times where you have to track what word x means to the author
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk3MjQ4MDgsMjcwMTg5NTYwLC0yMD
-c1MDg3MTcwLDE5ODkwMDc2MjZdfQ==
+eyJoaXN0b3J5IjpbMjA4OTg0MjAzMywyNzAxODk1NjAsLTIwNz
+UwODcxNzAsMTk4OTAwNzYyNl19
 -->
