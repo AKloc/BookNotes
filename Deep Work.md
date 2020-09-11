@@ -6,7 +6,7 @@
 **Main Takeaways**
 - "Shallow": Easy, repeatable, anyone can do it. Ex: checking email. Opening Facebook. Searching the internet. Manually tooling around in spreadsheets for hours at a time.
 - "Deep": Requires sustained concentration. Ex: writing a novel. Putting complex automation behind those same spreadsheets.
-- Thrust of the book is that today's work environment is full of shallow distractions / shallow work
+- Thrust of the book is that today's work environment is full of shallow distractions / shallow work while, at the same time, deep work is becoming increasingly valuable. Understanding this can give you a huge competitive edge and more importantly, help live a more fulfilling life.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -14,5 +14,5 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTQ4NzM3NF19
+eyJoaXN0b3J5IjpbMTc1OTk4NjQ0NV19
 -->
