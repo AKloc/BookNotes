@@ -11,7 +11,7 @@
 - It gets WORDY at some points. I spent 20 minutes reading about the concept that sometimes words mean different things in different contexts.
 - Getting further into the book, it only got worse. 20 pages dedicated to the concept that authors will make important points and then try to back them up with evidence. Who is this for?
 - I threw the towel in about halfway through the book and skimming the remainder. This isn't a practical guide, it's a philosophical interpretation of what books are, the relationship of an author and a reader, etc.
-- The ultimate "level" of reading is a made-up term, "syntopic reading." Despite the book being 350 pages, it only spends 25 of them on the topic, which boils down to "It's when you read multiple books on the same topic, and by the way, if you want to learn more, we have another book on the topic..."
+- The ultimate "level" of reading is a made-up term, "syntopic reading." Despite the book being 350 pages, it only spends 25 of them on the topic, which boils down to "It's when you read multiple books on the same topic, and by the way, if you want to learn more, we have another book on it..."
 
 **What can I do with this?**
 - I'm going to start reading the Table of Contents.
@@ -21,6 +21,7 @@
 **Bottom Line**
 - 3/10, emphasizing that that reflects my personal attitude toward the book and not a universal judgement on it. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophical book instead of a practical one. Even philosophically, it wasn't particularly interesting. Yes, books are for exchanging information, and the reader has to figure out what the author is attempting to say. It doesn't take 20 pages of fluff to express that concept along with another 5 about how the reader generally can't respond to the author, because it's a book. Oi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDM0Mjk4NiwxNTE0MDExNTAyLDQ2Nz
-M3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1M119
+eyJoaXN0b3J5IjpbLTIwNTIxNTc5NDMsLTI3NDM0Mjk4NiwxNT
+E0MDExNTAyLDQ2NzM3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1
+M119
 -->
