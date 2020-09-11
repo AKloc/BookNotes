@@ -19,11 +19,11 @@
 - Basically convinced me that open-sourcing some of these models needs to start happening. We need governance as these become more pervasive. 
 
 **Bottom Line**
-- 9/10.
+- 8/10.
 - Really reinforced the idea of being responsible about what models are built for and being careful about how they're optimizing, then takes it to the next level with potential solutions around the Asimov's rules, being really cautious about where these models are being used and demanding transparency, etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2ODM2ODc3LDg5MjAwNjc2LC04NzEyNT
-kyMDYsMTk2ODM3ODE1Niw0NTAwNTUxNjAsLTgxMjU2MTA0MCwz
-NDM1MjA0MTksMTYzMDg5Mzg4Ml19
+eyJoaXN0b3J5IjpbLTcxMzk1MzQyNiw3MDY4MzY4NzcsODkyMD
+A2NzYsLTg3MTI1OTIwNiwxOTY4Mzc4MTU2LDQ1MDA1NTE2MCwt
+ODEyNTYxMDQwLDM0MzUyMDQxOSwxNjMwODkzODgyXX0=
 -->
