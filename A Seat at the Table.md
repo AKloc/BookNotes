@@ -1,5 +1,4 @@
-
-## A Seat at the Table
+## A Seat at the Table 
 
 **Purpose For Reading**
 - This was recommended by the Liazon book club. The book's subject is about technology leadership / management, which is where I operate 40 hours a week. It would be nice to glean some fresh insights.
@@ -16,6 +15,6 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIyNjc1NzEsLTE1OTkxOTU4OSwtNz
-A1Njc3NjIzXX0=
+eyJoaXN0b3J5IjpbODY3MTIxOTg3LC0xNTk5MTk1ODksLTcwNT
+Y3NzYyM119
 -->
