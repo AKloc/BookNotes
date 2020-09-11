@@ -21,7 +21,7 @@
 
 **What can I do with this?**
 - I like the angle of being really deliberate about ROI of online stuff.
-- Be very cognizant that all of these apps, sites, s
+- Be very cognizant that all of these apps, social media sites, etc are doing everything in their power to keep you in their ecosystems and out of the myriad productive / more-engaging things we COULD be doing
 - Going forward - be intentional and deliberate when signing up for any sort of social media / news / digital life stuff.
 	- What do I want to get out of this?
 	- How much time do I want to spend on it on an ongoing basis?
@@ -38,8 +38,8 @@
 - Has literally, and permanently, changed my attitude towards some of these digital mediums.
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NzQwMDcxLC0xODE2MzAxODY0LC0xMD
-Q2MDE4MTM4LC0xOTUwNjUyNjYwLC0xMDQxNzk3OTE5LC02NTA1
-NjUzOSwxNDYwMjAyNDEzLC0xMDkyODIzMTYyLC0xNDk4NDU4Mj
-QzLDE0MDQ3OTYzMzUsMTc2ODE3OTQ4NV19
+eyJoaXN0b3J5IjpbMTQxNjIxODQ2NSwtMTgxNjMwMTg2NCwtMT
+A0NjAxODEzOCwtMTk1MDY1MjY2MCwtMTA0MTc5NzkxOSwtNjUw
+NTY1MzksMTQ2MDIwMjQxMywtMTA5MjgyMzE2MiwtMTQ5ODQ1OD
+I0MywxNDA0Nzk2MzM1LDE3NjgxNzk0ODVdfQ==
 -->
