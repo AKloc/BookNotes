@@ -9,7 +9,7 @@
 - "It's just an algorithm!" can't be an excuse, especially when Google has demonstrated the capability to tweak search results.
 - Research has been done that demonstrates that the types of search results a person gets back from a search can effect how they actually feel about the topic - so how does searching "black girls" and getting nothing but porn back affect searchers?
 - Google has private, profit-based motives. Where's the public option?
-- In general, there's an iss
+- In general, the author's general take is that there's an issue with giving this much power to a company which is motivated by money rather than the public good.
 
 **What can I do with this?**
 - Not sure. I agreed with the content, but there aren't really any action items to take outside of being further convinced that Google isn't primarily motivated by the public good.
@@ -18,9 +18,10 @@
 - 6/10
 - Very academic. Slowly and methodically builds its case... too slowly. Feels unnecessarily elongated.
 - Well-organized. Author quickly states her thesis and her strategy for proving it. Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
-- BUT... where's the actual meat? Makes the same points numerous times. Search results are important, Google isn't working for the public interest, and the algorithms Google use aren't tuned for socio-economic equalization. What else? What are the solutions?
+- BUT... where's the actual meat? Makes the same points numerous times. Search results are important, Google isn't working for the public interest, and the algorithms Google use aren't tuned for socio-economic equalization. What else? What are the solutions? What can we do? 
+- 200+ page problem statement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjc5NDA3MywxNTIyODE2MzIxLC04Mj
-c3NTIwOCwxODk1OTUyMjI2LDQyNjI1NzI5MiwtMTIzMzU5MTM2
-OV19
+eyJoaXN0b3J5IjpbLTE5NDc2NjgzNjIsMTUyMjgxNjMyMSwtOD
+I3NzUyMDgsMTg5NTk1MjIyNiw0MjYyNTcyOTIsLTEyMzM1OTEz
+NjldfQ==
 -->
