@@ -19,9 +19,10 @@
 - I'll work on re-reading a book rather than read it once and spending time re-reading individual passages. It's a false  constraint.
 
 **Bottom Line**
-- 3/10, emphasizing that that reflects my personal attitude toward the book and not a universal judgement on it. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophical book instead of a practical one. Even philosophically, it wasn't particularly interesting. Yes, books are for exchanging information, and the reader has to figure out what the author is attempting to say. It doesn't take 20 pages of fluff to express that concept along with another 5 about how the reader generally can't respond to the author, because it's a book. Oi.
+- 3/10, emphasizing that that reflects my personal attitude toward the book and not a universal judgement on it. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophical book instead of a practical one. 
+- Philosophically, it wasn't particularly interesting. Yes, books are for exchanging information, and the reader has to figure out what the author is attempting to say. It doesn't take 20 pages of fluff to express that concept along with another 5 about how the reader generally can't respond to the author, because it's a book. Oi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIxNTc5NDMsLTI3NDM0Mjk4NiwxNT
-E0MDExNTAyLDQ2NzM3NTE5NCwxNTgyNTk3MzIzLDYxMDk5MTA1
-M119
+eyJoaXN0b3J5IjpbMTUyMDExNjA2MiwtMjc0MzQyOTg2LDE1MT
+QwMTE1MDIsNDY3Mzc1MTk0LDE1ODI1OTczMjMsNjEwOTkxMDUz
+XX0=
 -->
