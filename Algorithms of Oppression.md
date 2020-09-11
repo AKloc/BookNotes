@@ -15,13 +15,13 @@
 - Not sure. I agreed with the content, but there aren't really any action items to take outside of being further convinced that Google isn't primarily motivated by the public good.
 
 **Bottom Line**
-- 6/10
+- 5/10
 - Very academic. Slowly and methodically builds its case... too slowly. Feels unnecessarily elongated.
 - Well-organized. Author quickly states her thesis and her strategy for proving it. Principled. Author calls out that her arguments aren't unique to black women by any stretch of the imagination.
 - BUT... where's the actual meat? Makes the same points numerous times. Search results are important, Google isn't working for the public interest, and the algorithms Google use aren't tuned for socio-economic equalization. What else? What are the solutions? What can we do? 
 - 200+ page problem statement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc2NjgzNjIsMTUyMjgxNjMyMSwtOD
-I3NzUyMDgsMTg5NTk1MjIyNiw0MjYyNTcyOTIsLTEyMzM1OTEz
-NjldfQ==
+eyJoaXN0b3J5IjpbMTA5NzcyMjgwNSwtMTk0NzY2ODM2MiwxNT
+IyODE2MzIxLC04Mjc3NTIwOCwxODk1OTUyMjI2LDQyNjI1NzI5
+MiwtMTIzMzU5MTM2OV19
 -->
