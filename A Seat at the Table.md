@@ -14,7 +14,10 @@
 - When starting a new initiative, good to know:
 	- What are the business outcomes the team is striving for?
 	- How will the team determine what to work on?
-	- Hos is the team going to work together / communicate
+	- How is the team going to work together / communicate? Skillsets?
+	- How will the team get feedback on their work?
+	- What are the key risks to delivery?
+	- What can I do to help the team accomplish it's goals?
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -22,7 +25,7 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMDQzOTUxLC02MDY1ODE2MjMsLTE5ND
+eyJoaXN0b3J5IjpbNDI0NTc5MjM5LC02MDY1ODE2MjMsLTE5ND
 I4NjcwNywxOTY3NDA3ODEyLC01OTA1MTQ5NSwtMTU5OTE5NTg5
 LC03MDU2Nzc2MjNdfQ==
 -->
