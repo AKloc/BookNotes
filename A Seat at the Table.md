@@ -7,7 +7,8 @@
 - Getting a seat at the table ~= getting to CIO 
 - Questions being tackled:
 	- If autonomous teams / DevOps / agile basically handle the vast majority of product and engineering management, how do tech leaders fit in?
-- W
+- The role of management isn't to place constraints on teams, it's to help set the conditions for success.
+- Waterfall is stupid. Funny insight here about 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -15,6 +16,6 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDUxNDk1LC0xNTk5MTk1ODksLTcwNT
-Y3NzYyM119
+eyJoaXN0b3J5IjpbMTk2NzQwNzgxMiwtNTkwNTE0OTUsLTE1OT
+kxOTU4OSwtNzA1Njc3NjIzXX0=
 -->
