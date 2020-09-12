@@ -11,7 +11,7 @@
 - Waterfall is stupid. Funny insight here about how IT loves when scope creep occurs because it's the ultimate excuse to blow out dates, which locks "the business" into requirements even when they become useless.
 - Agile is generally good, or at the very least, it's a lot more realistic.
 - "Requirements" are stupid. Required for what? The business to live or die? Desired outcomes are better.
-- When starting a new initiative, good to know:
+- When starting a new initiative, as a leader, understand:
 	- What are the business outcomes the team is striving for?
 	- How will the team determine what to work on?
 	- How is the team going to work together / communicate? Skillsets?
@@ -25,7 +25,7 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NTc5MjM5LC02MDY1ODE2MjMsLTE5ND
-I4NjcwNywxOTY3NDA3ODEyLC01OTA1MTQ5NSwtMTU5OTE5NTg5
-LC03MDU2Nzc2MjNdfQ==
+eyJoaXN0b3J5IjpbLTM3ODQyNTIxNCw0MjQ1NzkyMzksLTYwNj
+U4MTYyMywtMTk0Mjg2NzA3LDE5Njc0MDc4MTIsLTU5MDUxNDk1
+LC0xNTk5MTk1ODksLTcwNTY3NzYyM119
 -->
