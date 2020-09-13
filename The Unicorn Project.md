@@ -8,7 +8,8 @@
 - Recommend it to others who don't know anything about DevOps?
 
 **Bottom Line**
-- 6.5/10, but that's mostly based on my familiarity with the underlying DevOps 
+- 6.5/10, but that's mostly based on my familiarity with the underlying DevOps themes and the corniness of some of the material. 
+- Not a fan, at all, of how the book somewhat romanticizes the idea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5Nzc4NTU2LC0yMDQzMzA3NjVdfQ==
+eyJoaXN0b3J5IjpbLTIxMzgyMTIwNDMsLTIwNDMzMDc2NV19
 -->
