@@ -23,6 +23,9 @@
 - Executive's job:
 	- Creatively define strategic parameters
 	- Align the organization to them
+	- Boldly implement them.
+	- Observe with feedback cycles and pivot where necessary.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -30,7 +33,7 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYzNDM0ODcsLTM3ODQyNTIxNCw0Mj
-Q1NzkyMzksLTYwNjU4MTYyMywtMTk0Mjg2NzA3LDE5Njc0MDc4
-MTIsLTU5MDUxNDk1LC0xNTk5MTk1ODksLTcwNTY3NzYyM119
+eyJoaXN0b3J5IjpbLTQ1MTU3MzkxMiwtMzc4NDI1MjE0LDQyND
+U3OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3MDcsMTk2NzQwNzgx
+MiwtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNzA1Njc3NjIzXX0=
 -->
