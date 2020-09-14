@@ -3,8 +3,10 @@
  
 **Main Takeaways**
 - Basically a story about how an experienced engineering manager moves to a disorganized mess of a department, starts instituting changes and getting others on board and making progress, and how that elevates the entire company.
+- Covers the basics pretty nicely. This is probably a really good primer for DevOps / Agile practices for someone who isn't familiar with them at all. It feels like something is missing in terms of telling the reader that some of the main characters' actions have more formal names - i.e., THIS IS CALLED CONTINUOUS 
 - Very, very corny / cheesy at times. The entire "Rebellion" whereby a group of employees who don't like their jobs get together outside of work for hours at a time to discuss work and have stickers on their machines is pure /r/thathappened material.
-- All of the stuff about working crazy
+- All of the stuff about working crazy hours for long stretches is awful and shouldn't be promoted or idealized.
+- 
 
 **What can I do with this?**
 - Recommend it to others who don't know anything about DevOps?
@@ -13,6 +15,6 @@
 - 6/10, but that's mostly based on my familiarity with the underlying DevOps themes and the corniness of some of the material. 
 - Not a fan, at all, of how the book somewhat romanticizes the idea of working tons of hours and being invasive of work / life balance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODk4NjI3NSwxNTM0NzAyNTA0LC0yMD
-QzMzA3NjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTUwNzY4NDgsMTUzNDcwMjUwNCwtMj
+A0MzMwNzY1XX0=
 -->
