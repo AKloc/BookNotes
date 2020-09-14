@@ -18,6 +18,7 @@
 	- How will the team get feedback on their work?
 	- What are the key risks to delivery?
 	- What can I do to help the team accomplish it's goals?
+- When a team isn't exposed d
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -25,7 +26,7 @@
 **Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODQyNTIxNCw0MjQ1NzkyMzksLTYwNj
-U4MTYyMywtMTk0Mjg2NzA3LDE5Njc0MDc4MTIsLTU5MDUxNDk1
-LC0xNTk5MTk1ODksLTcwNTY3NzYyM119
+eyJoaXN0b3J5IjpbLTU5MDk3NjI2LC0zNzg0MjUyMTQsNDI0NT
+c5MjM5LC02MDY1ODE2MjMsLTE5NDI4NjcwNywxOTY3NDA3ODEy
+LC01OTA1MTQ5NSwtMTU5OTE5NTg5LC03MDU2Nzc2MjNdfQ==
 -->
