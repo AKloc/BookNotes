@@ -13,7 +13,7 @@
 
 **Bottom Line**
 - x/10
-- A little repetitive. I'm
+- A little repetitive. I was sold early on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNjA0MDIzLDE3NTk5ODY0NDVdfQ==
+eyJoaXN0b3J5IjpbNDI4MjU0Mzc2LDE3NTk5ODY0NDVdfQ==
 -->
