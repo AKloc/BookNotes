@@ -32,8 +32,11 @@
 
 **Bottom Line**
 - x/10
+- Pretty nice overview of modern development practices from the perception of an executive.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTU3MzkxMiwtMzc4NDI1MjE0LDQyND
-U3OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3MDcsMTk2NzQwNzgx
-MiwtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNzA1Njc3NjIzXX0=
+eyJoaXN0b3J5IjpbLTEwNDAxMTUwMjEsLTQ1MTU3MzkxMiwtMz
+c4NDI1MjE0LDQyNDU3OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3
+MDcsMTk2NzQwNzgxMiwtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNz
+A1Njc3NjIzXX0=
 -->
