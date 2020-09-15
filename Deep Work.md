@@ -13,6 +13,7 @@
 
 **Bottom Line**
 - x/10
+- A little repetitive. I'm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTk4NjQ0NV19
+eyJoaXN0b3J5IjpbNzIwNjA0MDIzLDE3NTk5ODY0NDVdfQ==
 -->
