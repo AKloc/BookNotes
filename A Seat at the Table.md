@@ -28,15 +28,16 @@
 - 
 
 **What can I do with this?**
-- I'm warming up to the concept of tasking teams with 
+- I'm warming up to the concept of tasking teams with desired outcomes rather than the solutions.
+- Good book to recommend to higher-ups who are interested in what Agile can do.
 
 **Bottom Line**
 - x/10
 - Pretty nice overview of modern development practices from the perception of an executive.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMxOTQ0ODUsLTEwNDAxMTUwMjEsLT
-Q1MTU3MzkxMiwtMzc4NDI1MjE0LDQyNDU3OTIzOSwtNjA2NTgx
-NjIzLC0xOTQyODY3MDcsMTk2NzQwNzgxMiwtNTkwNTE0OTUsLT
-E1OTkxOTU4OSwtNzA1Njc3NjIzXX0=
+eyJoaXN0b3J5IjpbMTEzMTAwMDgzMiwtMTg1MzE5NDQ4NSwtMT
+A0MDExNTAyMSwtNDUxNTczOTEyLC0zNzg0MjUyMTQsNDI0NTc5
+MjM5LC02MDY1ODE2MjMsLTE5NDI4NjcwNywxOTY3NDA3ODEyLC
+01OTA1MTQ5NSwtMTU5OTE5NTg5LC03MDU2Nzc2MjNdfQ==
 -->
