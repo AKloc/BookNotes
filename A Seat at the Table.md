@@ -28,15 +28,15 @@
 - 
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- I'm warming up to the concept of tasking teams with 
 
 **Bottom Line**
 - x/10
 - Pretty nice overview of modern development practices from the perception of an executive.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAxMTUwMjEsLTQ1MTU3MzkxMiwtMz
-c4NDI1MjE0LDQyNDU3OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3
-MDcsMTk2NzQwNzgxMiwtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNz
-A1Njc3NjIzXX0=
+eyJoaXN0b3J5IjpbLTE4NTMxOTQ0ODUsLTEwNDAxMTUwMjEsLT
+Q1MTU3MzkxMiwtMzc4NDI1MjE0LDQyNDU3OTIzOSwtNjA2NTgx
+NjIzLC0xOTQyODY3MDcsMTk2NzQwNzgxMiwtNTkwNTE0OTUsLT
+E1OTkxOTU4OSwtNzA1Njc3NjIzXX0=
 -->
