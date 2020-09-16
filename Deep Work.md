@@ -13,7 +13,8 @@
 
 **Bottom Line**
 - x/10
-- A little repetitive. I was sold early on 
+- A little repetitive. I was sold early on the concept that in order to do next-level work that you have to concentrate and be generally free from distractions - didn't need another 50 pages on it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MjU0Mzc2LDE3NTk5ODY0NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjA0NzE0NTQsNDI4MjU0Mzc2LDE3NT
+k5ODY0NDVdfQ==
 -->
