@@ -10,7 +10,8 @@
 - Strategies:
 	- "Monastic": Good if you're doing one big, solo effort after another, like writing a book or coding a big ugly piece of software. You're optimizing for deep work as often as you possibly can and avoiding shallow work wherever possible.
 	- "Bimodal": You turn it on and off for periods of time. Example given: Carl Jung going to his retreat in the woods when he had to write papers, but coming back and fielding all sorts of shallow work again.
-	- "Rhythmic": You have e
+	- "Rhythmic": You have established patterns which become easy to follow. e.g., coming into work early, when no one else is around, and diving deep into work daily. Another example: Seinfeld writing a joke every day and crossing off his calendar when he does write a joke, with the goal being to not break the chain.
+	- "Journalistic":
 
 
 **What can I do with this?**
@@ -20,6 +21,6 @@
 - x/10
 - A little repetitive. I was sold early on the concept that in order to do next-level work that you have to concentrate and be generally free from distractions - didn't need another 50 pages on it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgxMjA3ODUsNDI4MjU0Mzc2LDE3NT
-k5ODY0NDVdfQ==
+eyJoaXN0b3J5IjpbLTUyMDgyNjUzMCw0MjgyNTQzNzYsMTc1OT
+k4NjQ0NV19
 -->
