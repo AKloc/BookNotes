@@ -25,7 +25,7 @@
 	- Align the organization to them
 	- Boldly implement them.
 	- Observe with feedback cycles and pivot where necessary.
-- Agile goal on work: Do t
+- Agile goal on work: Do the LEAST amount of work possible to hit the objective. No fluff.
 
 **What can I do with this?**
 - I'm warming up to the concept of tasking teams with desired outcomes rather than the solutions.
@@ -36,7 +36,7 @@
 - Pretty nice overview of modern development practices from the perception of an executive.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkwNTQzNTAsLTE4NTMxOTQ0ODUsLT
+eyJoaXN0b3J5IjpbLTE3NzUyMDg3NDMsLTE4NTMxOTQ0ODUsLT
 EwNDAxMTUwMjEsLTQ1MTU3MzkxMiwtMzc4NDI1MjE0LDQyNDU3
 OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3MDcsMTk2NzQwNzgxMi
 wtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNzA1Njc3NjIzXX0=
