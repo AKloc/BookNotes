@@ -9,9 +9,9 @@
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
 
-**Bottom Line**
+**Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjAwNzg5NywtNzMwNDMwNTIsMTU4Mj
-U5NzMyM119
+eyJoaXN0b3J5IjpbNzQ1ODc1MjgzLDEzODIwMDc4OTcsLTczMD
+QzMDUyLDE1ODI1OTczMjNdfQ==
 -->
