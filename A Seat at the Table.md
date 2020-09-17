@@ -26,7 +26,7 @@
 	- Boldly implement them.
 	- Observe with feedback cycles and pivot where necessary.
 - Agile goal on work: Do the LEAST amount of work possible to hit the objective. No fluff.
-- Not really a lot of other crazy notes to take here. This book is sort of a high-level manual about how to be a CIO that
+- Not really a lot of other crazy notes to take here. This book is sort of a high-level manual about how to be a CIO that "gets" agile. 
 
 **What can I do with this?**
 - I'm warming up to the concept of tasking teams with desired outcomes rather than the solutions.
@@ -37,7 +37,7 @@
 - Pretty nice overview of modern development practices from the perception of an executive.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2Mjg1NTE1LC0xNzc1MjA4NzQzLC0xOD
+eyJoaXN0b3J5IjpbMjY2MjIwMzYwLC0xNzc1MjA4NzQzLC0xOD
 UzMTk0NDg1LC0xMDQwMTE1MDIxLC00NTE1NzM5MTIsLTM3ODQy
 NTIxNCw0MjQ1NzkyMzksLTYwNjU4MTYyMywtMTk0Mjg2NzA3LD
 E5Njc0MDc4MTIsLTU5MDUxNDk1LC0xNTk5MTk1ODksLTcwNTY3
