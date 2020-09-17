@@ -32,16 +32,16 @@
 - I'm warming up to the concept of tasking teams with desired outcomes rather than the solutions.
 - Good book to recommend to higher-ups who are interested in what Agile can do.
 - Not much else here. I think this would be worth another read if I were actually moving into a CIO-ish role to recap the "here's how you can be helpful, hands-on and hands-off". A lot of the book is spent talking about the basics behind Agile, waterfall, and things like DevOps that can be skipped.
-- Has prompted me to change _Template to from "Bottom Line" to "Personal Bottom Line" to reflect 
+- Has prompted me to change _Template to from "Bottom Line" to "Personal Bottom Line" so that the ratings are ultimately geared toward my own value derived out of the book.
 
 **Personal Bottom Line**
-- 6.5/10
-- Pretty nice overview of modern development practices from the perception of an executive.
-- 
+- 5/10
+- Pretty nice overview of modern development practices from the perception of an executive...
+- ... but I already know this stuff. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDk1MzE1MCwtMTc3NTIwODc0MywtMT
-g1MzE5NDQ4NSwtMTA0MDExNTAyMSwtNDUxNTczOTEyLC0zNzg0
-MjUyMTQsNDI0NTc5MjM5LC02MDY1ODE2MjMsLTE5NDI4NjcwNy
-wxOTY3NDA3ODEyLC01OTA1MTQ5NSwtMTU5OTE5NTg5LC03MDU2
-Nzc2MjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMDYzNzIxMTEsLTE3NzUyMDg3NDMsLT
+E4NTMxOTQ0ODUsLTEwNDAxMTUwMjEsLTQ1MTU3MzkxMiwtMzc4
+NDI1MjE0LDQyNDU3OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3MD
+csMTk2NzQwNzgxMiwtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNzA1
+Njc3NjIzXX0=
 -->
