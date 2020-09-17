@@ -37,9 +37,9 @@
 **Personal Bottom Line**
 - 5/10
 - Pretty nice overview of modern development practices from the perception of an executive...
-- ... but I already know this stuff. 
+- ... but I already know this stuff. Probably a 7.5 otherwise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYzNzIxMTEsLTE3NzUyMDg3NDMsLT
+eyJoaXN0b3J5IjpbLTE2NzEzNjA4NTMsLTE3NzUyMDg3NDMsLT
 E4NTMxOTQ0ODUsLTEwNDAxMTUwMjEsLTQ1MTU3MzkxMiwtMzc4
 NDI1MjE0LDQyNDU3OTIzOSwtNjA2NTgxNjIzLC0xOTQyODY3MD
 csMTk2NzQwNzgxMiwtNTkwNTE0OTUsLTE1OTkxOTU4OSwtNzA1
