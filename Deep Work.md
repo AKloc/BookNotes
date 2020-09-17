@@ -14,7 +14,7 @@
 	- "Journalistic": Turn it on and off at a whim. Author cited going on vacation with a guy who could just run off for a few hours and immediately go into deep work and then return.
 - Keep in mind: Deep work requires recharging. If you want to use it consistently, you also need to take some off time and guard it (e.g., don't check work email at night)
 - Learning how to work deeply is a muscle that you can make stronger with exercise.
-	- Validation! "Grand gestures" like going to a different location and spending some money 
+	- Validation! "Grand gestures" like getting a rental somewhere to concentrate on a book or activity actually works.
 
 
 **What can I do with this?**
@@ -24,6 +24,6 @@
 - x/10
 - A little repetitive. I was sold early on the concept that in order to do next-level work that you have to concentrate and be generally free from distractions - didn't need another 50 pages on it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk3MjQxNzksLTUyMDgyNjUzMCw0Mj
-gyNTQzNzYsMTc1OTk4NjQ0NV19
+eyJoaXN0b3J5IjpbLTQ5MDkzNDk1NywtNTIwODI2NTMwLDQyOD
+I1NDM3NiwxNzU5OTg2NDQ1XX0=
 -->
