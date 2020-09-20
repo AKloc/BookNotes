@@ -15,6 +15,12 @@
 	- Deposits: Delivering / launching stuff.
 	- Withdraws: Working on tech work, refactoring, etc.
 - Emailing executives - they generally get off on being able to help, and will do so by delegating to one of their subordinates. Send a three bullet point note and what you want.
+- Employee Happiness =
+	- Autonomy
+	- Mastery
+	- Purpose
+- Risks need to be taken, and sometimes it's OK to ask for forgiveness.
+	- "If you're not missing at least one flight a year, you're getting to the airport too early."
 - 
 
 **What can I do with this?**
@@ -28,6 +34,6 @@
 - The brevity and pacing was great. No fluff.
 - Points docked would be "personal" points due to me already having a good understanding of large swaths of the book.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjMyMzI2OCwxMzQ0MzUyODEyLDExMT
+eyJoaXN0b3J5IjpbMTk1MjMxNDQzNCwxMzQ0MzUyODEyLDExMT
 M4ODQwODEsLTE3NjcxMzc4NDAsMTIzODYxODU1M119
 -->
