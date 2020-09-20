@@ -12,8 +12,8 @@
 - "Projects always outlast people." Playing the social "game" isn't a bad idea.
 - Be open to being influenced, or you'll become the person everyone navigates around / avoids.
 - On politics: Think of having a bank. You have to be cognizant of your balance!
-	- Deposits: Delivering / launching stuff.
-	- Withdraws: Working on tech work, refactoring, etc.
+	- Deposits: Delivering / launching stuff. "Offensive work"
+	- Withdraws: Working on tech work, refactoring, etc. "Defensive work"
 - Emailing executives - they generally get off on being able to help, and will do so by delegating to one of their subordinates. Send a three bullet point note and what you want.
 - Employee Happiness =
 	- Autonomy
@@ -21,7 +21,6 @@
 	- Purpose
 - Risks need to be taken, and sometimes it's OK to ask for forgiveness.
 	- "If you're not missing at least one flight a year, you're getting to the airport too early."
-- 
 
 **What can I do with this?**
 - This is a pretty solid book for new managers. Not as directly practical as "The Manager's Path."
@@ -34,6 +33,6 @@
 - The brevity and pacing was great. No fluff.
 - Points docked would be "personal" points due to me already having a good understanding of large swaths of the book.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjMxNDQzNCwxMzQ0MzUyODEyLDExMT
-M4ODQwODEsLTE3NjcxMzc4NDAsMTIzODYxODU1M119
+eyJoaXN0b3J5IjpbLTEwMjM4OTYxNzUsMTM0NDM1MjgxMiwxMT
+EzODg0MDgxLC0xNzY3MTM3ODQwLDEyMzg2MTg1NTNdfQ==
 -->
