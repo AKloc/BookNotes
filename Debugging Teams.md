@@ -20,14 +20,14 @@
 **What can I do with this?**
 - This is a pretty solid book for new managers. Not as directly practical as "The Manager's Path."
 - Check that; this is a good read for anyone working on a team. Maybe recommend it to the department? Add it to the reading list?
-- I really like how the book crystalized some of the political concepts.
+- I really like how the book crystalized some of the political concepts. 
 
 **Personal Bottom Line**
 - 8/10
-- Favorite part was the political stuff. Nothing really new there, but the "keep a balance" concept is helpful.
+- Favorite part was the political stuff. Nothing really new there, but the "keep a balance" concept is helpful. I'd love to read a longer book on that subject using that concept.
 - The brevity and pacing was great. No fluff.
-- Any points docked would be "personal" points due to me already 
+- Points docked would be "personal" points due to me already having a good understanding of large swaths of the book.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjYwOTkxLDEzNDQzNTI4MTIsMTExMz
-g4NDA4MSwtMTc2NzEzNzg0MCwxMjM4NjE4NTUzXX0=
+eyJoaXN0b3J5IjpbLTMzNDcwMTcwMCwxMzQ0MzUyODEyLDExMT
+M4ODQwODEsLTE3NjcxMzc4NDAsMTIzODYxODU1M119
 -->
