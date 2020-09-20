@@ -15,6 +15,7 @@
 	- Deposits: Delivering / launching stuff.
 	- Withdraws: Working on tech work, refactoring, etc.
 - Emailing executives - they generally get off on being able to help, and will do so by delegating to one of their subordinates. Send a three bullet point note and what you want.
+- 
 
 **What can I do with this?**
 - This is a pretty solid book for new managers. Not as directly practical as "The Manager's Path."
@@ -23,7 +24,10 @@
 
 **Personal Bottom Line**
 - 8/10
+- Favorite part was the political stuff. Nothing really new there, but the "keep a balance" concept is helpful.
+- The brevity and pacing was great. No fluff.
+- Any points docked would be "personal" points due to me already 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkxMjg0MzUsMTM0NDM1MjgxMiwxMT
-EzODg0MDgxLC0xNzY3MTM3ODQwLDEyMzg2MTg1NTNdfQ==
+eyJoaXN0b3J5IjpbMjAwNjYwOTkxLDEzNDQzNTI4MTIsMTExMz
+g4NDA4MSwtMTc2NzEzNzg0MCwxMjM4NjE4NTUzXX0=
 -->
