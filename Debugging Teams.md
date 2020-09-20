@@ -11,9 +11,10 @@
 	- Respect
 - "Projects always outlast people." Playing the social "game" isn't a bad idea.
 - Be open to being influenced, or you'll become the person everyone navigates around / avoids.
-- On politics: Think of having a bank.
+- On politics: Think of having a bank. You have to be cognizant of your balance!
 	- Deposits: Delivering / launching stuff.
-	- Withdraws: Working on tech
+	- Withdraws: Working on tech work, refactoring, etc.
+- Emailing executives - they generally get off on being able to help, and will do so by delegating to one of their subordinates. Send a three bullet point note and what you want.
 
 **What can I do with this?**
 - This is a pretty solid book for new managers. Not as directly practical as "The Manager's Path."
@@ -23,6 +24,6 @@
 **Personal Bottom Line**
 - 8/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM1OTY3MzksMTM0NDM1MjgxMiwxMT
+eyJoaXN0b3J5IjpbLTE1NzkxMjg0MzUsMTM0NDM1MjgxMiwxMT
 EzODg0MDgxLC0xNzY3MTM3ODQwLDEyMzg2MTg1NTNdfQ==
 -->
