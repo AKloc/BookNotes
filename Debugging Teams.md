@@ -20,7 +20,7 @@
 **What can I do with this?**
 - This is a pretty solid book for new managers. Not as directly practical as "The Manager's Path."
 - Check that; this is a good read for anyone working on a team. Maybe recommend it to the department? Add it to the reading list?
-- I really like how the book crystalized some of the political concepts. 
+- I really like how the book crystalized some of the political concepts. It helps reinforce the need for departments to emphasize their production and celebrate it, and minimize 
 
 **Personal Bottom Line**
 - 8/10
@@ -28,6 +28,6 @@
 - The brevity and pacing was great. No fluff.
 - Points docked would be "personal" points due to me already having a good understanding of large swaths of the book.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDcwMTcwMCwxMzQ0MzUyODEyLDExMT
-M4ODQwODEsLTE3NjcxMzc4NDAsMTIzODYxODU1M119
+eyJoaXN0b3J5IjpbLTEyNTc0NjYyMzcsMTM0NDM1MjgxMiwxMT
+EzODg0MDgxLC0xNzY3MTM3ODQwLDEyMzg2MTg1NTNdfQ==
 -->
