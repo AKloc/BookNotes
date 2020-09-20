@@ -5,13 +5,15 @@
  
 **Main Takeaways**
 - Interesting concept that there's an inherent weird relationship between consultants and managers because the managers are essentially admitting that they don't have a competency that the consultant does, or that they need some sort of help.
-- 
+- Have to be very cognizant of the balance of power. Labeling a project as a failure is NOT something that only the client can do.
+- The checklists at the end of the chapters are
 
 **What can I do with this?**
 - Use the concept of having a general "contract" in place that states what the crew is doing, how often they'll have stakeholder communications, etc.
+- The checklists at the end of the chapters can definitely be the basis of some formalized documentation for the WTW consultancy stuff.
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNTM1ODMwLDExNzM5MjQyMTRdfQ==
+eyJoaXN0b3J5IjpbMTc1MjMyOTk2MywxMTczOTI0MjE0XX0=
 -->
