@@ -1,7 +1,7 @@
 ## Flawless Consulting
 
 **Purpose For Reading**
-- 
+- IHaving a
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -12,5 +12,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMwMzk5MDhdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzk5NjQ2MTddfQ==
 -->
