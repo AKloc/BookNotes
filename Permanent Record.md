@@ -16,8 +16,8 @@
 
 **Personal Bottom Line**
 - x/10
-- I could relate a lot to how Snowden described how he got into computers in the first place. Good pacing through his story, something I was surprised to see people complaining about on Ama
+- I could relate a lot to how Snowden described how he got into computers in the first place. Good pacing through his story, something I was surprised to see people complaining about on Amazon reviews.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzcwNDI3MiwxMDMxNjI5NzEzLC0xND
-IxODY4NzQxLDc1NDY4MDI4XX0=
+eyJoaXN0b3J5IjpbOTY0ODAzNzY2LDEwMzE2Mjk3MTMsLTE0Mj
+E4Njg3NDEsNzU0NjgwMjhdfQ==
 -->
