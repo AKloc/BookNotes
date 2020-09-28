@@ -9,13 +9,13 @@
 - Reading about how the IC leaned so much on contractors and what his day-to-day was like was really interesting, especially with regard to how 
 
 **What can I do with this?**
-- I might try to use Tor more for day-to-day activities
+- I might try to use Tor more for day-to-day activities.
 - I may also need to try to stop searching for things on Google. That's been a theme in a few areas. Maybe email, eventually? Getting away from Google would be crazy.
 - Further emphasizes the thought that I've had that letting my kids get online needs to have a very deliberate plan and education behind it. It's probably more important than even some of the financial chats.
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyNjUwNzYsLTE0MjE4Njg3NDEsNz
-U0NjgwMjhdfQ==
+eyJoaXN0b3J5IjpbNjQ1MDU4OTI2LC0xNDIxODY4NzQxLDc1ND
+Y4MDI4XX0=
 -->
