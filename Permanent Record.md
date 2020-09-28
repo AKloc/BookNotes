@@ -16,8 +16,8 @@
 
 **Personal Bottom Line**
 - x/10
-- The fact 
+- I could relate a lot to how Snowden described how he got into computers in the first 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTYyOTcxMywtMTQyMTg2ODc0MSw3NT
-Q2ODAyOF19
+eyJoaXN0b3J5IjpbNzkxMTQyODAwLDEwMzE2Mjk3MTMsLTE0Mj
+E4Njg3NDEsNzU0NjgwMjhdfQ==
 -->
