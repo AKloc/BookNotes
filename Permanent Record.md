@@ -16,8 +16,8 @@
 
 **Personal Bottom Line**
 - x/10
-- The fact that I could relate with some of his big milestones
+- The fact 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NjE2ODMsLTE0MjE4Njg3NDEsNzU0Nj
-gwMjhdfQ==
+eyJoaXN0b3J5IjpbMTAzMTYyOTcxMywtMTQyMTg2ODc0MSw3NT
+Q2ODAyOF19
 -->
