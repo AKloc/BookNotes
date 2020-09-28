@@ -1,7 +1,7 @@
 ## Radical Candor (Q4 of 2019)
 **Purpose For Reading**
-- Very popular book that was highly regarded
--   
+- Very popular book that was highly regarded 
+  
 **Main Takeaways**
 - What are the major themes / points made?
 
@@ -11,5 +11,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODcwOTEyM119
+eyJoaXN0b3J5IjpbODU4MTE5NzM4XX0=
 -->
