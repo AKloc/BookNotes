@@ -6,14 +6,15 @@
 - Basically, the concept of privacy is basically evaporating. Everyone's dirty laundry is somewhere.
 - Really liked Snowden's take on how the founders' take was clearly to make finding someone guilty of something HARD, because if it's too easy, everyone's guilty of something.
 - Also related to the bit about how in the early days of the internet, we had the latitude to make mistakes, be foolish, troll, etc, and it wasn't permanent. It didn't follow us around. Every time you logged on it was basically a "new life."
+- Reading about how the IC leaned so much on contractors and what his day-to-day was like was really interesting, especially with regard to how 
 
 **What can I do with this?**
 - I might try to use Tor more for day-to-day activities
-- I may also need to 
+- I may also need to try to stop searching for things on Google. That's been a theme in a few areas. Maybe email, eventually? 
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTc4ODk2NCwtMTQyMTg2ODc0MSw3NT
-Q2ODAyOF19
+eyJoaXN0b3J5IjpbOTQ2MjM5MjEwLC0xNDIxODY4NzQxLDc1ND
+Y4MDI4XX0=
 -->
