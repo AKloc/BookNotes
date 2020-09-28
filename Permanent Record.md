@@ -8,11 +8,12 @@
 - Also related to the bit about how in the early days of the internet, we had the latitude to make mistakes, be foolish, troll, etc, and it wasn't permanent. It didn't follow us around. Every time you logged on it was basically a fresh chance.
 
 **What can I do with this?**
-- I might try to use Tor more for day-to-d
+- I might try to use Tor more for day-to-day activities
+- I may also need to 
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzQ4MjU3MCwtMTQyMTg2ODc0MSw3NT
+eyJoaXN0b3J5IjpbLTQ2NDk4NDc1NCwtMTQyMTg2ODc0MSw3NT
 Q2ODAyOF19
 -->
