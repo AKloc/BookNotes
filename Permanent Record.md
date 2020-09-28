@@ -12,10 +12,12 @@
 - I might try to use Tor more for day-to-day activities.
 - I may also need to try to stop searching for things on Google. That's been a theme in a few areas. Maybe email, eventually? Getting away from Google would be crazy.
 - Further emphasizes the thought that I've had that letting my kids get online needs to have a very deliberate plan and education behind it. It's probably more important than even some of the financial chats.
+- Startpage / Startmail?
 
 **Personal Bottom Line**
 - x/10
+- The fact that I could relate with some of his big milestones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MDU4OTI2LC0xNDIxODY4NzQxLDc1ND
-Y4MDI4XX0=
+eyJoaXN0b3J5IjpbMzY3NjE2ODMsLTE0MjE4Njg3NDEsNzU0Nj
+gwMjhdfQ==
 -->
