@@ -10,10 +10,10 @@
 - You need to ASK for and take feedback whenever you can.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- When I read the book, I was relatively taken with it and pushed for a seminar with the rest of the management group here.
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA4NjcxNzhdfQ==
+eyJoaXN0b3J5IjpbMjAzOTEyMjM1N119
 -->
