@@ -1,7 +1,7 @@
 ## The Righteous Mind - Why Good People are Divided by Politics and Religion (September 2020)
 
 **Purpose For Reading**
-- Leading up to the 2020 el
+- Leading up to what's going to be a tumultuous 2020 election, it seemed to be a good way to try to increase empathy and understanding with the people I don't agree with and avoid falling into  
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -12,5 +12,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzU5ODAyNF19
+eyJoaXN0b3J5IjpbLTU1NzIyMDE1OF19
 -->
