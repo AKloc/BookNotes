@@ -9,7 +9,7 @@
 - Reading about how the IC leaned so much on contractors and what his day-to-day was like was really interesting, especially with regard to how 
 
 **What can I do with this?**
-- I might try to use Tor more for day-to-day activities, research more around
+- I might try to use Tor more for day-to-day activities, research more around encryption because it's fascinating.
 - I may also need to try to stop searching for things on Google. That's been a theme in a few areas. Maybe email, eventually? Getting away from Google would be crazy.
 - Further emphasizes the thought that I've had that letting my kids get online needs to have a very deliberate plan and education behind it. It's probably more important than even some of the financial chats.
 - Startpage / Startmail?
@@ -18,8 +18,8 @@
 **Personal Bottom Line**
 - 8.5/10
 - I could relate a lot to how Snowden described how he got into computers in the first place. Good pacing through his story, something I was surprised to see people complaining about on Amazon reviews.
-- Would've been interesting to hear some more of the technical stuff.
+- Would've been interesting to hear some more of the technical stuff. How were these backdoors implemented, for example? How "in on it" are the companies housing user information?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjYxODcxNSw5NjQ4MDM3NjYsMTAzMT
-YyOTcxMywtMTQyMTg2ODc0MSw3NTQ2ODAyOF19
+eyJoaXN0b3J5IjpbMjA1MjExOTk0LDk2NDgwMzc2NiwxMDMxNj
+I5NzEzLC0xNDIxODY4NzQxLDc1NDY4MDI4XX0=
 -->
