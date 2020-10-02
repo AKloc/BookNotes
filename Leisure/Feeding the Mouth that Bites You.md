@@ -19,13 +19,15 @@
 - "Only through good communication can you hope to remain relevant and have any influence in your children's lives as they pass into adulthood."
 	- Don't lecture.
 	- Be a passive listener. If your kid tells you about another kid being a jerk, don't say the kid is a jerk, ask how the kid feels about it.
-	- Techniques: Dad dates. Car conversations (nice because it guarantees an end to the conver
+	- Techniques: Dad dates. Car conversations (nice because it guarantees an end to the conversation and that attention is at least somewhat split)
+- Need to really respect privacy. 
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- empathy++. Fa
 
 **Personal Bottom Line**
-- x/10
+- 9/10
+- Based just on the notes I wrote above, I think it's evident I got a lot out of the book.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUzMjAwODUsLTI5Njk4MzgyM119
+eyJoaXN0b3J5IjpbMjEzNTU0ODUzMywtMjk2OTgzODIzXX0=
 -->
