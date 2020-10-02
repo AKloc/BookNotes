@@ -26,7 +26,8 @@
 **What can I do with this?**
 - empathy++.
 - I buy into the idea that teens are looking for more autonomy and that it's important to give it to them in a deliberate manner so that they're not bewildered when they leave the nest.
-- I needed to hear that long-winded lectures and stories may feel great for the speaker, but the lis
+- I needed to hear that long-winded lectures and stories may feel great for the speaker, but the listener doesn't care.
+- 
 
 **Personal Bottom Line**
 - 9/10
@@ -35,6 +36,6 @@
 - Appreciate that the book wasn't condescending towards teens.
 - Author clearly had a bit of a religious slant, but it didn't interfere with the core content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIxMzc3MTIsLTE4NDk3NzM2MDMsMT
-c4Njc5NDU5OSwtMjk2OTgzODIzXX0=
+eyJoaXN0b3J5IjpbNjE2OTMxNTk0LC0xODQ5NzczNjAzLDE3OD
+Y3OTQ1OTksLTI5Njk4MzgyM119
 -->
