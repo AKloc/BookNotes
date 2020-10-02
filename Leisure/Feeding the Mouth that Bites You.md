@@ -20,6 +20,7 @@
 - "Only through good communication can you hope to remain relevant and have any influence in your children's lives as they pass into adulthood."
 	- Don't lecture.
 	- Be a passive listener. If your kid tells you about another kid being a jerk, don't say the kid is a jerk, ask how the kid feels about it.
+	- Don't compliment way too much. Teens want to be treated like adults, not patted on the back like children.
 	- Techniques: Dad dates. Car conversations (nice because it guarantees an end to the conversation and that attention is at least somewhat split)
 - Need to really respect privacy. 
 
@@ -27,7 +28,7 @@
 - empathy++.
 - I buy into the idea that teens are looking for more autonomy and that it's important to give it to them in a deliberate manner so that they're not bewildered when they leave the nest.
 - I needed to hear that long-winded lectures and stories may feel great for the speaker, but the listener doesn't care.
-- 
+- As simple as it sounds - make sure that I'm 
 
 **Personal Bottom Line**
 - 9/10
@@ -36,6 +37,6 @@
 - Appreciate that the book wasn't condescending towards teens.
 - Author clearly had a bit of a religious slant, but it didn't interfere with the core content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2OTMxNTk0LC0xODQ5NzczNjAzLDE3OD
-Y3OTQ1OTksLTI5Njk4MzgyM119
+eyJoaXN0b3J5IjpbLTEwMDgzMjkyNiw2MTY5MzE1OTQsLTE4ND
+k3NzM2MDMsMTc4Njc5NDU5OSwtMjk2OTgzODIzXX0=
 -->
