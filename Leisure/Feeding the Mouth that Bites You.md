@@ -9,7 +9,8 @@
 	- Main source of frustration for adolescents is that their parents are micromanaging them.
 	- Teens are "trying on" different personalities, likes, styles... everything. It's part of the process. Expect it.
 - Main mission for parents in teenage years is to give their kids increased autonomy so that when they're "adults" (loosely, graduating high school), they understand responsibility.
-
+- CHILDREN: Need obedience.
+- ADOLESCENTS: Need responsibility.
 - "Planned emancipation": a deliberate and transparent plan that gives more responsibility to your kids that you completely let go of. 
 	- ex: "Your room is now your responsibility, we won't make you clean it. Limits - it can't smell, and you can't have food upstairs."
 	- As you give kids more responsibilities / trust, you tell them so they get that they ARE being emancipated.
@@ -33,5 +34,6 @@
 - Appreciate that the book wasn't condescending towards teens.
 - Author clearly had a bit of a religious slant, but it didn't interfere with the core content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njc5NDU5OSwtMjk2OTgzODIzXX0=
+eyJoaXN0b3J5IjpbLTE4NDk3NzM2MDMsMTc4Njc5NDU5OSwtMj
+k2OTgzODIzXX0=
 -->
