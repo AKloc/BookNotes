@@ -13,7 +13,8 @@
 	- As you give kids more responsibilities / trust, you tell them so they get that they ARE being emancipated.
 	- "Giving freedom does not mean that you will no longer have influence in that area."
 - Helpful terms to use a lot:
-	- "At your age
+	- "At your age, you're old enough to do x by yourself without my intervention". Not used in a condescending / scolding way, but in a "I trust you here" manner.
+- "Only throu
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -21,5 +22,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDUwMjQwNSwtMjk2OTgzODIzXX0=
+eyJoaXN0b3J5IjpbMTI1MDI5MTE2LC0yOTY5ODM4MjNdfQ==
 -->
