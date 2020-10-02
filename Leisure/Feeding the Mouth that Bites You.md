@@ -18,7 +18,8 @@
 	- "At your age, you're old enough to do x by yourself without my intervention". Not used in a condescending / scolding way, but in a "I trust you here" manner.
 - "Only through good communication can you hope to remain relevant and have any influence in your children's lives as they pass into adulthood."
 	- Don't lecture.
-	- Be a passiver 
+	- Be a passive listener. If your kid tells you about another kid being a jerk, don't say the kid is a jerk, ask how the kid feels about it.
+	- Techniques: Dad dates. Car conversations (nice because it guarantees an end to the conver
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -26,5 +27,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTQwMjA1MiwtMjk2OTgzODIzXX0=
+eyJoaXN0b3J5IjpbLTE4ODUzMjAwODUsLTI5Njk4MzgyM119
 -->
