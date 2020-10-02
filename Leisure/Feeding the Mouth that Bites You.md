@@ -22,13 +22,14 @@
 	- Be a passive listener. If your kid tells you about another kid being a jerk, don't say the kid is a jerk, ask how the kid feels about it.
 	- Don't compliment way too much. Teens want to be treated like adults, not patted on the back like children.
 	- Techniques: Dad dates. Car conversations (nice because it guarantees an end to the conversation and that attention is at least somewhat split)
-- Need to really respect privacy. 
+- Need to really respect privacy, otherwise you won't be trusted.
+- They WANT to communicate, but they DON'T want to be talked down to. Give them opportunities to do it.
 
 **What can I do with this?**
 - empathy++.
 - I buy into the idea that teens are looking for more autonomy and that it's important to give it to them in a deliberate manner so that they're not bewildered when they leave the nest.
 - I needed to hear that long-winded lectures and stories may feel great for the speaker, but the listener doesn't care.
-- As simple as it sounds - make sure that I'm 
+- Make sure that I'm cognizant that the whole strategy changes when they start hitting that adolescent mark. Treat them like adults, get more into the "whys" vs. "obey"
 
 **Personal Bottom Line**
 - 9/10
@@ -37,6 +38,6 @@
 - Appreciate that the book wasn't condescending towards teens.
 - Author clearly had a bit of a religious slant, but it didn't interfere with the core content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzMjkyNiw2MTY5MzE1OTQsLTE4ND
-k3NzM2MDMsMTc4Njc5NDU5OSwtMjk2OTgzODIzXX0=
+eyJoaXN0b3J5IjpbMTIyMzgxNTYxLDYxNjkzMTU5NCwtMTg0OT
+c3MzYwMywxNzg2Nzk0NTk5LC0yOTY5ODM4MjNdfQ==
 -->
