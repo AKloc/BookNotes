@@ -31,7 +31,7 @@
 - Based just on the notes I wrote above, I think it's evident I got a lot out of the book.
 - Really nice mix of general and specific strategies.
 - Appreciate that the book wasn't condescending towards teens.
-- Author clearly had a bit of a religious slant, but it didn't interfere with the core content (e.g., h
+- Author clearly had a bit of a religious slant, but it didn't interfere with the core content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQwNzUyODUsLTI5Njk4MzgyM119
+eyJoaXN0b3J5IjpbMTc4Njc5NDU5OSwtMjk2OTgzODIzXX0=
 -->
