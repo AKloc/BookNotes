@@ -13,7 +13,7 @@
 	- Detecting credit card fraud
 	- Video game bots (use "Reinforced Learning", covered in chapter 18)
 - Types of ML:
-	- Supervised, unsupervised, reinforcement
+	- Supervised
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzAxNzk2NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 -->
