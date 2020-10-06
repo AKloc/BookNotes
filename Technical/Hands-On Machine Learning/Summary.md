@@ -4,10 +4,6 @@
  1. This book has been pointed to as one of the best technical modern books out there, period.
  2. Machine learning is, and will continue to be a big deal. I don't want this to be a blind spot.
  3. ML is cool.
-
-**Notes**
-- Chapter 1: The ML Landscape
-	- ML is great for problems whose solutions are
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -18,5 +14,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTIwODUxNF19
+eyJoaXN0b3J5IjpbLTE5MDQ5ODk4MDFdfQ==
 -->
