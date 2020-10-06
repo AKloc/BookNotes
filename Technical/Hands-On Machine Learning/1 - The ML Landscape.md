@@ -3,7 +3,7 @@
 **Key Chapter Takeaways**
 - Most important parts of the chapter?
 
-**Notes**
+**Notes + Metacognition**
 - ML is great for problems whose solutions are complex or nuanced. Example given - how do you identify when a word begins with a "t"? What about in noise? Etc. 
 - More examples:
 	- Finding tumors
@@ -27,6 +27,6 @@
 	- Unsupervised
 		- Training data is unlabeled. The system tries to learn without a teacher.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMD
-I4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbLTE1MTcxMzY2MzIsLTU3NDk5NDg1NiwxOT
+c4NzU1NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
 -->
