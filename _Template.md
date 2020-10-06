@@ -3,7 +3,7 @@
 **Purpose For Reading**
 - What am I hoping to get out of reading this?
  
-**Main Takeaways**
+**Main Takeaways & Metacognition**
 - What are the major themes / points made?
 
 **What can I do with this?**
@@ -12,6 +12,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODc1MjgzLDEzODIwMDc4OTcsLTczMD
-QzMDUyLDE1ODI1OTczMjNdfQ==
+eyJoaXN0b3J5IjpbLTE1MjExOTg0NjYsNzQ1ODc1MjgzLDEzOD
+IwMDc4OTcsLTczMDQzMDUyLDE1ODI1OTczMjNdfQ==
 -->
