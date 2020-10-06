@@ -26,7 +26,11 @@
 			- neural networks
 	- Unsupervised
 		- Training data is unlabeled. The system tries to learn without a teacher.
+		- Most important algorithms covered later:
+			- Clustering (K-Means, DBSCAN, Hierarchical Cluster Analysis)
+			- Anomaly detection and novelty detection (One-class SVM, Isolation Forest)
+			- Visualization and Dimensionality Reduction (Principal Component Analysis, Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic NEighbor Embedding)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcxMzY2MzIsLTU3NDk5NDg1NiwxOT
+eyJoaXN0b3J5IjpbLTExMDI1MDM1MDgsLTU3NDk5NDg1NiwxOT
 c4NzU1NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
 -->
