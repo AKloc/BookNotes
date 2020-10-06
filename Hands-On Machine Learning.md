@@ -7,7 +7,7 @@
 
 **Notes**
 - Chapter 1: The ML Landscape
-	- ML
+	- ML is great for problems whose solutions are
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -18,6 +18,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjY1OTI4MCwtMTE1MDY4NzI2LC0xOT
+eyJoaXN0b3J5IjpbLTUwNTIwODUxNCwtMTE1MDY4NzI2LC0xOT
 A0OTg5ODAxXX0=
 -->
