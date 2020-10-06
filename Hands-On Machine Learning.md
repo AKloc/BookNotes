@@ -6,8 +6,8 @@
  3. ML is cool.
 
 **Notes**
-- Chapter 1
-	- Something
+- Chapter 1: The ML Landscape
+	- ML
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -18,5 +18,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA2ODcyNiwtMTkwNDk4OTgwMV19
+eyJoaXN0b3J5IjpbMTM5MjY1OTI4MCwtMTE1MDY4NzI2LC0xOT
+A0OTg5ODAxXX0=
 -->
