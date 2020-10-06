@@ -17,7 +17,10 @@
 		- The dataset that you feed the algorithm includes the desired solutions (called "labels")
 		- Ex: Spam filter. You'd provide the emails, along with their "class" - whether or not they're spam.
 		- Ex: "Predictors", which predict a target value, like the price of a car, given certain datapoints (called "features"). You'd provide many examples of cars, with their predictors and their labels (in this case, the label is the price of the car).
+		- Most important supervised algorithms that will be covered:
+			- k-nearest neighbors
+			- li
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwOD
-Y0MjgzM119
+eyJoaXN0b3J5IjpbLTc5NzQyMDYzNSwxOTc4NzU1NjExLDIxMD
+I4NjY3NzcsMzA4NjQyODMzXX0=
 -->
