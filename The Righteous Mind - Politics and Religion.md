@@ -5,6 +5,7 @@
  
 **Main Takeaways**
 - Most people start with a judgement immediately, and then rationalize afterward.
+- More than anything, we're concerned with how  other people feel about us.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -12,5 +13,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzExMzM2M119
+eyJoaXN0b3J5IjpbMTgxMzAxMjE4NywtMzMzMTEzMzYzXX0=
 -->
