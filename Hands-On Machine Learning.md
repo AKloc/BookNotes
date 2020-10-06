@@ -1,7 +1,7 @@
 ## Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow
 
 **Purpose For Reading**
- 1. 
+ 1. This book has been pointed to as one of the best technical modern books out there.
  2. What am I hoping to get out of reading this?
 
  
@@ -14,5 +14,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI2ODUwOTBdfQ==
+eyJoaXN0b3J5IjpbMjMzMzAzNjQ3XX0=
 -->
