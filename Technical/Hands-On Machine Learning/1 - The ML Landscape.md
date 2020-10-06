@@ -13,7 +13,10 @@
 	- Detecting credit card fraud
 	- Video game bots (use "Reinforced Learning", covered in chapter 18)
 - Types of ML:
-	- Supervised
+	- Supervised 
+		- The dataset that you feed the algorithm includes the desired solutions (called "labels")
+		- Ex: Spam filter. You'd 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbOTE0OTY1NzM3LDIxMDI4NjY3NzcsMzA4Nj
+QyODMzXX0=
 -->
