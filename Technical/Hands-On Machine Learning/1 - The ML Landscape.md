@@ -16,8 +16,8 @@
 	- Supervised 
 		- The dataset that you feed the algorithm includes the desired solutions (called "labels")
 		- Ex: Spam filter. You'd provide the emails, along with their "class" - whether or not they're spam.
-		- Ex: Predicting a target value, like the price of a car, given certain datapoints (called "features" or ")
+		- Ex: "Predictors", which predict a target value, like the price of a car, given certain datapoints (called "features"). You'd provide many examples of cars, with their predictors and their labels (in this case, the label is the price of the car).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0ODk5MDcsMjEwMjg2Njc3NywzMDg2ND
-I4MzNdfQ==
+eyJoaXN0b3J5IjpbMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwOD
+Y0MjgzM119
 -->
