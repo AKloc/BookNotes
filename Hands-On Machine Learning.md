@@ -1,10 +1,9 @@
 ## Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow
 
 **Purpose For Reading**
- 1. This book has been pointed to as one of the best technical modern books out there.
+ 1. This book has been pointed to as one of the best technical modern books out there, period.
  2. Machine learning is, and will continue to be a big deal. I don't want this to be a blind spot.
- 3. Fun to lear
-
+ 3. ML is cool.
  
 **Main Takeaways**
 - What are the major themes / points made?
@@ -15,5 +14,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NTQwXX0=
+eyJoaXN0b3J5IjpbLTE5MDQ5ODk4MDFdfQ==
 -->
