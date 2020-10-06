@@ -19,8 +19,14 @@
 		- Ex: "Predictors", which predict a target value, like the price of a car, given certain datapoints (called "features"). You'd provide many examples of cars, with their predictors and their labels (in this case, the label is the price of the car).
 		- Most important supervised algorithms that will be covered:
 			- k-nearest neighbors
-			- li
+			- linear regression
+			- logistic regression
+			- support vector machines (SVMs)
+			- decision trees and random forests
+			- neural networks
+	- Unsupervised
+		- Training data is unlabeled. The system tries to learn without a teacher.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzQyMDYzNSwxOTc4NzU1NjExLDIxMD
+eyJoaXN0b3J5IjpbLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMD
 I4NjY3NzcsMzA4NjQyODMzXX0=
 -->
