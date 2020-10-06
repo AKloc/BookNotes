@@ -5,7 +5,8 @@
  
 **Main Takeaways**
 - Most people start with a judgement immediately, and then rationalize afterward.
-- More than anything, we're concerned with how  other people feel about us.
+- More than anything, we're concerned with how other people think about us.
+- "Conscious reasoning is like a press secretary whose sole job is to justify the ac
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -13,5 +14,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzAxMjE4NywtMzMzMTEzMzYzXX0=
+eyJoaXN0b3J5IjpbMzc4NzUwMDA5LC0zMzMxMTMzNjNdfQ==
 -->
