@@ -15,8 +15,9 @@
 - Types of ML:
 	- Supervised 
 		- The dataset that you feed the algorithm includes the desired solutions (called "labels")
-		- Ex: Spam filter. You'd 
+		- Ex: Spam filter. You'd provide the emails, along with their "class" - whether or not they're spam.
+		- Ex: Predicting a target value, like the price of a car, given certain datapoints (called "features" or ")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0OTY1NzM3LDIxMDI4NjY3NzcsMzA4Nj
-QyODMzXX0=
+eyJoaXN0b3J5IjpbMzQ0ODk5MDcsMjEwMjg2Njc3NywzMDg2ND
+I4MzNdfQ==
 -->
