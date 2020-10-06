@@ -1,16 +1,10 @@
-## Book Title
+## Chapter x
 
-**Purpose For Reading**
-- What am I hoping to get out of reading this?
- 
-**Main Takeaways**
-- What are the major themes / points made?
+**Key Chapter Takeaways**
+- Most important parts of the chapter?
 
-**What can I do with this?**
-- What actions am I going to take based on this book, if any?
-
-**Personal Bottom Line**
-- x/10
+**Notes**
+- Blah blah blah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODc1MjgzXX0=
+eyJoaXN0b3J5IjpbLTIxMzEyMTA4MzRdfQ==
 -->
