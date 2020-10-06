@@ -26,11 +26,14 @@
 			- neural networks
 	- Unsupervised
 		- Training data is unlabeled. The system tries to learn without a teacher.
+		- Ex: I have a blog and want to detect groups of similar visitors. I don't know which groups the visitors belong to, it has to find the connections itself. It finds that 40% of visitors are males, read the book at the same time, etc. I ca
 		- Most important algorithms covered later:
 			- Clustering (K-Means, DBSCAN, Hierarchical Cluster Analysis)
 			- Anomaly detection and novelty detection (One-class SVM, Isolation Forest)
 			- Visualization and Dimensionality Reduction (Principal Component Analysis, Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic NEighbor Embedding)
+			- Association Rule Learning (Apriori, Eclat)
+			- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI1MDM1MDgsLTU3NDk5NDg1NiwxOT
-c4NzU1NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbMTAyMDc5ODgyMSwtNTc0OTk0ODU2LDE5Nz
+g3NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 -->
