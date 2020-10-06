@@ -4,7 +4,8 @@
 - Most important parts of the chapter?
 
 **Notes**
-- Blah blah blah
+- ML is great for problems whose solutions are complex or nuanced. Example given - how do you identify when a word begins with a "t"? What about in noise? Etc. 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbLTIwMjU2NjYyMywzMDg2NDI4MzNdfQ==
 -->
