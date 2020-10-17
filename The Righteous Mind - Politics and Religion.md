@@ -14,8 +14,8 @@
 
 **Personal Bottom Line**
 - x/10
-- This is written pretty academically. I was hoping for a lit more actual political talk, but large portions of the book are spent on topics like evolution, philosophy, and psychology stuff. It isn't a horrible thing because clearly it all factors in, but rather than just touching on the topics and plugging them into the larger thesis, we get a history of competing theories
+- This is written pretty academically. I was hoping for a lit more actual political talk, but large portions of the book are spent on topics like evolution, philosophy, and psychology stuff. It isn't a horrible thing because clearly it all factors in, but rather than just touching on the topics and plugging them into the larger thesis, we get a history of competing theories, dive into 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzUyMDA1NSwyMDUyNzA3NzA4LC0zMz
-MxMTMzNjNdfQ==
+eyJoaXN0b3J5IjpbMzExNzgyNDQ3LDIwNTI3MDc3MDgsLTMzMz
+ExMzM2M119
 -->
