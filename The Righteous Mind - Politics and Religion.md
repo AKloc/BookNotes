@@ -18,12 +18,12 @@
 - Each one of those foundations is like a taste on the tongue - and the more tastes you can appeal to, generally the better.
 
 **What can I do with this?**
-- The "five foundations" concept will probably be a lens that I'll try to actively use both when consuming (reading about politics) and producing (if I'm doing a presentation that has any controversial topics
+- The "five foundations" concept will probably be a lens that I'll try to actively use both when consuming (reading about politics) and producing (if I'm doing a presentation that has any controversial topics / plans, it could help to try to appeal to as many foundations as possible subtly).
 
 **Personal Bottom Line**
 - x/10
 - This is written pretty academically. I was hoping for a lit more actual political talk, but large portions of the book are spent on topics like evolution, philosophy, and psychology stuff. It isn't a horrible thing because clearly it all factors in, but rather than just touching on the topics and plugging them into the larger thesis, we get a history of competing theories, dive into detail of experiments that probably wasn't really necessary, etc. I would've preferred a somewhat tighter focus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjMxNDQzNCwyMDUyNzA3NzA4LC0zMz
-MxMTMzNjNdfQ==
+eyJoaXN0b3J5IjpbNDYzNTE3NjMzLDIwNTI3MDc3MDgsLTMzMz
+ExMzM2M119
 -->
