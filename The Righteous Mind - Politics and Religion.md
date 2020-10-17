@@ -11,19 +11,19 @@
 - Five foundations:
 	- Care / Harm
 	- Fairness / Cheating
-	- Loyaltyv/ Betrayal
+	- Loyalty / Betrayal
 	- Authority / Subversion
-	- Sanctity / Degredation
+	- Sanctity / Degradation
 - Left cares primarily about Care and Fairness, but the right cares about all five.
-- Each 
+- Each one of those foundations is like a taste on the tongue - and the more tastes you can appeal to, generally the better.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- The "five foundations" concept provide
 
 **Personal Bottom Line**
 - x/10
 - This is written pretty academically. I was hoping for a lit more actual political talk, but large portions of the book are spent on topics like evolution, philosophy, and psychology stuff. It isn't a horrible thing because clearly it all factors in, but rather than just touching on the topics and plugging them into the larger thesis, we get a history of competing theories, dive into detail of experiments that probably wasn't really necessary, etc. I would've preferred a somewhat tighter focus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MTMzNTM5LDIwNTI3MDc3MDgsLTMzMz
+eyJoaXN0b3J5IjpbNDQyOTE4Mzg2LDIwNTI3MDc3MDgsLTMzMz
 ExMzM2M119
 -->
