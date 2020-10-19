@@ -1,7 +1,7 @@
-## Bringing Columbia Home
+## Bringing Columbia Home (Oct 2020)
 
 **Purpose For Reading**
-- What am I hoping to get out of reading this?
+- I went down the Challenger / Columbia rabbit hole lately.
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -12,5 +12,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjc1NTg1MF19
+eyJoaXN0b3J5IjpbLTE5MTIyNzI1NjNdfQ==
 -->
