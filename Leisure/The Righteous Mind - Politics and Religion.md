@@ -22,8 +22,9 @@
 - The "five foundations" concept will probably be a lens that I'll try to actively use both when consuming (reading about politics) and producing (if I'm doing a presentation that has any controversial topics / plans, it could help to try to appeal to as many foundations as possible subtly).
 
 **Personal Bottom Line**
-- 8/10
+- 5/10
 - This is written pretty academically. I was hoping for a lit more actual political talk, but large portions of the book are spent on topics like evolution, philosophy, and psychology stuff. It isn't a horrible thing because clearly it all factors in, but rather than just touching on the topics and plugging them into the larger thesis, we get a history of competing theories, dive into detail of experiments that probably wasn't really necessary, etc. I would've preferred a somewhat tighter focus.
+- Returning to this a few days after I finished reading it and having read some Amazon reviews - it's pretty bloated. The author's take on liberals only being concerned with two foundations doesn't really seem like it was well-proven. Also 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ3MDc3ODJdfQ==
+eyJoaXN0b3J5IjpbMjEwOTMwMTc2NywtMTk0NDcwNzc4Ml19
 -->
