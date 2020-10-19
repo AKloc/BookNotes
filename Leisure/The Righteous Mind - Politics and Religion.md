@@ -24,7 +24,7 @@
 **Personal Bottom Line**
 - 5/10
 - This is written pretty academically. I was hoping for a lit more actual political talk, but large portions of the book are spent on topics like evolution, philosophy, and psychology stuff. It isn't a horrible thing because clearly it all factors in, but rather than just touching on the topics and plugging them into the larger thesis, we get a history of competing theories, dive into detail of experiments that probably wasn't really necessary, etc. I would've preferred a somewhat tighter focus.
-- Returning to this a few days after I finished reading it and having read some Amazon reviews - it's pretty bloated. The author's take on liberals only being concerned with two foundations doesn't really seem like it was well-proven. Also 
+- Returning to this a few days after I finished reading it and having read some Amazon reviews - it's pretty bloated. The author's take on liberals only being concerned with two foundations doesn't really seem like it was well-proven. I also realized that I didn't quite get out of this book what I wanted, which was to have more understanding and be armed with strategies to help be  close the political rift in the country.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTMwMTc2NywtMTk0NDcwNzc4Ml19
+eyJoaXN0b3J5IjpbLTE1NTQ3NjY0MCwtMTk0NDcwNzc4Ml19
 -->
