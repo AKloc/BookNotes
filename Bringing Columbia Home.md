@@ -8,11 +8,13 @@
 - Didn't know about a (suspected) piece of the leading wing that was caught on radar before burning up in the atmosphere. Crazy.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- I want to visit the KSC more now and visit the Columbia's front window pane.
 
 **Personal Bottom Line**
-- x/10
+- 8.5/10
+- Detailed, informative, engaging.
+- Nice mix of human and technical writing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE5Mjc5MjcsLTEwODQxNTI5NzNdfQ
-==
+eyJoaXN0b3J5IjpbNTM1MTQzNDAyLC0xNTUxOTI3OTI3LC0xMD
+g0MTUyOTczXX0=
 -->
