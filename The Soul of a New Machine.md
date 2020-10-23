@@ -1,7 +1,9 @@
 ## The Soul of a New Machine (October 2020)
 
 **Purpose For Reading**
-- What am I hoping to get out of reading this?
+- Another highly recommended book on computer history.
+- Pulitzer Prize winner.
+- A lighter read after "Bringing Columbia Home".
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -12,5 +14,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ5OTc3ODddfQ==
+eyJoaXN0b3J5IjpbLTcyODQwMTYxM119
 -->
