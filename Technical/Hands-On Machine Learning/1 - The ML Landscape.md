@@ -35,8 +35,9 @@
 	- Visualization
 		- Also unsupervised.
 		- The models output a 2D or 3D representation of the data to make it easier to understand at a glance.
+		- Often uses "dimensionality reduction," which tries to simplify data without losing too much information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NzM5MzM0LC0xOTM0OTUyMTI5LC01Nz
-Q5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0Mjgz
-M119
+eyJoaXN0b3J5IjpbLTg5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNT
+c0OTk0ODU2LDE5Nzg3NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4
+MzNdfQ==
 -->
