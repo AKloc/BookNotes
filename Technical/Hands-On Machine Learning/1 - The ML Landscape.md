@@ -33,9 +33,10 @@
 			- Visualization and Dimensionality Reduction (Principal Component Analysis, Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic NEighbor Embedding)
 			- Association Rule Learning (Apriori, Eclat)
 	- Visualization
-		- Also unsupervised
+		- Also unsupervised.
+		- The models output a 2D or 3D representation of the data to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMTU0MDE1LC0xOTM0OTUyMTI5LC01Nz
-Q5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0Mjgz
-M119
+eyJoaXN0b3J5IjpbLTE5NjY0MDc0NTEsLTE5MzQ5NTIxMjksLT
+U3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3NzcsMzA4NjQy
+ODMzXX0=
 -->
