@@ -34,9 +34,9 @@
 			- Association Rule Learning (Apriori, Eclat)
 	- Visualization
 		- Also unsupervised.
-		- The models output a 2D or 3D representation of the data to 
+		- The models output a 2D or 3D representation of the data to make it easier to understand at a glance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY0MDc0NTEsLTE5MzQ5NTIxMjksLT
-U3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3NzcsMzA4NjQy
-ODMzXX0=
+eyJoaXN0b3J5IjpbNjk2NzM5MzM0LC0xOTM0OTUyMTI5LC01Nz
+Q5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0Mjgz
+M119
 -->
