@@ -65,12 +65,13 @@
 		- System learns examples and memorizes them, then compares new instances to the one it's memorized and applies a "measure of similarity" between known and new instances. 
 		- e.g.: An email spam filter that might do something like count the number of words in "good" emails and compare them against new emails to try to determine if they're spam.
 	- Model-based learning:
+		- System generalizes from a set of examples to build a model and then uses the model to make predictions.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAyMTA5ODQsLTQ0NTAxMzIwNSwtMT
-I3MTcxOTY5MiwtMTM2Njc2NjA5NCwtODk4MDkyNDQ2LC0xOTM0
-OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nz
-c3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTE3ODk2NTE1OTIsLTIxMzAyMTA5ODQsLT
+Q0NTAxMzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2NjA5NCwtODk4
+MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NT
+YxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
