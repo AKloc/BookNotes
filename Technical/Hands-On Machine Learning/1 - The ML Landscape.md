@@ -40,13 +40,14 @@
 	- "Anomaly Detection": If you know what "normal" looks like, you can look for things that aren't. e.g., credit card fraud, manufacturing defects, or removing outliers from a dataset.
 	- "Novelty Detection": Similar to anomaly detection, goal is to identify new data points that are different from the rest of the dataset. Requires very clean "backing" data to compare against.
 	- "Association rule learning": Uncovers relations between attributes. e.g.: I run an association rule against my grocery sales data and find that people who by bbq sauce and potato chips are also likely buying steak, so I put those items next to each other.
-- "Instance": Basically a single datapoint in the model. If I'm modeling something like how likely a user is to enroll in a particular medical coverage given a , then an "instance" would be a single user enrollment.
+- "Instance": Basically a single datapoint in the model. If I'm modeling something like how likely a user is to enroll in a particular medical coverage given a large dataset of previous enrollments, then an "instance" would be a single user enrollment.
 - Semisupervised Learning: 
-	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances.
+	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances. Semisupervised help classify unlabeled instances. e.g.: If I upload a photo into Google Photos, it can recognize the faces in my photos by itself.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDkzNzI5OCwtMTM2Njc2NjA5NCwtOD
-k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
-NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTE4MDg1MDE2NzUsLTEzNjY3NjYwOTQsLT
+g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
+NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 -->
