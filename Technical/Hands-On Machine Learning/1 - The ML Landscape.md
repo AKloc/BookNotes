@@ -40,11 +40,13 @@
 	- "Anomaly Detection": If you know what "normal" looks like, you can look for things that aren't. e.g., credit card fraud, manufacturing defects, or removing outliers from a dataset.
 	- "Novelty Detection": Similar to anomaly detection, goal is to identify new data points that are different from the rest of the dataset. Requires very clean "backing" data to compare against.
 	- "Association rule learning": Uncovers relations between attributes. e.g.: I run an association rule against my grocery sales data and find that people who by bbq sauce and potato chips are also likely buying steak, so I put those items next to each other.
+- "Instance": 
 - Semisupervised Learning: 
-	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances
+	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY3NjYwOTQsLTg5ODA5MjQ0NiwtMT
-kzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3NTU2MTEsMjEwMjg2
-Njc3NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbMTk3MDYxODU3MCwtMTM2Njc2NjA5NCwtOD
+k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
+NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
