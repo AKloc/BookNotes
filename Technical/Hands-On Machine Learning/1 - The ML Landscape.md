@@ -58,11 +58,15 @@
 		- Same with space. You don't need to horde huge amounts of instances to feed the model if you process it as it comes in.
 		- "Out-of-core learning": Basically a hack where you have the system learn on a chunk of data, then move to the next chunk, to avoid overloading the system's main memory. Sort of like memory paging with RAM.
 		- "Learning rate": How fast should the system process new data? If it's high, the system rapidly responds, but is quick to forget old data. If it's low, the system learns more slowly, but will be less sensitive to "noise" in the new data. Seems like a "how reactive do you want this to be?" setting. Don't set it too high for instances where weird data might roll in and throw off the whole model.
+		- Important when using online learning to monitor the input data and make sure it isn't "off," since it's going to be affecting the model directly.
+- Instance-based vs. Model-based learning
+	- Distinction is about how ML systems "generalize" / make predictions.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE3MTk2OTIsLTEzNjY3NjYwOTQsLT
-g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
-NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbLTk2MTA4MDM4OSwtMTI3MTcxOTY5MiwtMT
+M2Njc2NjA5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5
+OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM1
+19
 -->
