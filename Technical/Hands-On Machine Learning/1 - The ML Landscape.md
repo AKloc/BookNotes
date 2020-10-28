@@ -69,14 +69,16 @@
 		- e.g.: "Life Satisfaction" to "GDP per Capita" graph that shows that there's a trend with life satisfaction and GDP - almost a straight line. 
 			- Because the shape of the graph is a line, we would use a "model selection" of a "linear model". (This might sound wordy because I'm trying to capture all of the terms in the book, but it's literally just saying "Your data looks like a line, so predict using that same line.")
 			- The linear model has two parameters it takes. Depending on what those two values are set at, they can represent any linear function. In our case: *life_satisfaction =p1 + pw x GDP_per_capita*
-			- How do we know which values to use for p1 and p2? We need to specify a "performance measure" that tells us how good our mno
+			- How do we know which values to use for p1 and p2? We need to specify a "performance measure" that tells us how our model is performing. Two methods:
+				- "Fitness Function": tells you how GOOD your model is.
+				- "Cost Function": tells you how BAD your model is. Most linear regression uses cost functions that measure the distance between the model's prediction and the training examples. The model optimizes to REDUCE this distance.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDMyODkxNCwtMTAxOTQ1OTc0NiwtMj
-EzMDIxMDk4NCwtNDQ1MDEzMjA1LC0xMjcxNzE5NjkyLC0xMzY2
-NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5NTIxMjksLTU3NDk5ND
-g1NiwxOTc4NzU1NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbMjU1Njk0MDA0LC0xMDE5NDU5NzQ2LC0yMT
+MwMjEwOTg0LC00NDUwMTMyMDUsLTEyNzE3MTk2OTIsLTEzNjY3
+NjYwOTQsLTg5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0OD
+U2LDE5Nzg3NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 
 -->
