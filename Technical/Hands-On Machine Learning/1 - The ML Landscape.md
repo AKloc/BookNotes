@@ -67,13 +67,13 @@
 	- Model-based learning:
 		- System generalizes from a set of examples to build a model and then uses the model to make predictions.
 		- e.g.: "Life Satisfaction" to "GDP per Capita" graph that shows that there's a trend with life satisfaction and GDP - almost a straight line. 
-			- Because the shape of the graph is a line, 
+			- Because the shape of the graph is a line, we would use a "model selection" of a "linear model". (This might sound wordy because I'm trying to capture all of the terms in the book, but it's literally just saying "Your data looks like a line, so predict using that same line.")
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzgzMzE2MiwtMjEzMDIxMDk4NCwtND
-Q1MDEzMjA1LC0xMjcxNzE5NjkyLC0xMzY2NzY2MDk0LC04OTgw
-OTI0NDYsLTE5MzQ5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1Nj
-ExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbLTEwMTk0NTk3NDYsLTIxMzAyMTA5ODQsLT
+Q0NTAxMzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2NjA5NCwtODk4
+MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NT
+YxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
