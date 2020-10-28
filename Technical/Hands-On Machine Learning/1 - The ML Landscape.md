@@ -39,9 +39,12 @@
 	- "Feature extraction": Ties correlating features together to simplify the model. e.g., a car's mileage and age. There are "Dimensionality reduction algorithms" that can do this, leading to faster and simpler models that take up less disk space.
 	- "Anomaly Detection": If you know what "normal" looks like, you can look for things that aren't. e.g., credit card fraud, manufacturing defects, or removing outliers from a dataset.
 	- "Novelty Detection": Similar to anomaly detection, goal is to identify new data points that are different from the rest of the dataset. Requires very clean "backing" data to compare against.
-	- "Association rule learning": Uncovers relations between attributes. e.g.: I run 
+	- "Association rule learning": Uncovers relations between attributes. e.g.: I run an association rule against my grocery sales data and find that people who by bbq sauce and potato chips are also likely buying steak, so I put those items next to each other.
+- Semisupervised Learning: 
+	- Labeling data takes a lot of time, often 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzkyNzg2OSwtODk4MDkyNDQ2LC0xOT
+eyJoaXN0b3J5IjpbMTQ3Nzc3MTQxNiwtODk4MDkyNDQ2LC0xOT
 M0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2
 Nzc3LDMwODY0MjgzM119
 -->
