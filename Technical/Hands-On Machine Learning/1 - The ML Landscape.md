@@ -73,12 +73,13 @@
 				- "Fitness Function": tells you how GOOD your model is.
 				- "Cost Function": tells you how BAD your model is. Most linear regression uses cost functions that measure the distance between the model's prediction and the training examples. The model optimizes to REDUCE this distance.
 			- Going back to our GDP / life satisfaction model, this is where we can use a Linear Regression algorithm. We give it our training data, and IT will find the best parameters that match our data (this is called "training" the model). 
-				- (Relatively simple Python code ensues that loads data from a CSV
+				- (Relatively simple Python code ensues that loads data from a CSV, creates a model, feeds it the data, then predicts the life satisfaction for a country given a GDP).
+- Main Challenges of ML
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY5ODAyMDksLTIyOTY0OTI2NSwtMT
+eyJoaXN0b3J5IjpbLTE4MDcwMDIyNTMsLTIyOTY0OTI2NSwtMT
 AxOTQ1OTc0NiwtMjEzMDIxMDk4NCwtNDQ1MDEzMjA1LC0xMjcx
 NzE5NjkyLC0xMzY2NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5NT
 IxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3Nzcs
