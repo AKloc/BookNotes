@@ -42,12 +42,14 @@
 	- "Association rule learning": Uncovers relations between attributes. e.g.: I run an association rule against my grocery sales data and find that people who by bbq sauce and potato chips are also likely buying steak, so I put those items next to each other.
 - "Instance": Basically a single datapoint in the model. If I'm modeling something like how likely a user is to enroll in a particular medical coverage given a large dataset of previous enrollments, then an "instance" would be a single user enrollment.
 - Semisupervised Learning: 
-	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances. Semisupervised help classify unlabeled instances. e.g.: If I upload a photo into Google Photos, it can recognize the faces in my photos by itself.
+	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances. Semisupervised help classify unlabeled instances. e.g.: If I upload a photo into Google Photos, it can recognize the faces in my photos by itself, and if it doesn't recognize someone, it lets me name that person.
+- Reinforcement Learning:
+	- "Agent": The learning system.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg1MDE2NzUsLTEzNjY3NjYwOTQsLT
-g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
-NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbMjAzMjE0NjMxNCwtMTM2Njc2NjA5NCwtOD
+k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
+NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
