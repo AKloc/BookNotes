@@ -57,12 +57,12 @@
 		- Also a good option if computing resources are limited since you don't need the same sort of burst processing power as you would with batch learning.
 		- Same with space. You don't need to horde huge amounts of instances to feed the model if you process it as it comes in.
 		- "Out-of-core learning": Basically a hack where you have the system learn on a chunk of data, then move to the next chunk, to avoid overloading the system's main memory. Sort of like memory paging with RAM.
-		- "Learning rate": How fast should the system process new data? 
+		- "Learning rate": How fast should the system process new data? If it's high, the system rapidly responds, but is quick to forget old data. If it's low, the system learns more slowly, but will be less sensitive to "noise" in the new data. Seems like a "how reactive do you want this to be?" setting. Don't set it too high for instances where weird data might roll in and throw off the whole model.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzM0ODMwMywtMTM2Njc2NjA5NCwtOD
-k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
-NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTEyNzE3MTk2OTIsLTEzNjY3NjYwOTQsLT
+g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
+NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 -->
