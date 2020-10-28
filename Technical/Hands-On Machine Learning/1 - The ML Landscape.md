@@ -50,12 +50,14 @@
 		- Generally takes a lot of time, so is done offline. When the model is finished, it's put into production. From there, it isn't learning anything, just executing the model. AKA "Offline learning."
 		- Typically you retrain the model and replace the old ones. This can be automated so that the batch system is still generally responsive, just at certain increments of time rather than on a smooth / constant basis. Things that tie into the strategy is how often new data rolls in, how much time it takes to train the new model, etc.
 			- This approach is probably fine for something like predicting enrollments.
-			- 
+	- Online learning
+		- Train incrementally instead of in batches.
+		- Feed the model data instances sequentially, individually, in small groups (
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzc1NDk2LC0xMzY2NzY2MDk0LC04OT
-gwOTI0NDYsLTE5MzQ5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1
-NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbLTEyNjgwNzgyNzQsLTEzNjY3NjYwOTQsLT
+g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
+NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 -->
