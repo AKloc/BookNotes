@@ -53,12 +53,14 @@
 	- Online learning
 		- Train incrementally instead of in batches.
 		- Feed the model data instances sequentially, individually, in small groups ("mini-batches"), whatever works best. System learns as it goes.
-		- Preferred method for anything with a continuous flow (e.g., 
+		- Preferred method for anything with a continuous flow (e.g., stock prices).
+		- Also a good option if computing resources are limited since you don't need the same sort of burst processing power as you would with batch learning.
+		- Same with space. You don't need to horde huge amounts of instances to feed the model if you process it as it comes in.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjQxMzY2NiwtMTM2Njc2NjA5NCwtOD
+eyJoaXN0b3J5IjpbLTY5MjIyNjgyMywtMTM2Njc2NjA5NCwtOD
 k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
 NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
