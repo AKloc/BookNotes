@@ -30,14 +30,15 @@
 		- Most important algorithms covered later:
 			- Clustering (K-Means, DBSCAN, Hierarchical Cluster Analysis)
 			- Anomaly detection and novelty detection (One-class SVM, Isolation Forest)
-			- Visualization and Dimensionality Reduction (Principal Component Analysis, Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic NEighbor Embedding)
+			- Visualization and Dimensionality Reduction (Principal Component Analysis, Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic Neighbor Embedding)
 			- Association Rule Learning (Apriori, Eclat)
 	- Visualization
 		- Also unsupervised.
 		- The models output a 2D or 3D representation of the data to make it easier to understand at a glance.
 		- Often uses "dimensionality reduction," which tries to simplify data without losing too much information.
+		- "Feature extraction": Ties correlating features together to simplify the model. e.g., a car's mileage and age. There are "Dimensionality reduction
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNT
-c0OTk0ODU2LDE5Nzg3NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4
-MzNdfQ==
+eyJoaXN0b3J5IjpbNjQ3OTg1NTg3LC04OTgwOTI0NDYsLTE5Mz
+Q5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3
+NzcsMzA4NjQyODMzXX0=
 -->
