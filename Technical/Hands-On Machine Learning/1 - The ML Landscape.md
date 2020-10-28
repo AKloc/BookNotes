@@ -35,11 +35,12 @@
 	- Visualization
 		- Also unsupervised.
 		- The models output a 2D or 3D representation of the data to make it easier to understand at a glance.
-	- Visualuzation often uses "dimensionality reduction," which tries to simplify data without losing too much information.
+	- Visualization often uses "dimensionality reduction," which tries to simplify data without losing too much information.
 	- "Feature extraction": Ties correlating features together to simplify the model. e.g., a car's mileage and age. There are "Dimensionality reduction algorithms" that can do this, leading to faster and simpler models that take up less disk space.
-	- "Anomaly Detection": 
+	- "Anomaly Detection": If you know what "normal" looks like, you can look for things that aren't. e.g., credit card fraud, manufacturing defects, or removing outliers from a dataset.
+	- "Novelty Detection": Similar to anomaly detection. Aims to de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODg4OTQyOCwtODk4MDkyNDQ2LC0xOT
+eyJoaXN0b3J5IjpbMTEyNjY1ODc5MywtODk4MDkyNDQ2LC0xOT
 M0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2
 Nzc3LDMwODY0MjgzM119
 -->
