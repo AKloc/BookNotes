@@ -38,9 +38,10 @@
 	- Visualization often uses "dimensionality reduction," which tries to simplify data without losing too much information.
 	- "Feature extraction": Ties correlating features together to simplify the model. e.g., a car's mileage and age. There are "Dimensionality reduction algorithms" that can do this, leading to faster and simpler models that take up less disk space.
 	- "Anomaly Detection": If you know what "normal" looks like, you can look for things that aren't. e.g., credit card fraud, manufacturing defects, or removing outliers from a dataset.
-	- "Novelty Detection": Similar to anomaly detection. Aims to de
+	- "Novelty Detection": Similar to anomaly detection, goal is to identify new data points that are different from the rest of the dataset. Requires very clean "backing" data to compare against.
+	- "Association rule learning"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjY1ODc5MywtODk4MDkyNDQ2LC0xOT
-M0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2
-Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTE2NTE5NjYyMzQsLTg5ODA5MjQ0NiwtMT
+kzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3NTU2MTEsMjEwMjg2
+Njc3NywzMDg2NDI4MzNdfQ==
 -->
