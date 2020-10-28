@@ -47,13 +47,13 @@
 	- Uses an "agent," which can observe the environment and select and perform actions which may yield a reward or penalty based on what it does. Based on this learning, it determines a strategy, or "policy", that maximizes the reward over time. e.g.: Video game bots. Chess bots.
 - Batch and online learning
 	- Batch learning: The system doesn't learn as it goes. It's trained with all available data at once.
-		- Generally takes a lot of time, so is done offline.
-		- When the model is finished, it's put into production. From there, it isn't learning anything, just executing the model.
+		- Generally takes a lot of time, so is done offline. When the model is finished, it's put into production. From there, it isn't learning anything, just executing the model. AKA "Offline learning."
+		- Typically you retrain the model and replace the old ones. This can be automated so that the batch system is still generall
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NzI5MjAzLC0xMzY2NzY2MDk0LC04OT
-gwOTI0NDYsLTE5MzQ5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1
-NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbMTY1MzkyNjM1OCwtMTM2Njc2NjA5NCwtOD
+k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
+NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
