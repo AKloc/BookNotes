@@ -44,12 +44,14 @@
 - Semisupervised Learning: 
 	- Labeling data takes a lot of time, often will have a mix of labeled and unlabeled instances. Semisupervised help classify unlabeled instances. e.g.: If I upload a photo into Google Photos, it can recognize the faces in my photos by itself, and if it doesn't recognize someone, it lets me name that person.
 - Reinforcement Learning:
-	- Uses an "agent," which can observe the environment and select and perform actions which may yield a reward or penalty based on what it does. Based on this learning, it determines a strategy, or "policy", that maximizes the reward over time. e.g.: Video game bots.
+	- Uses an "agent," which can observe the environment and select and perform actions which may yield a reward or penalty based on what it does. Based on this learning, it determines a strategy, or "policy", that maximizes the reward over time. e.g.: Video game bots. Chess bots.
+- Batch and online learning
+	- Batch learning: The system doesn't learn each time it 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIyMDgyMzUsLTEzNjY3NjYwOTQsLT
-g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
-NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbMTYyMDQ2NTA0MiwtMTM2Njc2NjA5NCwtOD
+k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
+NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
