@@ -72,14 +72,15 @@
 			- How do we know which values to use for p1 and p2? We need to specify a "performance measure" that tells us how our model is performing. Two methods:
 				- "Fitness Function": tells you how GOOD your model is.
 				- "Cost Function": tells you how BAD your model is. Most linear regression uses cost functions that measure the distance between the model's prediction and the training examples. The model optimizes to REDUCE this distance.
-			- Going back to our GDP / life satisfaction model, this is where we can use a Linear Regression algorithm. We give it our training data, and IT will find the best parameters that match our data (this is called "training" the model).
+			- Going back to our GDP / life satisfaction model, this is where we can use a Linear Regression algorithm. We give it our training data, and IT will find the best parameters that match our data (this is called "training" the model). 
+				- (Relatively simple Python code ensues that loads data from a CSV
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjg0ODgwLC0yMjk2NDkyNjUsLTEwMT
-k0NTk3NDYsLTIxMzAyMTA5ODQsLTQ0NTAxMzIwNSwtMTI3MTcx
-OTY5MiwtMTM2Njc2NjA5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMT
-I5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMw
-ODY0MjgzM119
+eyJoaXN0b3J5IjpbLTE0MTY5ODAyMDksLTIyOTY0OTI2NSwtMT
+AxOTQ1OTc0NiwtMjEzMDIxMDk4NCwtNDQ1MDEzMjA1LC0xMjcx
+NzE5NjkyLC0xMzY2NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5NT
+IxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3Nzcs
+MzA4NjQyODMzXX0=
 -->
