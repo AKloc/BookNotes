@@ -61,11 +61,13 @@
 		- Important when using online learning to monitor the input data and make sure it isn't "off," since it's going to be affecting the model directly.
 - Instance-based vs. Model-based learning
 	- Distinction is about how ML systems "generalize" / make predictions.
+	- Instance-based learning:
+		- System learns examples and memorizes them, then compares new instances to the one it's memorized.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTA4MDM4OSwtMTI3MTcxOTY5MiwtMT
+eyJoaXN0b3J5IjpbLTQ0NTAxMzIwNSwtMTI3MTcxOTY5MiwtMT
 M2Njc2NjA5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5
 OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM1
 19
