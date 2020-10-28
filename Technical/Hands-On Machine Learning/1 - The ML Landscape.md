@@ -62,13 +62,14 @@
 - Instance-based vs. Model-based learning
 	- Distinction is about how ML systems "generalize" / make predictions.
 	- Instance-based learning:
-		- System learns examples and memorizes them, then compares new instances to the one it's memorized.
+		- System learns examples and memorizes them, then compares new instances to the one it's memorized and applies a "measure of similarity" between known and new instances. 
+			- e.g.: An email spam filter that might do something like count the number of words in "good" emails and compare them against new emails to try to determine if they're spam.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTAxMzIwNSwtMTI3MTcxOTY5MiwtMT
-M2Njc2NjA5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5
-OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM1
-19
+eyJoaXN0b3J5IjpbMTAxODAzOTEzMCwtNDQ1MDEzMjA1LC0xMj
+cxNzE5NjkyLC0xMzY2NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5
+NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3Nz
+csMzA4NjQyODMzXX0=
 -->
