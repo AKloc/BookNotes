@@ -48,12 +48,14 @@
 - Batch and online learning
 	- Batch learning: The system doesn't learn as it goes. It's trained with all available data at once.
 		- Generally takes a lot of time, so is done offline. When the model is finished, it's put into production. From there, it isn't learning anything, just executing the model. AKA "Offline learning."
-		- Typically you retrain the model and replace the old ones. This can be automated so that the batch system is still generall
+		- Typically you retrain the model and replace the old ones. This can be automated so that the batch system is still generally responsive, just at certain increments of time rather than on a smooth / constant basis. Things that tie into the strategy is how often new data rolls in, how much time it takes to train the new model, etc.
+			- This approach is probably fine for something like predicting enrollments.
+			- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzkyNjM1OCwtMTM2Njc2NjA5NCwtOD
-k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
-NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTc0Mzc1NDk2LC0xMzY2NzY2MDk0LC04OT
+gwOTI0NDYsLTE5MzQ5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1
+NjExLDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
 -->
