@@ -52,12 +52,13 @@
 			- This approach is probably fine for something like predicting enrollments.
 	- Online learning
 		- Train incrementally instead of in batches.
-		- Feed the model data instances sequentially, individually, in small groups (
+		- Feed the model data instances sequentially, individually, in small groups ("mini-batches"), whatever works best. System learns as it goes.
+		- Preferred method for anything with a continuous flow (e.g., 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgwNzgyNzQsLTEzNjY3NjYwOTQsLT
-g5ODA5MjQ0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3
-NTU2MTEsMjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
+eyJoaXN0b3J5IjpbLTU0NjQxMzY2NiwtMTM2Njc2NjA5NCwtOD
+k4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1
+NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
