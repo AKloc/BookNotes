@@ -77,14 +77,14 @@
 - Main Challenges of ML
 	- Boils down to: Bad model, or bad data.
 	- Bad data:
-		- Not having enough training d
+		- Not having enough training data
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYxNDExOTksLTE4MDcwMDIyNTMsLT
-IyOTY0OTI2NSwtMTAxOTQ1OTc0NiwtMjEzMDIxMDk4NCwtNDQ1
-MDEzMjA1LC0xMjcxNzE5NjkyLC0xMzY2NzY2MDk0LC04OTgwOT
-I0NDYsLTE5MzQ5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjEx
-LDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbODgwNDI5NTEzLC0xODA3MDAyMjUzLC0yMj
+k2NDkyNjUsLTEwMTk0NTk3NDYsLTIxMzAyMTA5ODQsLTQ0NTAx
+MzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2NjA5NCwtODk4MDkyND
+Q2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwy
+MTAyODY2Nzc3LDMwODY0MjgzM119
 -->
