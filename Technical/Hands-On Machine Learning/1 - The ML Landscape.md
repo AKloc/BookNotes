@@ -78,14 +78,14 @@
 	- Boils down to: Bad model, or bad data.
 	- Bad data:
 		- Not having enough training data. A Microsoft study showed that as you added more and more data, different algorithms would eventually end up converging on what they predicted. MORE DATA!
-		- Nonrepresentative training data. 
+		- Nonrepresentative training data. Going back to GDP example - you want to show countries across the entire spectrum if possible, so that the linear equation reflects that. If all of the data was concentrated in one area, it wouldn't do as good of a job predicting instances outside of that area.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NzA3NjMzLC0xODA3MDAyMjUzLC0yMj
-k2NDkyNjUsLTEwMTk0NTk3NDYsLTIxMzAyMTA5ODQsLTQ0NTAx
-MzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2NjA5NCwtODk4MDkyND
-Q2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwy
-MTAyODY2Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTE2Mjc2MTU0NDYsOTA3NzA3NjMzLC0xOD
+A3MDAyMjUzLC0yMjk2NDkyNjUsLTEwMTk0NTk3NDYsLTIxMzAy
+MTA5ODQsLTQ0NTAxMzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2Nj
+A5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYs
+MTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
 -->
