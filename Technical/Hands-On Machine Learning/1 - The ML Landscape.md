@@ -79,15 +79,16 @@
 	- Bad data:
 		- Not having enough training data. A Microsoft study showed that as you added more and more data, different algorithms would eventually end up converging on what they predicted. MORE DATA!
 		- Nonrepresentative training data. Going back to GDP example - you want to show countries across the entire spectrum if possible, so that the linear equation reflects that. If all of the data was concentrated in one area, it wouldn't do as good of a job predicting instances outside of that area. This is AKA "Sample bias." Another example - sending presidential polls out only to folks in reading clubs, who are going to be wealthier and more likely to vote Republican.
-		- Poor-quality data. Obvious one, if your data is full of trash data or noise. Have to be careful not to  
+		- Poor-quality data. Obvious one, if your data is full of trash data or noise. Have to be careful with what constitutes "trash," though. Having some outliers to reflect the reality of the superset is important.
+		- Irrelevant features. The system can  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3OTEyNjYsLTE2Mjc2MTU0NDYsOTA3Nz
-A3NjMzLC0xODA3MDAyMjUzLC0yMjk2NDkyNjUsLTEwMTk0NTk3
-NDYsLTIxMzAyMTA5ODQsLTQ0NTAxMzIwNSwtMTI3MTcxOTY5Mi
-wtMTM2Njc2NjA5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMTI5LC01
-NzQ5OTQ4NTYsMTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0Mj
-gzM119
+eyJoaXN0b3J5IjpbLTY1NDc5OTQ4NCwtMTYyNzYxNTQ0Niw5MD
+c3MDc2MzMsLTE4MDcwMDIyNTMsLTIyOTY0OTI2NSwtMTAxOTQ1
+OTc0NiwtMjEzMDIxMDk4NCwtNDQ1MDEzMjA1LC0xMjcxNzE5Nj
+kyLC0xMzY2NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5NTIxMjks
+LTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3NzcsMzA4Nj
+QyODMzXX0=
 -->
