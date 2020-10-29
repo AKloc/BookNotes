@@ -75,13 +75,16 @@
 			- Going back to our GDP / life satisfaction model, this is where we can use a Linear Regression algorithm. We give it our training data, and IT will find the best parameters that match our data (this is called "training" the model). 
 				- (Relatively simple Python code ensues that loads data from a CSV, creates a model, feeds it the data, then predicts the life satisfaction for a country given a GDP).
 - Main Challenges of ML
+	- Boils down to: Bad model, or bad data.
+	- Bad data:
+		- Not having enough training d
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcwMDIyNTMsLTIyOTY0OTI2NSwtMT
-AxOTQ1OTc0NiwtMjEzMDIxMDk4NCwtNDQ1MDEzMjA1LC0xMjcx
-NzE5NjkyLC0xMzY2NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5NT
-IxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3Nzcs
-MzA4NjQyODMzXX0=
+eyJoaXN0b3J5IjpbLTExNzYxNDExOTksLTE4MDcwMDIyNTMsLT
+IyOTY0OTI2NSwtMTAxOTQ1OTc0NiwtMjEzMDIxMDk4NCwtNDQ1
+MDEzMjA1LC0xMjcxNzE5NjkyLC0xMzY2NzY2MDk0LC04OTgwOT
+I0NDYsLTE5MzQ5NTIxMjksLTU3NDk5NDg1NiwxOTc4NzU1NjEx
+LDIxMDI4NjY3NzcsMzA4NjQyODMzXX0=
 -->
