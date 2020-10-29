@@ -78,14 +78,16 @@
 	- Boils down to: Bad model, or bad data.
 	- Bad data:
 		- Not having enough training data. A Microsoft study showed that as you added more and more data, different algorithms would eventually end up converging on what they predicted. MORE DATA!
-		- Nonrepresentative training data. Going back to GDP example - you want to show countries across the entire spectrum if possible, so that the linear equation reflects that. If all of the data was concentrated in one area, it wouldn't do as good of a job predicting instances outside of that area.
+		- Nonrepresentative training data. Going back to GDP example - you want to show countries across the entire spectrum if possible, so that the linear equation reflects that. If all of the data was concentrated in one area, it wouldn't do as good of a job predicting instances outside of that area. This is AKA "Sample bias." Another example - sending presidential polls out only to 
+		- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc2MTU0NDYsOTA3NzA3NjMzLC0xOD
-A3MDAyMjUzLC0yMjk2NDkyNjUsLTEwMTk0NTk3NDYsLTIxMzAy
-MTA5ODQsLTQ0NTAxMzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2Nj
-A5NCwtODk4MDkyNDQ2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYs
-MTk3ODc1NTYxMSwyMTAyODY2Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbLTk4OTg0ODE3NCwtMTYyNzYxNTQ0Niw5MD
+c3MDc2MzMsLTE4MDcwMDIyNTMsLTIyOTY0OTI2NSwtMTAxOTQ1
+OTc0NiwtMjEzMDIxMDk4NCwtNDQ1MDEzMjA1LC0xMjcxNzE5Nj
+kyLC0xMzY2NzY2MDk0LC04OTgwOTI0NDYsLTE5MzQ5NTIxMjks
+LTU3NDk5NDg1NiwxOTc4NzU1NjExLDIxMDI4NjY3NzcsMzA4Nj
+QyODMzXX0=
 -->
