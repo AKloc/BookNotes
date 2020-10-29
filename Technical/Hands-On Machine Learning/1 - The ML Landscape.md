@@ -77,14 +77,14 @@
 - Main Challenges of ML
 	- Boils down to: Bad model, or bad data.
 	- Bad data:
-		- Not having enough training data
+		- Not having enough training data. A Microsoft study showed that as you added more and more data, different algorithms would eventually end up converging on what they 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNDI5NTEzLC0xODA3MDAyMjUzLC0yMj
-k2NDkyNjUsLTEwMTk0NTk3NDYsLTIxMzAyMTA5ODQsLTQ0NTAx
-MzIwNSwtMTI3MTcxOTY5MiwtMTM2Njc2NjA5NCwtODk4MDkyND
-Q2LC0xOTM0OTUyMTI5LC01NzQ5OTQ4NTYsMTk3ODc1NTYxMSwy
-MTAyODY2Nzc3LDMwODY0MjgzM119
+eyJoaXN0b3J5IjpbMjA5MDAwNzM3OCwtMTgwNzAwMjI1MywtMj
+I5NjQ5MjY1LC0xMDE5NDU5NzQ2LC0yMTMwMjEwOTg0LC00NDUw
+MTMyMDUsLTEyNzE3MTk2OTIsLTEzNjY3NjYwOTQsLTg5ODA5Mj
+Q0NiwtMTkzNDk1MjEyOSwtNTc0OTk0ODU2LDE5Nzg3NTU2MTEs
+MjEwMjg2Njc3NywzMDg2NDI4MzNdfQ==
 -->
