@@ -5,14 +5,16 @@
  
 **Main Takeaways & Metacognition**
 - Chaos Engineering is basically about creating a CULTURE of experimentation with complex systems, not just running random tests.
+- Chapter 9 has a good series of questions to ask before and after 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
+- C
 
 **Personal Bottom Line**
 - 6.5/10
 - Pages 20-100 are basically just different accounts of the same general philosophy. Seemed like filler since none of it was particularly controversial or requiring lots of convincing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM5MzExOSwtMTMwMjk4ODgxMiwtMT
-AyOTM5NTkzN119
+eyJoaXN0b3J5IjpbLTIwMTk5NTg0NDMsLTEyMjM5MzExOSwtMT
+MwMjk4ODgxMiwtMTAyOTM5NTkzN119
 -->
