@@ -7,16 +7,17 @@
 - Chaos Engineering is basically about creating a CULTURE of experimentation with complex systems, not just running random tests.
 - Chapter 9 has a good series of questions to ask before and after exercises. Nothing terribly surprising, but good ideas.
 - Chapter 10 gets into the idea of people being as important to the system as the architecture. What happens if the wrong person is on vacation? Where is that documented? AKA "dark debt."
-- 
+- Threw the towel in on page 175. 
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
-- C
+- I buy into the concept, assuming one can get business signoff and set the tooling up.
 
 **Personal Bottom Line**
-- 6.5/10
+- 6/10
+- Concept is fine, but basically boils down to "You should explore the limits of your system." All of the concrete examples are good, but they overlap
 - Pages 20-100 are basically just different accounts of the same general philosophy. Seemed like filler since none of it was particularly controversial or requiring lots of convincing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzUzNTEzOCwtMjAxOTk1ODQ0MywtMT
-IyMzkzMTE5LC0xMzAyOTg4ODEyLC0xMDI5Mzk1OTM3XX0=
+eyJoaXN0b3J5IjpbLTkyMDU1MzQ3NywxNDE3NTM1MTM4LC0yMD
+E5OTU4NDQzLC0xMjIzOTMxMTksLTEzMDI5ODg4MTIsLTEwMjkz
+OTU5MzddfQ==
 -->
