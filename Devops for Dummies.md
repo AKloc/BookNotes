@@ -26,12 +26,14 @@
 - I have to use "inertia" more.
 - Why do we not have a "How was your experience" box when users finish enrollment?
 - Great employee poll questions on page 66. I like the idea of giving a free-form textbox after each question
-- Add a field to feature tickets for business objectives? 
+- Add a field to feature tickets for business objectives? Which client are we landing... WHY are we doing this?
+- The MVP questions on page 86 are al
 
 **Personal Bottom Line**
 - x/10
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczMjYwODIwLDgyMTk4MDQ3M119
+eyJoaXN0b3J5IjpbMjE0MDg0NDI1NCwyNzMyNjA4MjAsODIxOT
+gwNDczXX0=
 -->
