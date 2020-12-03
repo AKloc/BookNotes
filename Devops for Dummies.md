@@ -1,7 +1,7 @@
 ## DevOps For Dummies (December 2020)
 
 **Purpose For Reading**
-- This was a bookclub pick.
+- Book club pick, has come up before in conversations of good books.
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -11,6 +11,8 @@
 
 **Personal Bottom Line**
 - x/10
+- Really well-written, good pacing.
+- Content is definitely broader than you'd believe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNjg4NzQwXX0=
+eyJoaXN0b3J5IjpbODEwNjI5NjY3XX0=
 -->
