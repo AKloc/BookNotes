@@ -11,13 +11,15 @@
 
 **What can I do with this?**
 - I buy into the concept, assuming one can get business signoff and set the tooling up.
+- I know right where to go in terms of coming up with a template for a game day type exercise.
 
 **Personal Bottom Line**
 - 6/10
 - Concept is fine, but basically boils down to "You should explore the limits of your system." 
 - All of the concrete examples are good, but the overlap is huge.
 - Pages 20-100 are basically just different accounts of the same general philosophy. Seemed like filler since none of it was particularly controversial or requiring lots of convincing.
-- Bottom line: Probably should've been a 150 page book at the high end with half of the examples and less repition.
+- Bottom line: Probably should've been a 150 page book at the high end with half of the examples and less repetition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEwMTg4MjhdfQ==
+eyJoaXN0b3J5IjpbLTIwNzcyMDY1NjAsLTEyMTEwMTg4MjhdfQ
+==
 -->
