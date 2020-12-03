@@ -10,15 +10,21 @@
 - Values:
 	- Encourage teamwork
 	- Reduce silos
-	- Practice systems thinking (everything impacts ever
+	- Practice systems thinking (everything impacts everything)
+	- Embrace failure
+	- Communicate
+	- Accept feedback
+	- Automate processes when appropriate
+- 
 
 **What can I do with this?**
 - I have to use "inertia" more.
+- Why do we not have a "How'd your experien
 
 **Personal Bottom Line**
 - x/10
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMTg2NjM0LDgyMTk4MDQ3M119
+eyJoaXN0b3J5IjpbMjAyNTc1NTcwMiw4MjE5ODA0NzNdfQ==
 -->
