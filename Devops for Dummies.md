@@ -12,7 +12,7 @@
 **Personal Bottom Line**
 - x/10
 - Really well-written, good pacing.
-- Content is definitely broader than you'd believe 
+- Content is definitely broader than what I thought would be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNjI5NjY3XX0=
+eyJoaXN0b3J5IjpbODIxOTgwNDczXX0=
 -->
