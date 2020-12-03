@@ -19,15 +19,18 @@
 	- Idea prizes
 	- Hack time
 	- Fun off-sites
+- Gartner's Hype Cycle
+- 
 
 **What can I do with this?**
 - I have to use "inertia" more.
 - Why do we not have a "How was your experience" box when users finish enrollment?
+- Great employee poll questions on page 
 
 **Personal Bottom Line**
 - x/10
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTExMzEwOCw4MjE5ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbNDA4MjYxOTMxLDgyMTk4MDQ3M119
 -->
