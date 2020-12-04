@@ -33,7 +33,9 @@
 	- How is my MVP differentiated?
 	- How can I steal customers or reach customers?
 - Bucket features into three categories to start drawing up a roadmap:
-	- 
+	- Features you can't live without
+	- Features that are nice to have
+	- Features that don't matter (basical
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -48,7 +50,7 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDEzMDY0MCwtMTUxMjI4MDcwMSwtNz
-c1ODcwMDg4LDE2MDQ4MTc2MTUsMjczMjYwODIwLDgyMTk4MDQ3
-M119
+eyJoaXN0b3J5IjpbLTE4ODIwMzY5OTksLTE1MTIyODA3MDEsLT
+c3NTg3MDA4OCwxNjA0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0
+NzNdfQ==
 -->
