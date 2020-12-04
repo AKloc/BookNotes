@@ -20,7 +20,8 @@
 	- Hack time
 	- Fun off-sites
 - Gartner's Hype Cycle
-- 
+- MVP stuff on page 86 and 87:
+	- 
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -40,6 +41,6 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTg3MDA4OCwxNjA0ODE3NjE1LDI3Mz
-I2MDgyMCw4MjE5ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbLTIwMzY2MjI0MTAsLTc3NTg3MDA4OCwxNj
+A0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNdfQ==
 -->
