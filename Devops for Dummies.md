@@ -20,15 +20,7 @@
 	- Hack time
 	- Fun off-sites
 - Gartner's Hype Cycle
-- MVP stuff on page 86 and 87:
-	- 
-
-**What can I do with this?**
-- I have to use "inertia" more.
-- Why do we not have a "How was your experience" box when users finish enrollment?
-- Great employee poll questions on page 66. I like the idea of giving a free-form textbox after each question
-- Add a field to feature tickets for business objectives? Which client are we landing... WHY are we doing this?
-- The MVP questions on page 86 are concise and probably a good copy / paste for some side projects.
+- Discovering the problem the MVP should solve:
 	- What is the challenge you want to solve?
 	- Why does the challenge exist?
 	- In which industry is it most commonly experienced?
@@ -36,11 +28,19 @@
 	- If you're the customer, why do you need this product?
 	- What's the value of solving this problem?
 
+**What can I do with this?**
+- I have to use "inertia" more.
+- Why do we not have a "How was your experience" box when users finish enrollment?
+- Great employee poll questions on page 66. I like the idea of giving a free-form textbox after each question
+- Add a field to feature tickets for business objectives? Which client are we landing... WHY are we doing this?
+- The MVP questions on page 86 are concise and probably a good copy / paste for some side projects.
+
+
 **Personal Bottom Line**
 - x/10
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY2MjI0MTAsLTc3NTg3MDA4OCwxNj
+eyJoaXN0b3J5IjpbLTIwMzY5MTM5MTEsLTc3NTg3MDA4OCwxNj
 A0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNdfQ==
 -->
