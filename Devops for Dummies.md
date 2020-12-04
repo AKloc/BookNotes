@@ -38,7 +38,8 @@
 	- Features that are nice to have
 	- Features that don't matter (basically items that no one would fight for)
 - Create customer personas, deliberately.
-- 
+	- Have to understand and be able to project your perspective users.
+	- Create four or five INDIVIDUALS. With names, jobs, genders, salaries, locations. Build using these individuals as a lens.
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -53,7 +54,7 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMzU4MTI0LC0xNTEyMjgwNzAxLC03Nz
+eyJoaXN0b3J5IjpbNTIwODI2NjY0LC0xNTEyMjgwNzAxLC03Nz
 U4NzAwODgsMTYwNDgxNzYxNSwyNzMyNjA4MjAsODIxOTgwNDcz
 XX0=
 -->
