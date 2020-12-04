@@ -47,7 +47,7 @@
 - "Mushroom Management": Devs get limited information based on manager decisions alone, with no collective understanding.
 - Deployment Schemes:
 	- Blue-green: Deploy new release to another environment and then move all traffic over at once.
-	- Canary: Same as blue-green, but move traffic over 
+	- Canary: Same as blue-green, but move traffic over slowly. The canaries 
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -62,7 +62,7 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNTYwMDQsLTE1MTIyODA3MDEsLTc3NT
-g3MDA4OCwxNjA0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNd
-fQ==
+eyJoaXN0b3J5IjpbLTc0MzQxMzMyOSwtMTUxMjI4MDcwMSwtNz
+c1ODcwMDg4LDE2MDQ4MTc2MTUsMjczMjYwODIwLDgyMTk4MDQ3
+M119
 -->
