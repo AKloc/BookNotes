@@ -41,7 +41,7 @@
 	- Have to understand and be able to project your perspective users.
 	- Create four or five INDIVIDUALS. With names, jobs, genders, salaries, locations. Build using these individuals as a lens.
 
-**Development**
+**Back to DevOps Stuff**
 - Document architecture decisions, including why you DON'T do certain things, in a .md file called "Architecture Decisions" in the code.
 - Keep people in marginalized groups at least in pairs so they can amplify each other's voices rather than feel isolated.
 
@@ -58,7 +58,7 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUxNzYzODEsLTE1MTIyODA3MDEsLT
-c3NTg3MDA4OCwxNjA0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTkzOTExMDE3NSwtMTUxMjI4MDcwMSwtNz
+c1ODcwMDg4LDE2MDQ4MTc2MTUsMjczMjYwODIwLDgyMTk4MDQ3
+M119
 -->
