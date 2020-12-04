@@ -27,6 +27,8 @@
 	- Does the problem affect the majority of people or is it niche?
 	- If you're the customer, why do you need this product?
 	- What's the value of solving this problem?
+- "If your company has no competitors, that's a huge red flag."
+	- 
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -41,6 +43,6 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY5MTM5MTEsLTc3NTg3MDA4OCwxNj
-A0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbMTcwNzQzMDE0NiwtNzc1ODcwMDg4LDE2MD
+Q4MTc2MTUsMjczMjYwODIwLDgyMTk4MDQ3M119
 -->
