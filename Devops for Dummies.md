@@ -55,7 +55,7 @@
 - MOTIVATION:
 	- Autonomy
 	- Mastery
-	- Purpose!!!!!!!! yeet poop
+	- Purpose!!!!!!!! yeet poop im a smelly ape-Andy Kloc P.S i LOOOOOOVE Hamilton
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -70,8 +70,8 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyODAzNzkxLDM1NjQyNzk3LC0xMjQzNz
-AwODAxLC04MDg1Mzc1OTQsMTQ2NzQ3MDQxLC0xNTEyMjgwNzAx
-LC03NzU4NzAwODgsMTYwNDgxNzYxNSwyNzMyNjA4MjAsODIxOT
-gwNDczXX0=
+eyJoaXN0b3J5IjpbLTczMDA3NTQxNywzNTY0Mjc5NywtMTI0Mz
+cwMDgwMSwtODA4NTM3NTk0LDE0Njc0NzA0MSwtMTUxMjI4MDcw
+MSwtNzc1ODcwMDg4LDE2MDQ4MTc2MTUsMjczMjYwODIwLDgyMT
+k4MDQ3M119
 -->
