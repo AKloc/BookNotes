@@ -62,6 +62,7 @@
 	- 300: "Go here for what you're looking for"
 	- 400: "User error."
 	- 500: "It's me, not you."
+- Good summarization of cloud services on page 304 between GCP, Azure, and AWS
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -72,11 +73,12 @@
 
 
 **Personal Bottom Line**
-- x/10
+- 9/10
 - Really well-written, good pacing.
+- Encourages you up-front to jump around in sections that you already
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzAzMDIyMywxOTM0NzExNzI3LC03Mz
+eyJoaXN0b3J5IjpbLTg5MjE3MTA4NSwxOTM0NzExNzI3LC03Mz
 AwNzU0MTcsMzU2NDI3OTcsLTEyNDM3MDA4MDEsLTgwODUzNzU5
 NCwxNDY3NDcwNDEsLTE1MTIyODA3MDEsLTc3NTg3MDA4OCwxNj
 A0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNdfQ==
