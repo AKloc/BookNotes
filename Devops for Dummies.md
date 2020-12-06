@@ -51,6 +51,7 @@
 	- BOTH REQUIRE THAT YOU CAN MANAGE YOUR SESSIONS ACROSS ENVIRONMENTS.
 - Measures to watch when trying to improve performance on page 171.
 - "Dogfooding": Using your own software.
+- "Wouldn't you be loyal to an organization that took a risk on you? Wouldn't you be excited to work hard?
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -65,7 +66,7 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM3MDA4MDEsLTgwODUzNzU5NCwxND
-Y3NDcwNDEsLTE1MTIyODA3MDEsLTc3NTg3MDA4OCwxNjA0ODE3
-NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbMzU2NDI3OTcsLTEyNDM3MDA4MDEsLTgwOD
+UzNzU5NCwxNDY3NDcwNDEsLTE1MTIyODA3MDEsLTc3NTg3MDA4
+OCwxNjA0ODE3NjE1LDI3MzI2MDgyMCw4MjE5ODA0NzNdfQ==
 -->
