@@ -56,6 +56,7 @@
 	- Autonomy
 	- Mastery
 	- Purpose
+- 
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -70,8 +71,8 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMyMTgxMDIsLTczMDA3NTQxNywzNT
-Y0Mjc5NywtMTI0MzcwMDgwMSwtODA4NTM3NTk0LDE0Njc0NzA0
-MSwtMTUxMjI4MDcwMSwtNzc1ODcwMDg4LDE2MDQ4MTc2MTUsMj
-czMjYwODIwLDgyMTk4MDQ3M119
+eyJoaXN0b3J5IjpbMTkzNDcxMTcyNywtNzMwMDc1NDE3LDM1Nj
+QyNzk3LC0xMjQzNzAwODAxLC04MDg1Mzc1OTQsMTQ2NzQ3MDQx
+LC0xNTEyMjgwNzAxLC03NzU4NzAwODgsMTYwNDgxNzYxNSwyNz
+MyNjA4MjAsODIxOTgwNDczXX0=
 -->
