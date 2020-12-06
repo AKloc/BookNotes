@@ -49,6 +49,7 @@
 	- Blue-green: Deploy new release to another environment and then move all traffic over at once.
 	- Canary: Same as blue-green, but rather than moving everything at once between environments, send canary groups over to make sure they don't have issues.
 	- BOTH REQUIRE THAT YOU CAN MANAGE YOUR SESSIONS ACROSS ENVIRONMENTS.
+- 
 
 **What can I do with this?**
 - I have to use "inertia" more.
@@ -63,7 +64,7 @@
 - Really well-written, good pacing.
 - Content is definitely broader than what I thought would be, but not in a bad way. Good insights with some of the culture stuff and how it all ties together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzQ3MDQxLC0xNTEyMjgwNzAxLC03Nz
-U4NzAwODgsMTYwNDgxNzYxNSwyNzMyNjA4MjAsODIxOTgwNDcz
-XX0=
+eyJoaXN0b3J5IjpbLTgwODUzNzU5NCwxNDY3NDcwNDEsLTE1MT
+IyODA3MDEsLTc3NTg3MDA4OCwxNjA0ODE3NjE1LDI3MzI2MDgy
+MCw4MjE5ODA0NzNdfQ==
 -->
