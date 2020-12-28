@@ -2,7 +2,7 @@
 ## Brotopia
 
 **Purpose For Reading**
-- Raising awareness
+- Diversity is a major issue in the industry. I want to raise my awareness of the history, the issues, and what sorts of things I might be able to do t
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -13,5 +13,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTcyMTkwOF19
+eyJoaXN0b3J5IjpbNDA1NDc1OTI5XX0=
 -->
