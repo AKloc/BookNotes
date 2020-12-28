@@ -2,7 +2,7 @@
 ## Brotopia
 
 **Purpose For Reading**
-- Raising 
+- Raising awareness
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -13,5 +13,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIxMzM5MzddfQ==
+eyJoaXN0b3J5IjpbMTI0NTcyMTkwOF19
 -->
