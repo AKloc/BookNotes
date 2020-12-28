@@ -7,7 +7,9 @@
 **Main Takeaways & Metacognition**
 - Really nice Silicon Valley history overall.
 - The Paypal Mafia - Thiel, Musk, etc. 
-	- Big b
+	- Big believers in meritocracy. The best should get the gig, period. 
+	- Does this work if the game is rigged against groups of people from the outset?
+- Interesting startup cons
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -15,5 +17,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA1MzI1NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY2MDMwOTddfQ==
 -->
