@@ -18,11 +18,12 @@
 - Reddit, 4chan, etc suffer from the same types of things. Story about how Reddit cofounders were raised on the internet, thought insane racist subreddits and whatnot were generally "fine" because of their own perspectives.
 
 **What can I do with this?**
-- Another reason not to No whiteboarding interviews. Even past the obvious unrealistic setting, it sets up a weird power dynamic. Some women literally are assuming they're being checked out when it's happening. Very alienating.
+- Another reason not to do whiteboarding interviews: some women literally are assuming they're being "checked out" when it's happening. Very alienating.
+- ASK: "Can you refer people to me that look like you?" There's a difference between looking for diverse candidates and 
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjU4MzM3MiwtMTg3MjE1Njk5Nyw1Nz
-k4NjAzNjcsLTE4OTg5Nzc2MTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzgzMzUyOTcsLTE4NzIxNTY5OTcsNT
+c5ODYwMzY3LC0xODk4OTc3NjE2XX0=
 -->
