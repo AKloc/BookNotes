@@ -15,7 +15,7 @@
 	- Sex parties where business was commonly discussed. If women attend, they get a reputation that follows them. If they don't attend, they're deemed prude.
 	- Day one sexual harassment. "I'm in an open relationship with my wife, she can find men, but I can't find women. How about it?"
 	- UNDERLYING THEME: These attitudes are baked into the culture of these organizations when they're male-dominated.
-- Reddit, 4chan, etc suffer from the same types of things. Story about how Reddit cofounders were raised in the inter
+- Reddit, 4chan, etc suffer from the same types of things. Story about how Reddit cofounders were raised on the internet, thought insane racist subreddits and whatnot were generally "fine" because of their own perspectives.
 
 **What can I do with this?**
 - What
@@ -23,6 +23,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTc2OTIwNCw1Nzk4NjAzNjcsLTE4OT
+eyJoaXN0b3J5IjpbMTYxMzkyMDIzMyw1Nzk4NjAzNjcsLTE4OT
 g5Nzc2MTZdfQ==
 -->
