@@ -18,11 +18,11 @@
 - Reddit, 4chan, etc suffer from the same types of things. Story about how Reddit cofounders were raised on the internet, thought insane racist subreddits and whatnot were generally "fine" because of their own perspectives.
 
 **What can I do with this?**
-- What
+- No whiteboarding interviews. Even past the obvious unrealistic setting, it sets up a weird power dynamic. Some women literally are assuming they're being checked out when it's happening. Very alienating.
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzkyMDIzMyw1Nzk4NjAzNjcsLTE4OT
-g5Nzc2MTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzIxNTY5OTcsNTc5ODYwMzY3LC0xOD
+k4OTc3NjE2XX0=
 -->
