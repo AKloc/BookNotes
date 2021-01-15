@@ -13,7 +13,8 @@
 - A lot of awful stories, in general, about Silicon valley.
 	- Doing business / having lunches at strip clubs.
 	- Sex parties where business was commonly discussed. If women attend, they get a reputation that follows them. If they don't attend, they're deemed prude.
-	- Day one sexual harassment. "I'm in an open relationship with my wife, 
+	- Day one sexual harassment. "I'm in an open relationship with my wife, she can find men, but I can't find women. How about it?"
+	- UNDERLYING THEME: These attitudes are baked into the culture of these organizations
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -21,5 +22,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTEwODYxMiwtMTg5ODk3NzYxNl19
+eyJoaXN0b3J5IjpbNTc5ODYwMzY3LC0xODk4OTc3NjE2XX0=
 -->
