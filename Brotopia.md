@@ -23,11 +23,13 @@
 - ASK: "Can you refer people to me that look like you?" There's a difference between looking for diverse candidates and discriminating against two candidates on the basis of gender / race.
 - SEEK DIVERSITY. Not as an HR checkbox, but as an opportunity to improve products, the way you work, everything.
 - Set diversity-based goals. Wait for candidates.
-- Get rid of the ping pong table. "W
+- Get rid of the ping pong table. "WORK HARD, GO HOME" ethos from Slack.
 
 **Personal Bottom Line**
-- x/10
+- 9/10
+- Got lost in this book. Really well-written, very convincing.
+- Like that a good amount of time is spent on the "why this is important for businesses" and actual solut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY5ODQ2NzksLTE4NzIxNTY5OTcsNT
+eyJoaXN0b3J5IjpbLTE1ODAyODMwMzMsLTE4NzIxNTY5OTcsNT
 c5ODYwMzY3LC0xODk4OTc3NjE2XX0=
 -->
