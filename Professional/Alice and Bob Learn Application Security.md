@@ -6,7 +6,7 @@
 - Probably add some good stuff to my cheat sheet project.
  
 **Main Takeaways & Metacognition**
--**Chapter 1** 
+- **Chapter 1 - Security Fundamentals**
 - Security boils down to CIA:
 	- Confidentiality (my data isn't visible)
 	- Integrity (data is current, correct, accurate)
@@ -26,5 +26,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMzI5NjEwLC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTIwMjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ
+==
 -->
