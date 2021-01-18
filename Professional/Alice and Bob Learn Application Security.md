@@ -22,7 +22,8 @@
 	- "Modern applications are typically made up of 20-40% original code, with the rest being third-party components."
 - "Security by obscurity": Concept that hiding sensitive information is a layer of security in itself. It's not complete BS but also usually isn't a legit strategy on its own.
 - "Attack surface reduction": removing everything from the application that isn't completely required. e.g., don't broadcast SSID of WiFi.
-- "Never trust, always verify" anything and everything outsod
+- "Never trust, always verify" anything and everything outside of the application. Validate data, validate permissions. Re-check on different pages.
+- "Usable security": There's a balance between good security and usability. Extreme end of scale: Never putting your application on the internet. Pragmatic: Fingerprint rea
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -30,6 +31,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTQyMDA5MCwtMjAyOTc2NDU3NSwtMT
-UzODc5NTcxN119
+eyJoaXN0b3J5IjpbNDA5NzYyMzIsLTIwMjk3NjQ1NzUsLTE1Mz
+g3OTU3MTddfQ==
 -->
