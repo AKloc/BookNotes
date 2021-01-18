@@ -11,7 +11,8 @@
 - Not much, though I understand where this might have been deemed as revolutionary because of how unrelentingly "negative" it was in its day.
 
 **Personal Bottom Line**
-- 5/10
+- 3/10
+- Author did a great job conveying the aimless thought process of the subject, but... so what?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzg2NzA3MV19
+eyJoaXN0b3J5IjpbMjA1MTA1Mzc3Nl19
 -->
