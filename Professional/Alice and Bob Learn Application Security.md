@@ -1,7 +1,8 @@
-## Alice & 
+## Alice & Bob Learn Application Security
 
 **Purpose For Reading**
-- What am I hoping to get out of reading this?
+- From the Liazon Book Club
+- Haven't read a security-centered book in a few years at least, good time for a refresher.
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -12,5 +13,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NjI4NzU5XX0=
+eyJoaXN0b3J5IjpbLTE1Mzg3OTU3MTddfQ==
 -->
