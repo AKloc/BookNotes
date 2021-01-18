@@ -4,13 +4,14 @@
 - A literary classic, cover art looked cool.
  
 **Main Takeaways & Metacognition**
-- What are the major themes / points made?
+- 120 pages of a self-imporant 19th century neckbeard ranting about how he's so mad that he can't function.
+- 
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- Not much, though I understand
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk2ODczNl19
+eyJoaXN0b3J5IjpbLTIwMTQ4ODk0NjFdfQ==
 -->
