@@ -15,7 +15,7 @@
 	- Access everywhere should be monitored and logged.
 - "Coordinated disclosure": announcing a vulnerability AFTER there's been enough time to patch it.
 - "Insider threats": saboteur employees, or employees who could possibly screw CIA up by accident.
-- "Defense in depth": Concept that multiple layers of security is good
+- "Defense in depth": Concept that multiple layers of security is good. e.g., Secure Coding + Security Testing + Firewall.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -23,5 +23,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzAwOTM4MSwtMTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbMTE0ODkwOTAyMCwtMTUzODc5NTcxN119
 -->
