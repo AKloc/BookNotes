@@ -18,7 +18,9 @@
 - "Insider threats": saboteur employees, or employees who could possibly screw CIA up by accident.
 - "Defense in depth": Concept that multiple layers of security is good. e.g., Secure Coding + Security Testing + Firewall + Door locks and keypads in the server rooms.
 - "Least privilege": Only grant the access that is absolutely necessary so that if someone were to get your access they can only do limited damage.
-- "Supply chain security": In software, concept is that you have to carefully monitor your code dependencies
+- "Supply chain security": In software, concept is that you have to carefully monitor your code dependencies for vulnerabilities.
+	- "Modern applications are typically made up of 20-40% original code, with the rest being third-party components."
+- "Security by obscurity": Concept that hiding inform
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -26,6 +28,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ
-==
+eyJoaXN0b3J5IjpbLTEwNTg5NzY3NDYsLTIwMjk3NjQ1NzUsLT
+E1Mzg3OTU3MTddfQ==
 -->
