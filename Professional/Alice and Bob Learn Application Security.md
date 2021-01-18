@@ -12,7 +12,10 @@
 	- Availability (up and running)
 - "Assume Breach": design with the assumption that someone has access to the network.
 	- Things should be locked down.
-	- Access everywhere should be monito
+	- Access everywhere should be monitored and logged.
+- "Coordinated disclosure": announcing a vulnerability AFTER there's been enough time to patch it.
+- "Insider threats": saboteur employees, or employees who could possibly screw CIA up by accident.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -20,5 +23,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzc5NTg3LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbMTcyMDk3NDI5MiwtMTUzODc5NTcxN119
 -->
