@@ -20,7 +20,9 @@
 - "Least privilege": Only grant the access that is absolutely necessary so that if someone were to get your access they can only do limited damage.
 - "Supply chain security": In software, concept is that you have to carefully monitor your code dependencies for vulnerabilities.
 	- "Modern applications are typically made up of 20-40% original code, with the rest being third-party components."
-- "Security by obscurity": Concept that hiding sensitive information is a layer of security in itself. It's not complete BS but also usually isn't a 
+- "Security by obscurity": Concept that hiding sensitive information is a layer of security in itself. It's not complete BS but also usually isn't a legit strategy on its own.
+- "Attack surface reduction": removing everything from the application that isn't completely required. e.g., don't broadcast SSID of WiFi.
+- "Never trust, always verify" anything and everything outsod
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -28,6 +30,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjA2MTAzOSwtMjAyOTc2NDU3NSwtMT
+eyJoaXN0b3J5IjpbMjEzOTQyMDA5MCwtMjAyOTc2NDU3NSwtMT
 UzODc5NTcxN119
 -->
