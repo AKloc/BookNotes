@@ -20,7 +20,7 @@
 - "Least privilege": Only grant the access that is absolutely necessary so that if someone were to get your access they can only do limited damage.
 - "Supply chain security": In software, concept is that you have to carefully monitor your code dependencies for vulnerabilities.
 	- "Modern applications are typically made up of 20-40% original code, with the rest being third-party components."
-- "Security by obscurity": Concept that hiding inform
+- "Security by obscurity": Concept that hiding sensitive information is a layer of security in itself. It's not complete BS but also usually isn't a 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -28,6 +28,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg5NzY3NDYsLTIwMjk3NjQ1NzUsLT
-E1Mzg3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbMTQyNjA2MTAzOSwtMjAyOTc2NDU3NSwtMT
+UzODc5NTcxN119
 -->
