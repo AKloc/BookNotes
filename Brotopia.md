@@ -28,8 +28,9 @@
 **Personal Bottom Line**
 - 9/10
 - Got lost in this book. Really well-written, very convincing.
-- Like that a good amount of time is spent on the "why this is important for businesses" and actual solut
+- Another effective empathy lens.
+- Like that a good amount of time is spent on the "why this is important for businesses" and actual potential solutions are recommended.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAyODMwMzMsLTE4NzIxNTY5OTcsNT
-c5ODYwMzY3LC0xODk4OTc3NjE2XX0=
+eyJoaXN0b3J5IjpbNTE3ODI4Njg4LC0xODcyMTU2OTk3LDU3OT
+g2MDM2NywtMTg5ODk3NzYxNl19
 -->
