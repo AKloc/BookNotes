@@ -24,6 +24,8 @@
 - "Attack surface reduction": removing everything from the application that isn't completely required. e.g., don't broadcast SSID of WiFi.
 - "Never trust, always verify" anything and everything outside of the application. Validate data, validate permissions. Re-check on different pages.
 - "Usable security": There's a balance between good security and usability. Extreme end of scale: Never putting your application on the internet. Pragmatic: Fingerprint readers, passphrases that are easier to remember than passwords.
+- "Authentication Factors": DOES NOT JUST MEAN TWO PASSWORDS. Basically means check for multiple FORMS of authentication:
+	- Something you have: e.g., a phone token, a computer that's been
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -31,6 +33,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NDUwOTk2LC0yMDI5NzY0NTc1LC0xNT
-M4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTEwMDc1MTE0OTIsLTIwMjk3NjQ1NzUsLT
+E1Mzg3OTU3MTddfQ==
 -->
