@@ -6,6 +6,7 @@
 - Probably add some good stuff to my cheat sheet project.
  
 **Main Takeaways & Metacognition**
+-**Chapter 1** 
 - Security boils down to CIA:
 	- Confidentiality (my data isn't visible)
 	- Integrity (data is current, correct, accurate)
@@ -15,7 +16,9 @@
 	- Access everywhere should be monitored and logged.
 - "Coordinated disclosure": announcing a vulnerability AFTER there's been enough time to patch it.
 - "Insider threats": saboteur employees, or employees who could possibly screw CIA up by accident.
-- "Defense in depth": Concept that multiple layers of security is good. e.g., Secure Coding + Security Testing + Firewall.
+- "Defense in depth": Concept that multiple layers of security is good. e.g., Secure Coding + Security Testing + Firewall + Door locks and keypads in the server rooms.
+- "Least privilege": Only grant the access that is absolutely necessary so that if someone were to get your access they can only do limited damage.
+- "Supply chain security": In software, concept is that you have to carefully monitor your code dependencies
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -23,5 +26,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODkwOTAyMCwtMTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbNjMyMzI5NjEwLC0xNTM4Nzk1NzE3XX0=
 -->
