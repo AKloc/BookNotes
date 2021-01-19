@@ -28,6 +28,7 @@
 	- Something you have: e.g., a phone token, a computer that's been validated...
 	- Something you ARE: fingerprint, iris scan, DNA...
 	- Something you KNOW: Password, pass questions
+- So "MFA" would actually mean you can use a phone authenticator AND a password, but just using a password and pass questions doesn't count because they're the same form of auth.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -35,6 +36,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjIzOTM3NywtOTk2ODIzNzAyLC0yMD
+eyJoaXN0b3J5IjpbMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMD
 I5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
