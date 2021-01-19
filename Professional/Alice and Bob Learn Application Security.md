@@ -25,7 +25,7 @@
 - "Never trust, always verify" anything and everything outside of the application. Validate data, validate permissions. Re-check on different pages.
 - "Usable security": There's a balance between good security and usability. Extreme end of scale: Never putting your application on the internet. Pragmatic: Fingerprint readers, passphrases that are easier to remember than passwords.
 - "Authentication Factors": DOES NOT JUST MEAN TWO PASSWORDS. Basically means check for multiple FORMS of authentication:
-	- Something you have: e.g., a phone token, a computer that's been validated...
+	- Something you HAVE: e.g., a phone token, a computer that's been validated...
 	- Something you ARE: fingerprint, iris scan, DNA...
 	- Something you KNOW: Password, pass questions
 - So "MFA" would actually mean you can use a phone authenticator AND a password, but just using a password and pass questions doesn't count because they're the same form of auth.
@@ -36,6 +36,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMD
-I5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOT
+k2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
