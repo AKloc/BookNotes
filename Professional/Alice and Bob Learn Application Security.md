@@ -40,7 +40,9 @@
 	- What availability do we need?
 	- Etc.
 - ENCRYPTION
-- "Cryptography": math that can be applied to 
+- "Cryptography": math that can be applied to information in order to make its value no longer understandable.
+- "Encryption": Two-way cryptography. You encrypt, send something, and the receiver can decrypt.
+- "Hashing": ONE-WAY cryptography. You can never get back to the original value. USED FOR PASSWORD STORAGE.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -48,7 +50,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAzMjMyMDAsLTEwMjM5ODQ1NzMsMj
-A0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4
-Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbOTgwODI4NTkwLC0xMDIzOTg0NTczLDIwND
+IxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2NDU3NSwtMTUzODc5
+NTcxN119
 -->
