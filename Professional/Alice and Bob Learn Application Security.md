@@ -29,6 +29,8 @@
 	- Something you ARE: fingerprint, iris scan, DNA...
 	- Something you KNOW: Password, pass questions
 - So "MFA" would actually mean you can use a phone authenticator AND a password, but just using a password and pass questions doesn't count because they're the same form of auth.
+- **Chapter 2: Security Requirements**
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -36,6 +38,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOT
-k2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbMTcwNjMwNDUwNCwtMTAyMzk4NDU3MywyMD
+QyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3
+OTU3MTddfQ==
 -->
