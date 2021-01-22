@@ -45,7 +45,8 @@
 - "Hashing": ONE-WAY cryptography. You can never get back to the original value. USED FOR PASSWORD STORAGE.
 - In general, encrypt in transit (sending data) and at rest (storing in database).
 - NEVER TRUST SYSTEM INPUT.
-	- "System input" is literally anything and everything that isn't part of your application. e.g., user input, info from _your own database_, info from APIs, URL parameters, cookies, images, HTTPS request headers, web proxies, con
+	- "System input" is literally anything and everything that isn't part of your application. e.g., user input, info from _your own database_, info from APIs, URL parameters, cookies, images, HTTPS request headers, web proxies, config files...
+- "XSS": JavaScript injected into your application from a hacker's browser. Defeated b
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -53,7 +54,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NTAzNjYsLTEyNzQzNjI1OTQsLTEwMj
-M5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0
-NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLT
+EwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5
+NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
