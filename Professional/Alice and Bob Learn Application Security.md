@@ -30,7 +30,11 @@
 	- Something you KNOW: Password, pass questions
 - So "MFA" would actually mean you can use a phone authenticator AND a password, but just using a password and pass questions doesn't count because they're the same form of auth.
 - **Chapter 2: Security Requirements**
-- 
+- "Partnership model": Assigning a security person to a development team, typically during a project kickoff.
+- Questions to ask during requirements gathering / analysis:
+	- Any PII?
+	- Where and how are we storing data?
+	- Is the app available publicly or i
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -38,7 +42,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjMwNDUwNCwtMTAyMzk4NDU3MywyMD
+eyJoaXN0b3J5IjpbMTg5ODAxNDM2OCwtMTAyMzk4NDU3MywyMD
 QyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3
 OTU3MTddfQ==
 -->
