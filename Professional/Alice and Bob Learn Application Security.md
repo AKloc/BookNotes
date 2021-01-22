@@ -34,7 +34,13 @@
 - Questions to ask during requirements gathering / analysis:
 	- Any PII?
 	- Where and how are we storing data?
-	- Is the app available publicly or i
+	- Is the app available publicly or internally only?
+	- Is the app doing anything sensitive or essential (e.g., moving money, unlocking doors, delivering medicine)
+	- Does the app do anything risky, e.g. allow users to upload files?
+	- What availability do we need?
+	- Etc.
+- ENCRYPTION
+- "Cryptography": math that can be applied to 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -42,7 +48,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODAxNDM2OCwtMTAyMzk4NDU3MywyMD
-QyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3
-OTU3MTddfQ==
+eyJoaXN0b3J5IjpbLTEzNDAzMjMyMDAsLTEwMjM5ODQ1NzMsMj
+A0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4
+Nzk1NzE3XX0=
 -->
