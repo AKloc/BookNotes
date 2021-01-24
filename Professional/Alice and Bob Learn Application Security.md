@@ -54,7 +54,9 @@
 	- Content-Security-Policy: explicitly defines what sources for contents are allowed for images, scripts, etc, so that nothing else will run. Can also define a report-uri that will log what was blocked.
 	- X-Frame-Options: prevents other sites from being able to put yours in a html frame that could dupe users.
 	- X-Content-Type-Options: tells the browser not to guess the content type of media in the app.
-	- Referrer-Policy: Sets how much of the URL another web app can see if your user navigates away. e.g., "www.blah.com" instead of "www.blah.com
+	- Referrer-Policy: Sets how much of the URL another web app can see if your user navigates away. e.g., "www.blah.com" instead of "www.blah.com/user/23523", or nothing at all.
+	- Strict-Transport-Security (HSTS): forces the connection to use HTTPS. Must have a certificate from a Certificate Authority (CA) installed.
+	- Feature-Policy
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -62,7 +64,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjkzMzE5MiwtODc1NTIxOTkxLDE5Mz
+eyJoaXN0b3J5IjpbMTM2NjE4MTk5NSwtODc1NTIxOTkxLDE5Mz
 k4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcx
 NDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIzOTg0NT
 czLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2NDU3NSwt
