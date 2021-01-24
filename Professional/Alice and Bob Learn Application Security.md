@@ -46,7 +46,9 @@
 - In general, encrypt in transit (sending data) and at rest (storing in database).
 - NEVER TRUST SYSTEM INPUT.
 	- "System input" is literally anything and everything that isn't part of your application. e.g., user input, info from _your own database_, info from APIs, URL parameters, cookies, images, HTTPS request headers, web proxies, config files...
-- "XSS": JavaScript injected into your application from a hacker's browser. Defeated by output encoding, which would show "<script>...." rather than actually 
+- "XSS": JavaScript injected into your application from a hacker's browser. **Defeated by output encoding**, which would show "<script>...." on the screen rather than run code on the user's browser.
+- Writing a new low-level program? Use Rust. It's memory safe, unlike C++ / C.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -54,7 +56,8 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLT
-EyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2
-ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbMTkxMTA4MDM4MiwtMTc0MDU3MTQ3OCwtMT
+EzNTc2OTc5NywtMTI3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQy
+MTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3OT
+U3MTddfQ==
 -->
