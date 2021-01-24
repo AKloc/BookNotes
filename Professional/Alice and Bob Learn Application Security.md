@@ -39,16 +39,17 @@
 	- Does the app do anything risky, e.g. allow users to upload files?
 	- What availability do we need?
 	- Etc.
-- ENCRYPTION
-- "Cryptography": math that can be applied to information in order to make its value no longer understandable.
-- "Encryption": Two-way cryptography. You encrypt, send something, and the receiver can decrypt.
-- "Hashing": ONE-WAY cryptography. You can never get back to the original value. USED FOR PASSWORD STORAGE.
-- In general, encrypt in transit (sending data) and at rest (storing in database).
+- **ENCRYPTION**
+	- "Cryptography": math that can be applied to information in order to make its value no longer understandable.
+	- "Encryption": Two-way cryptography. You encrypt, send something, and the receiver can decrypt.
+	- "Hashing": ONE-WAY cryptography. You can never get back to the original value. USED FOR PASSWORD STORAGE.
+	- In general, encrypt in transit (sending data) and at rest (storing in database).
 - NEVER TRUST SYSTEM INPUT.
 	- "System input" is literally anything and everything that isn't part of your application. e.g., user input, info from _your own database_, info from APIs, URL parameters, cookies, images, HTTPS request headers, web proxies, config files...
-- "XSS": JavaScript injected into your application from a hacker's browser. **Defeated by output encoding**, which would show "<script...." on the screen rather than run code on the user's browser.
+	- "XSS": JavaScript injected into your application from a hacker's browser. **Defeated by output encoding**, which would show "<script...." on the screen rather than run code on the user's browser.
 - Writing a new low-level program? Use Rust. It's memory safe, unlike C++ / C.
 - Use a third-party tool to scan your components for vulnerabilities.
+- **SECURITY HEADERS**
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -56,7 +57,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk4NDMzMDYsLTE3NDA1NzE0NzgsLT
+eyJoaXN0b3J5IjpbLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLT
 ExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0
 MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nz
 k1NzE3XX0=
