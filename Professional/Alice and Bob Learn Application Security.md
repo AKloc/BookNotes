@@ -50,8 +50,8 @@
 - Writing a new low-level program? Use Rust. It's memory safe, unlike C++ / C.
 - Use a third-party tool to scan your components for vulnerabilities.
 - **SECURITY HEADERS**
-	- Generally set these in the
-	- Content-Security-Policy
+	- Generally set these in the web app / server.
+	- Content-Security-Policy: explicitly defines what sources for contents are allowed for images, scripts, etc, so that nothing else will run.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -59,8 +59,8 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDUxMDY0NiwtMTk0OTEwOTg3OSwtMT
-c0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMTAy
-Mzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3Nj
-Q1NzUsLTE1Mzg3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNz
+QwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIz
+OTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2ND
+U3NSwtMTUzODc5NTcxN119
 -->
