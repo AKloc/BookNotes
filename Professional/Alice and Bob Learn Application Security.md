@@ -57,7 +57,8 @@
 	- Referrer-Policy: Sets how much of the URL another web app can see if your user navigates away. e.g., "www.blah.com" instead of "www.blah.com/user/23523", or nothing at all.
 	- Strict-Transport-Security (HSTS): forces the connection to use HTTPS. Must have a certificate from a Certificate Authority (CA) installed.
 	- Feature-Policy: Basically turn off access to HTML 5 features like gyroscopes, ambient lite sensors, vr. Only allow what your site uses.
-	- X-Permitted-Cross-Domain-Policies: Literally Adobe-specific (Flash, Reader). Set it to noe
+	- X-Permitted-Cross-Domain-Policies: Literally Adobe-specific (Flash, Reader). Set it to "none".
+	- Expect-CT: CT = Certification Transparency, which is an open agreement that builds consensus on how legit CAs are. If on, the browser will check the CT to make sure your cert is legit
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -65,9 +66,9 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTg3Njk1MSwtODc1NTIxOTkxLDE5Mz
-k4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcx
-NDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIzOTg0NT
-czLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2NDU3NSwt
-MTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbMzE1NDc4ODc4LC04NzU1MjE5OTEsMTkzOT
+gxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0
+NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLTEwMjM5ODQ1Nz
+MsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0x
+NTM4Nzk1NzE3XX0=
 -->
