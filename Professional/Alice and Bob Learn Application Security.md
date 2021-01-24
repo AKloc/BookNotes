@@ -50,6 +50,7 @@
 - Writing a new low-level program? Use Rust. It's memory safe, unlike C++ / C.
 - Use a third-party tool to scan your components for vulnerabilities.
 - **SECURITY HEADERS**
+	- Content-Security-Policy
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -57,8 +58,8 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLT
-ExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0
-MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nz
-k1NzE3XX0=
+eyJoaXN0b3J5IjpbMTIwODgyMTU3MSwtMTk0OTEwOTg3OSwtMT
+c0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMTAy
+Mzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3Nj
+Q1NzUsLTE1Mzg3OTU3MTddfQ==
 -->
