@@ -53,7 +53,7 @@
 	- Generally set these in the web app / server.
 	- Content-Security-Policy: explicitly defines what sources for contents are allowed for images, scripts, etc, so that nothing else will run. Can also define a report-uri that will log what was blocked.
 	- X-Frame-Options: prevents other sites from being able to put yours in a html frame that could dupe users.
-	- X-Content-Type-Options
+	- X-Content-Type-Options: tells the browser not to guess the content type of media in the app.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -61,9 +61,9 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMD
-UxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3OCwtMTEzNTc2
-OTc5NywtMTI3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQyMTgwNj
-c1LC05OTY4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3OTU3MTdd
-fQ==
+eyJoaXN0b3J5IjpbODMzNzM4NTY1LC04NzU1MjE5OTEsMTkzOT
+gxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0
+NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLTEwMjM5ODQ1Nz
+MsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0x
+NTM4Nzk1NzE3XX0=
 -->
