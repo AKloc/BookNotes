@@ -48,7 +48,7 @@
 	- "System input" is literally anything and everything that isn't part of your application. e.g., user input, info from _your own database_, info from APIs, URL parameters, cookies, images, HTTPS request headers, web proxies, config files...
 - "XSS": JavaScript injected into your application from a hacker's browser. **Defeated by output encoding**, which would show "<script...." on the screen rather than run code on the user's browser.
 - Writing a new low-level program? Use Rust. It's memory safe, unlike C++ / C.
-- 
+- There are 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -56,7 +56,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA0MTI4NjYsLTE3NDA1NzE0NzgsLT
+eyJoaXN0b3J5IjpbLTE2NTk1OTM5NDYsLTE3NDA1NzE0NzgsLT
 ExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0
 MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nz
 k1NzE3XX0=
