@@ -51,7 +51,7 @@
 - Use a third-party tool to scan your components for vulnerabilities.
 - **SECURITY HEADERS**
 	- Generally set these in the web app / server.
-	- Content-Security-Policy: explicitly defines what sources for contents are allowed for images, scripts, etc, so that nothing else will run.
+	- Content-Security-Policy: explicitly defines what sources for contents are allowed for images, scripts, etc, so that nothing else will run. Can also define a report-uri that will log what was blocked.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -59,8 +59,8 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNz
-QwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIz
-OTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2ND
-U3NSwtMTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5ND
+kxMDk4NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQz
+NjI1OTQsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNz
+AyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
