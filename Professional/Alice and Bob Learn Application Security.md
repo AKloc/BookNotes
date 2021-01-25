@@ -65,7 +65,8 @@
 	- These settings are all for the Set-Cookie header.
 	- Set-Cookie: Secure; // ensures that cookies are only sent over HTTPS
 	- HttpOnly: ensures that cookies can't be accessed by JavaScript. Only from the server. This protects against XSS attacks that try to access values in the cookie.
-	- Persistence: 
+	- Persistence: Anything that doesn't self-destruct at the end of a session is considered a persisted cookie. You can set a date or a maximum age here.
+	- Domain
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -73,9 +74,9 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDcwNjcyNiwyMDU1NjgzODExLC04Nz
-U1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4
-NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OT
-QsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0y
-MDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTE0MzMwMTc1NjUsMjA1NTY4MzgxMSwtOD
+c1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5
+ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNT
+k0LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwt
+MjAyOTc2NDU3NSwtMTUzODc5NTcxN119
 -->
