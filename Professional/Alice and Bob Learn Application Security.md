@@ -59,7 +59,7 @@
 	- Feature-Policy: Basically turn off access to HTML 5 features like gyroscopes, ambient lite sensors, vr. Only allow what your site uses.
 	- X-Permitted-Cross-Domain-Policies: Literally Adobe-specific (Flash, Reader). Set it to "none".
 	- Expect-CT: CT = Certification Transparency, which is an open agreement that builds consensus on how legit CAs are. If on, the browser will check the CT to make sure your cert is legit.
-	- Public Key Pinning Extension for HTTP (HPKP): a system created to protect against fraudulent certs, BUT it's very risky to have one because it can break 
+	- Public Key Pinning Extension for HTTP (HPKP): a system created to protect against fraudulent certs, BUT it's very risky to have one because it can break the site unless you know what you're doing. Not recommended.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -67,7 +67,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjk1NDQxOSwtODc1NTIxOTkxLDE5Mz
+eyJoaXN0b3J5IjpbMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mz
 k4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcx
 NDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIzOTg0NT
 czLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2NDU3NSwt
