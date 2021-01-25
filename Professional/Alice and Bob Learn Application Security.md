@@ -63,7 +63,7 @@
 - **Securing cookies**
 	- DO NOT USE PERSISTENT COOKIES THAT ARE SAVED. Only use session cookies, which are stored in RAM.
 	- Set-Cookie: Secure; // ensures that cookies are only sent over HTTPS
-	- HttpOnly: 
+	- HttpOnly: ensures that cookies can't be accessed by JavaScript. Only from the server. This protects against XSS attacks that try to access values in the cookie.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -71,9 +71,9 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMDEwNTAzLDIwNTU2ODM4MTEsLTg3NT
-UyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3
-OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NC
-wtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIw
-Mjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbLTE4NTUwNDg5MTAsMjA1NTY4MzgxMSwtOD
+c1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5
+ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNT
+k0LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwt
+MjAyOTc2NDU3NSwtMTUzODc5NTcxN119
 -->
