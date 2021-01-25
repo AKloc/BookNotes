@@ -68,7 +68,7 @@
 	- Persistence: Anything that doesn't self-destruct at the end of a session is considered a persisted cookie. You can set a date or a maximum age here.
 	- Domain: If you want your cookie to be accessed by other domains, list them here.
 	- Path: limit access to the cookie to a specific path on your app. Good for scenarios where your app is huge and divided up.
-	- Same-Site: based on CSRF ("Sea-surf"), Cross-Site Request Forgery protection. Where an attacker tries to take actions on the user's behalf. This attribute ensures that cookies can only come from within the same site.
+	- Same-Site: based on CSRF ("Sea-surf"), Cross-Site Request Forgery protection. Where an attacker tries to take actions on the user's behalf. This attribute ensures that cookies can only come from within the same site. 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -76,10 +76,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MTQ1MjQ4LC0xNDk5NzI3OTM0LC0xMj
-QwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEy
-ODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3OC
-wtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMTAyMzk4NDU3Mywy
-MDQyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mz
-g3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLT
+EyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4
+MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxND
+c4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIzOTg0NTcz
+LDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMjAyOTc2NDU3NSwtMT
+UzODc5NTcxN119
 -->
