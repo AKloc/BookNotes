@@ -62,8 +62,10 @@
 	- Public Key Pinning Extension for HTTP (HPKP): a system created to protect against fraudulent certs, BUT it's very risky to have one because it can break the site unless you know what you're doing. Not recommended.
 - **Securing cookies**
 	- DO NOT USE PERSISTENT COOKIES THAT ARE SAVED. Only use session cookies, which are stored in RAM.
+	- These settings are all for the Set-Cookie header.
 	- Set-Cookie: Secure; // ensures that cookies are only sent over HTTPS
 	- HttpOnly: ensures that cookies can't be accessed by JavaScript. Only from the server. This protects against XSS attacks that try to access values in the cookie.
+	- Persistence: 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -71,9 +73,9 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUwNDg5MTAsMjA1NTY4MzgxMSwtOD
-c1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5
-ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNT
-k0LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwt
-MjAyOTc2NDU3NSwtMTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbLTY2MDcwNjcyNiwyMDU1NjgzODExLC04Nz
+U1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4
+NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OT
+QsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0y
+MDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
