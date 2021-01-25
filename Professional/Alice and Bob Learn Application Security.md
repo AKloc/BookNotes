@@ -63,7 +63,7 @@
 - **Securing cookies**
 	- DO NOT USE PERSISTENT COOKIES THAT ARE SAVED. Only use session cookies, which are stored in RAM.
 	- Set-Cookie: Secure; // ensures that cookies are only sent over HTTPS
-	- H
+	- HttpOnly: 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -71,9 +71,9 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk1ODE4MywyMDU1NjgzODExLC04Nz
-U1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4
-NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OT
-QsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0y
-MDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbNzAxMDEwNTAzLDIwNTU2ODM4MTEsLTg3NT
+UyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3
+OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NC
+wtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIw
+Mjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
 -->
