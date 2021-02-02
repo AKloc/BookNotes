@@ -124,7 +124,10 @@
 	- Create alerts if any data is leaked online that looks like your data. US: www.us-cert.gov/ncas/alerts
 - Never trust. Always verify. Zero trust. Assume breach.
 	- Anything foreign input should be tested at the server.
-	- Deny access by default
+	- Deny access by default and require authorization, even on individual page reloads.
+	- Fail closed or safe (e.g., go back to a default page). Roll back transactions that fail midway.
+	- Authenticate, then authorize.
+	- Block access to any protocol, port, HTTP verb that is
 
 
 **What can I do with this?**
@@ -133,11 +136,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0MDczMTAzLC05NDQ1NTY3OTIsMTU4OT
-Y1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQw
-NCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC
-0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEy
-NDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MT
-I4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4
-LC0xMTM1NzY5Nzk3XX0=
+eyJoaXN0b3J5IjpbMTY2OTA3Mjg1MywtOTQ0NTU2NzkyLDE1OD
+k2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0
+MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NC
+wtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0x
+MjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5OD
+EyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3
+OCwtMTEzNTc2OTc5N119
 -->
