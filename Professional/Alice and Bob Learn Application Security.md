@@ -79,7 +79,7 @@
 -  **Storing Passwords**
 	- Stored in a database, salted and hashed.
 	- Salting: Adding a long, unique value to a password BEFORE you hash it to increase entropy.
-	- 
+	- Hasing: A
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -87,10 +87,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMT
-Q5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1
-MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4Nz
-ksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQs
-LTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMD
-I5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbNDgyMDUwMjA3LC0yNzk2NzM5OTgsLTEyMz
+E3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4
+MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC
+0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0x
+Mjc0MzYyNTk0LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5Nj
+gyMzcwMiwtMjAyOTc2NDU3NSwtMTUzODc5NTcxN119
 -->
