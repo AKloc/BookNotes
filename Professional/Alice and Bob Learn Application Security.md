@@ -83,6 +83,10 @@
 	- General flow: User punches in their password to log in. The system takes the password, adds the stored salt for that user, and then runs the password through the encryption scheme. It gets back an ugly string, which is compared to what's in the database.
 	- "Work factor": basically how many times you run the hashing algorithm. Adds entropy.
 	- "Peppering": Similar to a salt, but the pepper is used for every user in the system AND it's stored in a secret store rather than alongside the hashed password in the database. Basically considered extra credit and not necessary for most applications.
+	- Don't force users to change passwords unless you suspect an actual breach.
+	- Make sure users passwords haven't been used already.
+	- Use a service like HaveIBeenPwned to make sure the password wasn't in a breach.
+	- If a user enters bad credentials, never indicate if it was a bad username or a bad password.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -90,10 +94,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzMyOTMxMiwtMjc5NjczOTk4LC0xMj
-MxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2
-ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Ni
-wtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5Nywt
-MTI3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OT
-Y4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OCwtMT
+IzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1
+NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NT
+YsLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcs
+LTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOT
+k2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
