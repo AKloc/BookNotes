@@ -147,7 +147,8 @@
 - Whenever possible, isolate security functionality from other functionality. e.g., put input validation in a separate object / class, put authn and authz in separate applications, use your cloud provider's IM tool.
 - Identiy and authn should live on a separate server.
 - Partition your application - especially system management / admin.
-- 
+- Secrets: Humans should never see them except when they're being updated or in case of emergency. Integrate into CI/CD.
+- CSRF is when an attacker gets a user to click a link that triggers a transaction to an application the user is already logged in on (so they're "surfing" on the user being logge
 
 
 **What can I do with this?**
@@ -156,11 +157,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4Mz
-A3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0
-LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMT
-UxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMx
-NzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2OD
-M4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Niwt
-MTk0OTEwOTg3OV19
+eyJoaXN0b3J5IjpbLTE5MDg1OTkyMSw5MDk5NzY4NzMsMTAzOD
+g0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUx
+NiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOT
+E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
+NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMT
+kwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIs
+NjIwNTE3NTU2XX0=
 -->
