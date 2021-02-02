@@ -87,6 +87,7 @@
 	- Make sure users passwords haven't been used already.
 	- Use a service like HaveIBeenPwned to make sure the password wasn't in a breach.
 	- If a user enters bad credentials, never indicate if it was a bad username or a bad password.
+	- Use a modern hashing algorithm.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -94,10 +95,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OCwtMT
-IzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1
-NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NT
-YsLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcs
-LTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOT
-k2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLT
+I3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0
+MDIxOTAyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMj
+g5Miw2MjA1MTc1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0Nzgs
+LTExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMj
+A0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4
+Nzk1NzE3XX0=
 -->
