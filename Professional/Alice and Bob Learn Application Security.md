@@ -89,7 +89,8 @@
 	- If a user enters bad credentials, never indicate if it was a bad username or a bad password.
 	- Use a modern hashing algorithm.
 - **HTTPS Everywhere**:
-	- Only let
+	- Only be accessible through HTTPS. If someone tries HTTP, reroute to HTTPS.
+	- Use the latest TLS.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -97,7 +98,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzk0MTkzNywtMTUxMDE2NjkwNSwtMT
+eyJoaXN0b3J5IjpbMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMT
 A3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5
 NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMT
 k5MSwxOTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwt
