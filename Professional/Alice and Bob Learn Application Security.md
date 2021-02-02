@@ -99,7 +99,8 @@
 	- SIEM:  "Security Incident and Event Management System" to collate all errors and logs in one place.
 - **Input Validation and Sanitization **:
 	- Have to do it on the server side.
-	- Where possible, make a list / use a regex 
+	- Where possible, make a list / use a regex and define what's allowed, and reject everything else.
+- Authorization / Authentication: Use RBAC
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -107,11 +108,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0ND
-k4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2
-OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5ND
-YsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwt
-ODc1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MT
-A5ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYy
-NTk0LC0xMDIzOTg0NTczXX0=
+eyJoaXN0b3J5IjpbLTEwNDc5ODAwMDYsMTU4OTY1OTUxNiwxMD
+k1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMy
+ODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OT
+gsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYs
+MjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNT
+E3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5
+Nzk3LC0xMjc0MzYyNTk0XX0=
 -->
