@@ -74,6 +74,8 @@
 	- Password managers = good. Particularly, they defend well against credential stuffing (e.g., adding the number at the end of your password by 1 because of password expirations)
 	- "Rainbow credential stuffing": Using variations of stolen passwords.
 - ** Secret Stores**:
+	- Basically password managers for computers. A software vault that encrypts secrets and allows an application to access them programmatically (e.g., Azure app variables)
+	- Service accounts: Accounts used by computers, not people.
 	- 
 
 **What can I do with this?**
@@ -82,10 +84,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4NjA0MjYsLTEyMzE3NTg5NDYsLT
-E0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1
-NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5OD
-c5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0
-LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMj
-AyOTc2NDU3NSwtMTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbMjE0MDA2ODUyNCwtMTIzMTc1ODk0NiwtMT
+Q5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1
+MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4Nz
+ksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQs
+LTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMD
+I5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
