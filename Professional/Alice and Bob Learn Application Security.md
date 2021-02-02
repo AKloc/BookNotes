@@ -104,13 +104,15 @@
 - Parameterized Queries = stored procedures. Use them because they don't allow SQL injection.
 - URL Parameters: Don't put any variables in the URL that are too important. Don't use IDs that can be incremented to find someone else's info.
 
+**Chapter 3: Secure Design**
+
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDEyOTc5NSwxNTg5NjU5NTE2LDEwOT
+eyJoaXN0b3J5IjpbLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOT
 U5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4
 NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OC
 wtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwy
