@@ -118,7 +118,10 @@
 	- Don't put sensitive information in hidden fields or URL parameters.
 	- Secure cookies (use session cookies as much as possible)
 	- Use RBAC to ensure users have auth to get to data at each endpoint.
-	- 
+	- Plan on how long the application is required to store data and plan on how to get rid of it.
+	- If geographically distributed, decide where data and backups will be stored.
+	- Hash and salt passwords. Pepper if required.
+	- Create alerts
 
 
 **What can I do with this?**
@@ -127,11 +130,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjczNzM4OTgsLTk0NDU1Njc5MiwxNT
-g5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5
-NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OT
-QsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwt
-MTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOT
-gxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0
-NzgsLTExMzU3Njk3OTddfQ==
+eyJoaXN0b3J5IjpbLTU0NzczOTk3NiwtOTQ0NTU2NzkyLDE1OD
+k2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0
+MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NC
+wtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0x
+MjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5OD
+EyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3
+OCwtMTEzNTc2OTc5N119
 -->
