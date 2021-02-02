@@ -99,6 +99,7 @@
 	- SIEM:  "Security Incident and Event Management System" to collate all errors and logs in one place.
 - **Input Validation and Sanitization **:
 	- Have to do it on the server side.
+	- Where possible, make a list / use a regex 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -106,7 +107,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDAxMjQzNCwxMDk1OTIyMTQsMTE0ND
+eyJoaXN0b3J5IjpbMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0ND
 k4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2
 OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5ND
 YsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwt
