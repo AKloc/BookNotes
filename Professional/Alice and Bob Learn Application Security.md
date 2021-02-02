@@ -76,6 +76,7 @@
 - ** Secret Stores**:
 	- Basically password managers for computers. A software vault that encrypts secrets and allows an application to access them programmatically (e.g., Azure app variables)
 	- Service accounts: Accounts used by computers, not people.
+-  **Storing Passwords**
 	- 
 
 **What can I do with this?**
@@ -84,10 +85,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDA2ODUyNCwtMTIzMTc1ODk0NiwtMT
-Q5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1
-MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4Nz
-ksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQs
-LTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMD
-I5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbMjM2MDk1MzM1LC0xMjMxNzU4OTQ2LC0xND
+k5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUy
+MTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OS
+wtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwt
+MTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIwMj
+k3NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
 -->
