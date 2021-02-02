@@ -107,8 +107,18 @@
 **Chapter 3: Secure Design**
 - Design Flaw: An error in the design that lets a user do something they shouldn't be able to do.
 - Security bug: An implementation issue that lets a user do something they shouldn't be able to do.
-- In general: The further you can push security left and design with it in mind from the begninning, the cheaper.
-- Whe
+- In general: The further you can push security left and design with it in mind from the beginning, the cheaper.
+- For all data:
+	- Encrypt in transit.
+	- Encrypt at rest.
+	- Use HTTPS only.
+	- Valide inputs.
+	- Encode outputs.
+	- Use security headers.
+	- Don't put sensitive information in hidden fields or URL parameters.
+	- Secure cookies (use session cookies as much as possible)
+	- Use RBAC to ensure users have auth to get to data at each endpoint.
+	- 
 
 
 **What can I do with this?**
@@ -117,7 +127,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQxNjI2NzcsLTk0NDU1Njc5MiwxNT
+eyJoaXN0b3J5IjpbLTEyMjczNzM4OTgsLTk0NDU1Njc5MiwxNT
 g5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5
 NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OT
 QsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwt
