@@ -70,9 +70,11 @@
 	- Path: limit access to the cookie to a specific path on your app. Good for scenarios where your app is huge and divided up.
 	- Same-Site: based on CSRF ("Sea-surf"), Cross-Site Request Forgery protection. Where an attacker tries to take actions on the user's behalf. This attribute ensures that cookies can only come from within the same site. 
 	- Cookie Prefixes: Ensures that if you're using subdomains, that your cookies only work in the subdomains they're assigned to using the host prefix.
-- Passwords:
+- **Passwords**:
 	- Password managers = good. Particularly, they defend well against credential stuffing (e.g., adding the number at the end of your password by 1 because of password expirations)
-- 
+	- "Rainbow credential stuffing": Using variations of stolen passwords.
+- ** Secret Stores**:
+	- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -80,10 +82,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDY4NDY0OSwtMTIzMTc1ODk0NiwtMT
-Q5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1
-MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4Nz
-ksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQs
-LTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMD
-I5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTE4NTg4NjA0MjYsLTEyMzE3NTg5NDYsLT
+E0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1
+NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5OD
+c5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0
+LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5NjgyMzcwMiwtMj
+AyOTc2NDU3NSwtMTUzODc5NTcxN119
 -->
