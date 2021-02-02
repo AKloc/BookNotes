@@ -29,6 +29,7 @@
 	- Something you ARE: fingerprint, iris scan, DNA...
 	- Something you KNOW: Password, pass questions
 - So "MFA" would actually mean you can use a phone authenticator AND a password, but just using a password and pass questions doesn't count because they're the same form of auth.
+
 - **Chapter 2: Security Requirements**
 - "Partnership model": Assigning a security person to a development team, typically during a project kickoff.
 - Questions to ask during requirements gathering / analysis:
@@ -104,7 +105,7 @@
 - Parameterized Queries = stored procedures. Use them because they don't allow SQL injection.
 - URL Parameters: Don't put any variables in the URL that are too important. Don't use IDs that can be incremented to find someone else's info.
 
-**Chapter 3: Secure Design**
+**- Chapter 3: Secure Design**
 - Design Flaw: An error in the design that lets a user do something they shouldn't be able to do.
 - Security bug: An implementation issue that lets a user do something they shouldn't be able to do.
 - In general: The further you can push security left and design with it in mind from the beginning, the cheaper.
@@ -155,7 +156,9 @@
 	- Good place to start: create "evil" user stories / abuse stories.
 	- Popular models to start with: STRIDE and PASTA. 
 	- Once you have a good list of concerns, evaluate how much damage they could do and how easy they are to pull off. 
-	- The
+	- Then decide what you're going to do. Fix or migrate? Ignore? Document it.
+
+- **Chapter 4 - Secure Code**
 
 
 **What can I do with this?**
@@ -164,7 +167,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE0ODEwMDMsOTA5OTc2ODczLDEwMz
+eyJoaXN0b3J5IjpbLTE2ODYyNTI1NzUsOTA5OTc2ODczLDEwMz
 g4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1
 MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMT
 kxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5
