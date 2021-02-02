@@ -146,6 +146,7 @@
 - Always use framework security tools instead of trying to home-grow it.
 - Whenever possible, isolate security functionality from other functionality. e.g., put input validation in a separate object / class, put authn and authz in separate applications, use your cloud provider's IM tool.
 - Identiy and authn should live on a separate server.
+- Partition your application - especially system management / admin.
 - 
 
 
@@ -155,11 +156,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODg0MTczMSwtODgzMDcxOTU1LC05ND
-Q1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYx
-MywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC
-0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0
-OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NT
-IxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5
-LC0xNzQwNTcxNDc4XX0=
+eyJoaXN0b3J5IjpbOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4Mz
+A3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0
+LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMT
+UxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMx
+NzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2OD
+M4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Niwt
+MTk0OTEwOTg3OV19
 -->
