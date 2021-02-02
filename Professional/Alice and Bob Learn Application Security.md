@@ -167,7 +167,12 @@
 - "Access Control" = the system that manages AUTHZ.
 - Use a pre-made Auth system, e.g. OAUTH.
 - Session Management:
-	- Track session using a session ID or a session token. They're the same thing. They get passed in secure cookies
+	- Track session using a session ID or a session token. They're the same thing. They get passed in secure cookies, are at least 128 characters long, and randomized. Users get a new session ID each time they login.
+	- Use built-in session management, don't homegrow it.
+	- Make sure sessions expire.
+	- Only send the session ID over encrypted channels.
+	- Destroy the session when a user logs out.
+	- If a session ID is sent that was never generate
 
 
 **What can I do with this?**
@@ -176,7 +181,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjQ3NDA4NSw5MDk5NzY4NzMsMTAzOD
+eyJoaXN0b3J5IjpbLTIwNTM0NTU5MCw5MDk5NzY4NzMsMTAzOD
 g0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUx
 NiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOT
 E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
