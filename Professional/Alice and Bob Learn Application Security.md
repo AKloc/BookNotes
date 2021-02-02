@@ -174,6 +174,9 @@
 	- Destroy the session when a user logs out.
 	- If a session ID is sent that was never generated, LOG IT in SEIF. It's a security incident.
 - Bounds checking: Buffer overflows. If you're using a language that's susceptible, be wary.
+- Permission Types for access control:
+	- Discretionary Access Control (DAC): the owner of the info / system / resources can grant and remove access to others.
+	- Mandatory Access Control (MAC): Grants access to information and systems based on 
 
 
 **What can I do with this?**
@@ -182,11 +185,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTExNzkwMDMsOTA5OTc2ODczLDEwMz
-g4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1
-MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMT
-kxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5
-NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMj
-E5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODky
-LDYyMDUxNzU1Nl19
+eyJoaXN0b3J5IjpbODY2NzY0NDEwLDkwOTk3Njg3MywxMDM4OD
+QxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2
+LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MT
+QxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3
+Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOT
+AyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2
+MjA1MTc1NTZdfQ==
 -->
