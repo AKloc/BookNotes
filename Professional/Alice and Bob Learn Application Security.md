@@ -108,6 +108,7 @@
 - Design Flaw: An error in the design that lets a user do something they shouldn't be able to do.
 - Security bug: An implementation issue that lets a user do something they shouldn't be able to do.
 - In general: The further you can push security left and design with it in mind from the beginning, the cheaper.
+
 **- For all data:**
 	- Encrypt in transit.
 	- Encrypt at rest.
@@ -122,7 +123,8 @@
 	- If geographically distributed, decide where data and backups will be stored.
 	- Hash and salt passwords. Pepper if required.
 	- Create alerts if any data is leaked online that looks like your data. US: www.us-cert.gov/ncas/alerts
-**- Never trust. Always verify. Zero trust. Assume breach.**
+	
+**Never trust. Always verify. Zero trust. Assume breach.**
 	- Anything foreign input should be tested at the server.
 	- Deny access by default and require authorization, even on individual page reloads.
 	- Fail closed or safe (e.g., go back to a default page). Roll back transactions that fail midway.
@@ -130,6 +132,9 @@
 	- Block access to any protocol, port, HTTP verb that isn't used.
 	- One application per server / PaaS / container / etc.
 
+**- On Backups:**
+	- They aren't valuable unless you can roll them back efficiently.
+	- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -137,11 +142,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1OD
-k2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0
-MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NC
-wtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0x
-MjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5OD
-EyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3
-OCwtMTEzNTc2OTc5N119
+eyJoaXN0b3J5IjpbLTUwNzQ5MzcwMSwtODgzMDcxOTU1LC05ND
+Q1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYx
+MywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC
+0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0
+OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NT
+IxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5
+LC0xNzQwNTcxNDc4XX0=
 -->
