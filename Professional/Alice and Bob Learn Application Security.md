@@ -95,8 +95,8 @@
 	- Always extremely dangerous.
 	- Use a third-party component that specializes in them.
 	- OWASP has a great list of precautions to take on their cheatsheetseries.
-- **Errors and Logging**:
-	- Use a SIEM: "Security Incident and Event Management System" to collate all errors and 
+- Errors and Logging: use a SIEM.
+	- SIEM:  "Security Incident and Event Management System" to collate all errors and logs in one place.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -104,11 +104,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOT
-E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
-NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMT
-kwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIs
-NjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4LC0xMT
-M1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIzOTg0NTczLDIwNDIx
-ODA2NzUsLTk5NjgyMzcwMl19
+eyJoaXN0b3J5IjpbMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMT
+k5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIz
+NjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OT
+M0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwx
+OTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MD
+U3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMTAyMzk4
+NDU3MywyMDQyMTgwNjc1XX0=
 -->
