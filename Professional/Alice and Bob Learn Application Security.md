@@ -80,7 +80,9 @@
 	- Stored in a database, salted and hashed.
 	- Salting: Adding a long, unique value to a password BEFORE you hash it to increase entropy. The salt is stored alongside the password and is preferably more than 30 characters.
 	- Hashing: A ONE WAY cryptographic process. You never want to decode the original password.
-	- General flow: User punches in their password to log in. The system takes the password, adds the stored salt for that user, and then runs the password throu 
+	- General flow: User punches in their password to log in. The system takes the password, adds the stored salt for that user, and then runs the password through the encryption scheme. It gets back an ugly string, which is compared to what's in the database.
+	- "Work factor": basically how many times you run the hashing algorithm. Adds entropy.
+	- "Peppering": Similar to a salt 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -88,10 +90,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTk3MTQwMiwtMjc5NjczOTk4LC0xMj
-MxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2
-ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Ni
-wtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5Nywt
-MTI3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OT
-Y4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbLTIxMjg3NzIxMDMsLTI3OTY3Mzk5OCwtMT
+IzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1
+NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NT
+YsLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3OTcs
+LTEyNzQzNjI1OTQsLTEwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOT
+k2ODIzNzAyLC0yMDI5NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
 -->
