@@ -172,7 +172,8 @@
 	- Make sure sessions expire.
 	- Only send the session ID over encrypted channels.
 	- Destroy the session when a user logs out.
-	- If a session ID is sent that was never generate
+	- If a session ID is sent that was never generated, LOG IT in SEIF. It's a security incident.
+- Bounds checking: Buffer overflows. If you're using a language that's susceptible, be wary.
 
 
 **What can I do with this?**
@@ -181,11 +182,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0NTU5MCw5MDk5NzY4NzMsMTAzOD
-g0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUx
-NiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOT
-E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
-NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMT
-kwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIs
-NjIwNTE3NTU2XX0=
+eyJoaXN0b3J5IjpbLTEzOTExNzkwMDMsOTA5OTc2ODczLDEwMz
+g4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1
+MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMT
+kxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5
+NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMj
+E5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODky
+LDYyMDUxNzU1Nl19
 -->
