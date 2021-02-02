@@ -97,6 +97,8 @@
 	- OWASP has a great list of precautions to take on their cheatsheetseries.
 - Errors and Logging: use a SIEM.
 	- SIEM:  "Security Incident and Event Management System" to collate all errors and logs in one place.
+- **Input Validation and Sanitization **:
+	- Have to do it on the server side
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -104,11 +106,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMT
-k5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIz
-NjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OT
-M0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwx
-OTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MD
-U3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMTAyMzk4
-NDU3MywyMDQyMTgwNjc1XX0=
+eyJoaXN0b3J5IjpbMjA2MjAxMTY3OCwxMDk1OTIyMTQsMTE0ND
+k4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2
+OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5ND
+YsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwt
+ODc1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MT
+A5ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYy
+NTk0LC0xMDIzOTg0NTczXX0=
 -->
