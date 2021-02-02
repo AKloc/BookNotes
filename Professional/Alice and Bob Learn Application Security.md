@@ -144,7 +144,9 @@
 	- This testing helps ensure that you aren't just relying on your front end for validation.
 
 - Always use framework security tools instead of trying to home-grow it.
-- Whenever possible, isolate security functionality from other functionality. e.g., put input validation in a separate object / class, put authn and authz in separate applic
+- Whenever possible, isolate security functionality from other functionality. e.g., put input validation in a separate object / class, put authn and authz in separate applications, use your cloud provider's IM tool.
+- Identiy and authn should live on a separate server.
+- 
 
 
 **What can I do with this?**
@@ -153,7 +155,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTQ3MTgyMSwtODgzMDcxOTU1LC05ND
+eyJoaXN0b3J5IjpbMTAzODg0MTczMSwtODgzMDcxOTU1LC05ND
 Q1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYx
 MywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC
 0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0
