@@ -159,6 +159,9 @@
 	- Then decide what you're going to do. Fix or migrate? Ignore? Document it.
 
 - **Chapter 4 - Secure Code**
+- If you want your engineers to use secure practices, you have to support them actively.
+- (Really good input flow validation diagram on page 89)
+- 
 
 
 **What can I do with this?**
@@ -167,7 +170,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYyNTI1NzUsOTA5OTc2ODczLDEwMz
+eyJoaXN0b3J5IjpbLTE4NDEzMjQyMzYsOTA5OTc2ODczLDEwMz
 g4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1
 MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMT
 kxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5
