@@ -94,6 +94,7 @@
 - **File Uploads**:
 	- Always extremely dangerous.
 	- Use a third-party component that specializes in them.
+	- OWASP has a great list of precautions to take on their cheatsheetseries.
 	- 
 
 **What can I do with this?**
@@ -102,7 +103,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY3NTYzOTksMTkxNDEzMjg1MCwtMT
+eyJoaXN0b3J5IjpbLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMT
 UxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMx
 NzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2OD
 M4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Niwt
