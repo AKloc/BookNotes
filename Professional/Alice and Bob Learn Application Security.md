@@ -100,7 +100,9 @@
 - **Input Validation and Sanitization **:
 	- Have to do it on the server side.
 	- Where possible, make a list / use a regex and define what's allowed, and reject everything else.
-- Authorization / Authentication: Use RBAC
+- Authorization / Authentication: Use RBAC, and figure out how you're going to define roles during requirements.
+- Parameterized Queries = stored procedures. Use them because they don't allow SQL injection.
+- URL Parameters: Don't put any variables in the URL that are too important. Don't use IDs that can be incremented to find someone else's info.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -108,11 +110,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc5ODAwMDYsMTU4OTY1OTUxNiwxMD
-k1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMy
-ODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OT
-gsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYs
-MjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNT
-E3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5
-Nzk3LC0xMjc0MzYyNTk0XX0=
+eyJoaXN0b3J5IjpbMTcwNDEyOTc5NSwxNTg5NjU5NTE2LDEwOT
+U5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4
+NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OC
+wtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwy
+MDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MT
+c1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3
+OTcsLTEyNzQzNjI1OTRdfQ==
 -->
