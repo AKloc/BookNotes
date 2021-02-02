@@ -91,6 +91,10 @@
 - **HTTPS Everywhere**:
 	- Only be accessible through HTTPS. If someone tries HTTP, reroute to HTTPS.
 	- Use the latest TLS.
+- **File Uploads**:
+	- Always extremely dangerous.
+	- Use a third-party component that specializes in them.
+	- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -98,11 +102,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMT
-A3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5
-NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMT
-k5MSwxOTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwt
-MTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMT
-AyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3
-NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
+eyJoaXN0b3J5IjpbLTEzMjY3NTYzOTksMTkxNDEzMjg1MCwtMT
+UxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMx
+NzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2OD
+M4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Niwt
+MTk0OTEwOTg3OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMT
+I3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4
+MjM3MDIsLTIwMjk3NjQ1NzVdfQ==
 -->
