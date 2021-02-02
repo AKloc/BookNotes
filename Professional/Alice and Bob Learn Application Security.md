@@ -69,7 +69,7 @@
 	- Domain: If you want your cookie to be accessed by other domains, list them here.
 	- Path: limit access to the cookie to a specific path on your app. Good for scenarios where your app is huge and divided up.
 	- Same-Site: based on CSRF ("Sea-surf"), Cross-Site Request Forgery protection. Where an attacker tries to take actions on the user's behalf. This attribute ensures that cookies can only come from within the same site. 
-	- Cookie Prefixes: 
+	- Cookie Prefixes: Ensures that if you're using subdomains, that your cookies only work in the subdomains they're assigned to using the host prefix.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -77,7 +77,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjMzMzc4NTEsLTEyMzE3NTg5NDYsLT
+eyJoaXN0b3J5IjpbLTE0OTY4NDEzNDUsLTEyMzE3NTg5NDYsLT
 E0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1
 NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5OD
 c5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0xMjc0MzYyNTk0
