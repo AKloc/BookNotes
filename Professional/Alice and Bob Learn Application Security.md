@@ -152,7 +152,10 @@
 - Separate out production data.
 - Protect your code.
 - Threat modeling is good.
-	- Good place to start: create "evil" user stories
+	- Good place to start: create "evil" user stories / abuse stories.
+	- Popular models to start with: STRIDE and PASTA. 
+	- Once you have a good list of concerns, evaluate how much damage they could do and how easy they are to pull off. 
+	- The
 
 
 **What can I do with this?**
@@ -161,11 +164,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMTY0OTU5LDkwOTk3Njg3MywxMDM4OD
-QxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2
-LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MT
-QxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3
-Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOT
-AyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2
-MjA1MTc1NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTE0ODEwMDMsOTA5OTc2ODczLDEwMz
+g4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1
+MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMT
+kxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5
+NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMj
+E5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODky
+LDYyMDUxNzU1Nl19
 -->
