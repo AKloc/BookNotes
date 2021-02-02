@@ -95,7 +95,7 @@
 	- Always extremely dangerous.
 	- Use a third-party component that specializes in them.
 	- OWASP has a great list of precautions to take on their cheatsheetseries.
-	- 
+
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -103,11 +103,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMT
-UxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMx
-NzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2OD
-M4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Niwt
-MTk0OTEwOTg3OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMT
-I3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4
-MjM3MDIsLTIwMjk3NjQ1NzVdfQ==
+eyJoaXN0b3J5IjpbMTMyMjQwNjcxMywtMTIxOTk4OTQwNCwxOT
+E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
+NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMT
+kwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIs
+NjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4LC0xMT
+M1NzY5Nzk3LC0xMjc0MzYyNTk0LC0xMDIzOTg0NTczLDIwNDIx
+ODA2NzUsLTk5NjgyMzcwMl19
 -->
