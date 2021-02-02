@@ -176,7 +176,8 @@
 - Bounds checking: Buffer overflows. If you're using a language that's susceptible, be wary.
 - Permission Types for access control:
 	- Discretionary Access Control (DAC): the owner of the info / system / resources can grant and remove access to others.
-	- Mandatory Access Control (MAC): Grants access to information and systems based on 
+	- Mandatory Access Control (MAC): Grants access to information and systems based on the SENSITIVITY level of the resource and the user. e.g., Bob has top-secret access, Alice doesn't. Bob can't grant Alice access like he'd be able to do with DAC.
+	- Permission Based Access Control (PBAC): Uses permissions like :Read:,m
 
 
 **What can I do with this?**
@@ -185,11 +186,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NzY0NDEwLDkwOTk3Njg3MywxMDM4OD
-QxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2
-LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MT
-QxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3
-Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOT
-AyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2
-MjA1MTc1NTZdfQ==
+eyJoaXN0b3J5IjpbMTIzNDM5MDU5Nyw5MDk5NzY4NzMsMTAzOD
+g0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUx
+NiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOT
+E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
+NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMT
+kwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIs
+NjIwNTE3NTU2XX0=
 -->
