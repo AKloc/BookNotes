@@ -121,7 +121,10 @@
 	- Plan on how long the application is required to store data and plan on how to get rid of it.
 	- If geographically distributed, decide where data and backups will be stored.
 	- Hash and salt passwords. Pepper if required.
-	- Create alerts
+	- Create alerts if any data is leaked online that looks like your data. US: www.us-cert.gov/ncas/alerts
+- Never trust. Always verify. Zero trust. Assume breach.
+	- Anything foreign input should be tested at the server.
+	- Deny access by default
 
 
 **What can I do with this?**
@@ -130,11 +133,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzczOTk3NiwtOTQ0NTU2NzkyLDE1OD
-k2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0
-MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NC
-wtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0x
-MjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5OD
-EyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3
-OCwtMTEzNTc2OTc5N119
+eyJoaXN0b3J5IjpbNjM0MDczMTAzLC05NDQ1NTY3OTIsMTU4OT
+Y1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQw
+NCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC
+0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEy
+NDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MT
+I4OTIsNjIwNTE3NTU2LC0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4
+LC0xMTM1NzY5Nzk3XX0=
 -->
