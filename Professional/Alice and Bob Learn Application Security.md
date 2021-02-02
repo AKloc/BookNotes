@@ -78,8 +78,9 @@
 	- Service accounts: Accounts used by computers, not people.
 -  **Storing Passwords**
 	- Stored in a database, salted and hashed.
-	- Salting: Adding a long, unique value to a password BEFORE you hash it to increase entropy.
-	- Hasing: A
+	- Salting: Adding a long, unique value to a password BEFORE you hash it to increase entropy. The salt is stored alongside the password and is preferably more than 30 characters.
+	- Hashing: A ONE WAY cryptographic process. You never want to decode the original password.
+	- General flow: User punches in their password to log in. The system takes the password, adds the stored salt for that user, and then runs the password throu 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -87,10 +88,10 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyMDUwMjA3LC0yNzk2NzM5OTgsLTEyMz
-E3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4
-MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIsNjIwNTE3NTU2LC
-0xOTQ5MTA5ODc5LC0xNzQwNTcxNDc4LC0xMTM1NzY5Nzk3LC0x
-Mjc0MzYyNTk0LC0xMDIzOTg0NTczLDIwNDIxODA2NzUsLTk5Nj
-gyMzcwMiwtMjAyOTc2NDU3NSwtMTUzODc5NTcxN119
+eyJoaXN0b3J5IjpbMTUxNTk3MTQwMiwtMjc5NjczOTk4LC0xMj
+MxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2
+ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODkyLDYyMDUxNzU1Ni
+wtMTk0OTEwOTg3OSwtMTc0MDU3MTQ3OCwtMTEzNTc2OTc5Nywt
+MTI3NDM2MjU5NCwtMTAyMzk4NDU3MywyMDQyMTgwNjc1LC05OT
+Y4MjM3MDIsLTIwMjk3NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
 -->
