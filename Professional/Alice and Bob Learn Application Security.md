@@ -105,6 +105,11 @@
 - URL Parameters: Don't put any variables in the URL that are too important. Don't use IDs that can be incremented to find someone else's info.
 
 **Chapter 3: Secure Design**
+- Design Flaw: An error in the design that lets a user do something they shouldn't be able to do.
+- Security bug: An implementation issue that lets a user do something they shouldn't be able to do.
+- In general: The further you can push security left and design with it in mind from the begninning, the cheaper.
+- Whe
+
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -112,11 +117,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOT
-U5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4
-NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OC
-wtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwy
-MDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2MjA1MT
-c1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0NzgsLTExMzU3Njk3
-OTcsLTEyNzQzNjI1OTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MjQxNjI2NzcsLTk0NDU1Njc5MiwxNT
+g5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5
+NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OT
+QsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwt
+MTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOT
+gxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4NzksLTE3NDA1NzE0
+NzgsLTExMzU3Njk3OTddfQ==
 -->
