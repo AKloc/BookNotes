@@ -108,7 +108,7 @@
 - Design Flaw: An error in the design that lets a user do something they shouldn't be able to do.
 - Security bug: An implementation issue that lets a user do something they shouldn't be able to do.
 - In general: The further you can push security left and design with it in mind from the beginning, the cheaper.
-- For all data:
+**- For all data:**
 	- Encrypt in transit.
 	- Encrypt at rest.
 	- Use HTTPS only.
@@ -122,12 +122,13 @@
 	- If geographically distributed, decide where data and backups will be stored.
 	- Hash and salt passwords. Pepper if required.
 	- Create alerts if any data is leaked online that looks like your data. US: www.us-cert.gov/ncas/alerts
-- Never trust. Always verify. Zero trust. Assume breach.
+**- Never trust. Always verify. Zero trust. Assume breach.**
 	- Anything foreign input should be tested at the server.
 	- Deny access by default and require authorization, even on individual page reloads.
 	- Fail closed or safe (e.g., go back to a default page). Roll back transactions that fail midway.
 	- Authenticate, then authorize.
-	- Block access to any protocol, port, HTTP verb that is
+	- Block access to any protocol, port, HTTP verb that isn't used.
+	- One application per server / PaaS / container / etc.
 
 
 **What can I do with this?**
@@ -136,7 +137,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTA3Mjg1MywtOTQ0NTU2NzkyLDE1OD
+eyJoaXN0b3J5IjpbLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1OD
 k2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0
 MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NC
 wtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0x
