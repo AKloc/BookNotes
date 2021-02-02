@@ -148,7 +148,11 @@
 - Identiy and authn should live on a separate server.
 - Partition your application - especially system management / admin.
 - Secrets: Humans should never see them except when they're being updated or in case of emergency. Integrate into CI/CD.
-- CSRF is when an attacker gets a user to click a link that triggers a transaction to an application the user is already logged in on (so they're "surfing" on the user being logge
+- CSRF is when an attacker gets a user to click a link that triggers a transaction to an application the user is already logged in on (so they're "surfing" on the user being logged in). Avoid it asking the user something only they could provide before doing anything important or by using anti-CSRF tokens.
+- Separate out production data.
+- Protect your code.
+- Threat modeling is good.
+	- Good place to start: create "evil" user stories
 
 
 **What can I do with this?**
@@ -157,11 +161,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg1OTkyMSw5MDk5NzY4NzMsMTAzOD
-g0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUx
-NiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOT
-E0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2
-NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMT
-kwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkxLDE5Mzk4MTI4OTIs
-NjIwNTE3NTU2XX0=
+eyJoaXN0b3J5IjpbNjkwMTY0OTU5LDkwOTk3Njg3MywxMDM4OD
+QxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2
+LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MT
+QxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3
+Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOT
+AyNiwyMDU1NjgzODExLC04NzU1MjE5OTEsMTkzOTgxMjg5Miw2
+MjA1MTc1NTZdfQ==
 -->
