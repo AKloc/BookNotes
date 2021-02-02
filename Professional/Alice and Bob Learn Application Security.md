@@ -139,8 +139,10 @@
 	- DB, configs, AND code need to all be backed up.
 	- Monitor and log backup access.
 
-* Server Side Security Validation **
-- 
+** Server Side Security Validation **
+	- Test using a web proxy / intercept proxy (a tool that sits between your browser and the web server, intercepting traffic and interacting with the application directly)
+	- This testing helps ensure that you aren't just relying on your front end for validation.
+
 
 
 **What can I do with this?**
@@ -149,7 +151,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI1ODkxODksLTg4MzA3MTk1NSwtOT
+eyJoaXN0b3J5IjpbLTE2NjY4Mzc1MDYsLTg4MzA3MTk1NSwtOT
 Q0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2
 MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNS
 wtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0x
