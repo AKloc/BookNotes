@@ -89,7 +89,7 @@
 	- If a user enters bad credentials, never indicate if it was a bad username or a bad password.
 	- Use a modern hashing algorithm.
 - **HTTPS Everywhere**:
-	- 
+	- Only let
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -97,11 +97,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIxODc2NDAsLTE1MTAxNjY5MDUsLT
-EwNzkyMzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5
-OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1Mj
-E5OTEsMTkzOTgxMjg5Miw2MjA1MTc1NTYsLTE5NDkxMDk4Nzks
-LTE3NDA1NzE0NzgsLTExMzU3Njk3OTcsLTEyNzQzNjI1OTQsLT
-EwMjM5ODQ1NzMsMjA0MjE4MDY3NSwtOTk2ODIzNzAyLC0yMDI5
-NzY0NTc1LC0xNTM4Nzk1NzE3XX0=
+eyJoaXN0b3J5IjpbLTQzNzk0MTkzNywtMTUxMDE2NjkwNSwtMT
+A3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5
+NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMT
+k5MSwxOTM5ODEyODkyLDYyMDUxNzU1NiwtMTk0OTEwOTg3OSwt
+MTc0MDU3MTQ3OCwtMTEzNTc2OTc5NywtMTI3NDM2MjU5NCwtMT
+AyMzk4NDU3MywyMDQyMTgwNjc1LC05OTY4MjM3MDIsLTIwMjk3
+NjQ1NzUsLTE1Mzg3OTU3MTddfQ==
 -->
