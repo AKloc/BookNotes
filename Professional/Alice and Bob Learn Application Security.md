@@ -204,6 +204,8 @@
 	- List of paid and free tools: owasp.org/www-community/Component_Analysis#tools-listing
 - IAC: Infrastructure as code. Generally a great thing for security, since it's very helpful with change management (view the diffs in a repository), Disaster Recovery, and eliminates things like humans forgetting steps or mistyping configuration.
 - Web Proxies: Great for testing well-known vulnerabilities like injection, XSS, etc. Lets you mess with the data being sent directly to the application.
+- Fuzzing: Send invalid, unexpected, or generally garbage to the system and see what happens. Do things crash? Does it fail elegantly?
+	- Check Urls, APIs, input fields, cookies, headers... any inputs.
 - 
 
 
@@ -213,11 +215,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MD
-k5NzY4NzMsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3
-OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMT
-IxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5
-MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mj
-c5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkx
-LDE5Mzk4MTI4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjgzMjM1MDksMTMwMzk0NDg4OSwtMT
+gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
+OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
+E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
+MTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NT
+g5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4Mzgx
+MSwtODc1NTIxOTkxXX0=
 -->
