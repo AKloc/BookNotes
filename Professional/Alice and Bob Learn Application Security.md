@@ -206,7 +206,9 @@
 - Web Proxies: Great for testing well-known vulnerabilities like injection, XSS, etc. Lets you mess with the data being sent directly to the application.
 - Fuzzing: Send invalid, unexpected, or generally garbage to the system and see what happens. Do things crash? Does it fail elegantly?
 	- Check Urls, APIs, input fields, cookies, headers... any inputs.
-- 
+- VA / Security Asessment / PenTests: Hire security professionals to try hacking the system and report their findings. 
+	- Can be used to shock and awe management if they don't "get" security.
+- Security Hygeine:
 
 
 **What can I do with this?**
@@ -215,11 +217,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgzMjM1MDksMTMwMzk0NDg4OSwtMT
-gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
-OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
-E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
-MTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NT
-g5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4Mzgx
-MSwtODc1NTIxOTkxXX0=
+eyJoaXN0b3J5IjpbNDk1MjMyNjgzLDEzMDM5NDQ4ODksLTE4Mj
+U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
+NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
+Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
+NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OT
+Q2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEs
+LTg3NTUyMTk5MV19
 -->
