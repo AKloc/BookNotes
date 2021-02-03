@@ -185,7 +185,10 @@
 	- Reverify the user is who they say who they are.
 	- Confirm with the user that they want to do big operations.
 	- Ensure that the referrer header from the request is from the site, and not from another site or email address.
-- Defend against SSRF, where an 
+- Defend against SSRF, where an attacker modifies / adds URL parameters sent to a server to try to do things they shouldn't be able to.
+	- Don't use URL parameters where possible.
+	- Validate inputs using approved / accelpted lists.
+	- Create an approved list of domains that are permitted for each call. Reject anything else.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -193,7 +196,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDE5MzY5OCwtMTgyNTUzNTc2NCw5MD
+eyJoaXN0b3J5IjpbMTQ0Njg4ODQ4MCwtMTgyNTUzNTc2NCw5MD
 k5NzY4NzMsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3
 OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMT
 IxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5
