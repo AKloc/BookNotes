@@ -304,7 +304,8 @@
 - Cloud Native Security:
 	- Imperative to design with zero trust and assume breach.
 	- Understand and use the native security features from the cloud provider. They're better at it than you are.
-	- "Identity is new peri
+	- "Identity is new perimeter": Basically means you have to assume at every jump between every piece of infrastructure, AUTHZ.
+	- Cloud workflows can be triggered by events in the cloud. Each provider has their own name for them, but they're worth understanding because they're excellent at alerting and defending against anomalies.
 
 
 **What can I do with this?**
@@ -313,7 +314,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTcxNjg4OSwtMjE0MDE3MTU5NiwtNT
+eyJoaXN0b3J5IjpbLTM0MzM1MDU2MywtMjE0MDE3MTU5NiwtNT
 Q0ODUwNDQ1LC0yNTE4Mzg5NzgsLTE4OTM5NTkyMDcsLTE5NzYx
 MDYxODAsMTMwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4Nz
 MsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4
