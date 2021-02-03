@@ -276,7 +276,12 @@
 	- Set and publish guidelines and standards.
 	- Give developers tools to be successful.
 - Newer security tools:
-	- RASP (Runtime Application Security Protection), AKA "reverse proxy." Binary that uses AI to detect threats rather than just rely on regexs or approve /
+	- RASP (Runtime Application Security Protection), AKA "reverse proxy." Binary that uses AI to detect threats rather than just rely on regexs or approve / block lists.
+	- Vulnerability management tools for tools gathering
+	- IDE security tools.
+	- Service mesh (encrypts and manages API communication)
+	- API gateways  (handle regular authn and authz)
+	- LE
 
 
 
@@ -286,11 +291,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODA3NjIzLC0xOTc2MTA2MTgwLDEzMD
-M5NDQ4ODksLTE4MjU1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3
-MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMT
-A5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEz
-Mjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOT
-k4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2
-LDIwNTU2ODM4MTFdfQ==
+eyJoaXN0b3J5IjpbLTI5MTQ4MTIyOCwtMTk3NjEwNjE4MCwxMz
+AzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQx
+NzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LD
+EwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQx
+MzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mz
+k5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAy
+NiwyMDU1NjgzODExXX0=
 -->
