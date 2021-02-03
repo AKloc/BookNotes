@@ -260,6 +260,11 @@
 	- Metrics that might matter:
 		- Are you having reoccuring incidents?
 		- How long does it take to fix vulnerabilities?
+		- How long does it take to detect incidents?
+		- How many instances do you have of policyt non-compliance?
+		- Are there errors in incident handling?
+		- How close are you to your security posture goal?
+		- Has education 
 
 
 
@@ -269,11 +274,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA5MTY0MjAsLTE5NzYxMDYxODAsMT
-MwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0
-MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNi
-wxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0
-MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2Nz
-M5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkw
-MjYsMjA1NTY4MzgxMV19
+eyJoaXN0b3J5IjpbMjA0MjkxNTc3MywtMTk3NjEwNjE4MCwxMz
+AzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQx
+NzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LD
+EwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQx
+MzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mz
+k5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAy
+NiwyMDU1NjgzODExXX0=
 -->
