@@ -282,7 +282,10 @@
 	- Service mesh (encrypts and manages API communication)
 	- API gateways  (handle regular authn and authz)
 	- Least privilege automation tools that can drop permissions where possible and reduce surface attack area.
-- When 
+- When first starting out - SET GOALS. Don't just do everything at once.
+
+** 8 - Securing Modern Applications and Systems **
+- 
 
 
 
@@ -292,11 +295,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM5NTkyMDcsLTE5NzYxMDYxODAsMT
-MwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0
-MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNi
-wxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0
-MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2Nz
-M5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkw
-MjYsMjA1NTY4MzgxMV19
+eyJoaXN0b3J5IjpbLTY1ODYzNzQzNSwtMTg5Mzk1OTIwNywtMT
+k3NjEwNjE4MCwxMzAzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3
+Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5Mi
+wxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5
+OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMz
+Y1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkz
+NCwtMTI0MDIxOTAyNl19
 -->
