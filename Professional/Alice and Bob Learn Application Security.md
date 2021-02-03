@@ -272,6 +272,9 @@
 	- Use SCA (Software Composition Analysis) at intervals to ensure no sketchy packages are being used.
 	- Do x amount of PenTests.
 	- Hold bug bounty programs.
+	- Educate developers, advocate for security in department.
+	- Set and publish guidelines and standards.
+	- Give developers tools to be successful.
 
 
 
@@ -281,7 +284,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTI1ODE2MSwtMTk3NjEwNjE4MCwxMz
+eyJoaXN0b3J5IjpbMTczMzY0Njg1MiwtMTk3NjEwNjE4MCwxMz
 AzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQx
 NzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LD
 EwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQx
