@@ -179,6 +179,8 @@
 	- Mandatory Access Control (MAC): Grants access to information and systems based on the SENSITIVITY level of the resource and the user. e.g., Bob has top-secret access, Alice doesn't. Bob can't grant Alice access like he'd be able to do with DAC.
 	- Permission Based Access Control (PBAC): Uses permissions like Read / Write / Create / Update / Delete / Print / Reboot / Etc
 
+- ** Chapter 5 - Common Pitfalls **
+- OWASP Top Ten is handy for learning. They have a few projects like the ZAP proxy and P
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -186,11 +188,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU1MzU3NjQsOTA5OTc2ODczLDEwMz
-g4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1
-MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMT
-kxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5
-NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0LC0xMjQwMj
-E5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5MSwxOTM5ODEyODky
-LDYyMDUxNzU1Nl19
+eyJoaXN0b3J5IjpbLTIwNDQxMzIzNTcsLTE4MjU1MzU3NjQsOT
+A5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2
+NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLT
+EyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3
+OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5Nz
+I3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5
+MSwxOTM5ODEyODkyXX0=
 -->
