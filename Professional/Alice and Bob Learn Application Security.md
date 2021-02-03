@@ -267,7 +267,11 @@
 		- Has education on a specific topic resulted in reduced incidents of that topic from occurring?
 - Application Security Activities (GOOD IDEAS TO ADD TO A PLAN)
 	- Run vulnerability / VA scans using DAST / SAST at a frequency.
-	- Threat model when designing new functionality 
+	- Threat model when designing new functionality using STRIDE / PASTA. Remediate issues.
+	- Ensure security is baked into code reviews, either manually or automated.
+	- Use SCA (Software Composition Analysis) at intervals to ensure no sketchy packages are being used.
+	- Do x amount of PenTests.
+	- Hold bug bounty programs.
 
 
 
@@ -277,7 +281,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDM2NDMyOCwtMTk3NjEwNjE4MCwxMz
+eyJoaXN0b3J5IjpbMTgzMTI1ODE2MSwtMTk3NjEwNjE4MCwxMz
 AzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQx
 NzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LD
 EwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQx
