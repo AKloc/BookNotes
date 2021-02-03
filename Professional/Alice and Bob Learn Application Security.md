@@ -282,6 +282,7 @@
 	- Service mesh (encrypts and manages API communication)
 	- API gateways  (handle regular authn and authz)
 	- Least privilege automation tools that can drop permissions where possible and reduce surface attack area.
+- When 
 
 
 
@@ -291,11 +292,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTkxMzY1MCwtMTk3NjEwNjE4MCwxMz
-AzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQx
-NzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LD
-EwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQx
-MzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mz
-k5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAy
-NiwyMDU1NjgzODExXX0=
+eyJoaXN0b3J5IjpbLTE4OTM5NTkyMDcsLTE5NzYxMDYxODAsMT
+MwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0
+MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNi
+wxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0
+MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2Nz
+M5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkw
+MjYsMjA1NTY4MzgxMV19
 -->
