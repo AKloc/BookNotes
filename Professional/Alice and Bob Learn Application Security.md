@@ -242,7 +242,10 @@
 - AppSec: A program (not software) of security-minded, long-term activities to keep your software secure.
 	- Do we perform threat modeling on each design?
 	- Do we check for security considerations at PRs? How?
-	- The program is FORMALIZED. They're official, mandatory. No one skips or takes s
+	- The program is FORMALIZED. They're official, mandatory. No one skips or takes shortcuts.
+- AppSec goals: Some use OWASP, SAMM, BSIMM as a starting point and tweak from there.
+- Create an Application Inventory that has all of your APIs, databases, applications, assets, etc. 
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -250,11 +253,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NTQ5NjcyLDEzMDM5NDQ4ODksLTE4Mj
-U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
-NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
-Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
-NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OT
-Q2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEs
-LTg3NTUyMTk5MV19
+eyJoaXN0b3J5IjpbLTE4NjI1MjM0NDQsMTMwMzk0NDg4OSwtMT
+gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
+OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
+E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
+MTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NT
+g5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4Mzgx
+MSwtODc1NTIxOTkxXX0=
 -->
