@@ -227,7 +227,14 @@
 	- DNS resolution on the server is internal-only.
 	- Etc.
 - Testing APIs:
-	- Start with a good request, then start sending bad ones. 
+	- Start with a good request, then start sending bad ones.
+	- Try using every HTTP verb and see if they work.
+	- Test field length limits.
+	- Send stuff like "<script>" and see if the server takes it.
+- Testing Networks:
+	- Close every port.
+	- Only service accounts should be able to access APIs / DBs / etc.
+	- 
 
 
 **What can I do with this?**
@@ -236,7 +243,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MzUwNjcwLDEzMDM5NDQ4ODksLTE4Mj
+eyJoaXN0b3J5IjpbMTg4MTk5MTE3LDEzMDM5NDQ4ODksLTE4Mj
 U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
 NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
 Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
