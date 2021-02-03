@@ -301,6 +301,10 @@
 	- Self-documenting. Nice.
 	- Immutable. You don't patch or change your infrastructure, you change the code which then deploys different, but new infrastructure.
 - SAC (Security as Code): Somewhat newer concept. Build security-minded tests.
+- Cloud Native Security:
+	- Imperative to design with zero trust and assume breach.
+	- Understand and use the native security features from the cloud provider. They're better at it than you are.
+	- "Identity is new peri
 
 
 **What can I do with this?**
@@ -309,11 +313,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAxNzE1OTYsLTU0NDg1MDQ0NSwtMj
-UxODM4OTc4LC0xODkzOTU5MjA3LC0xOTc2MTA2MTgwLDEzMDM5
-NDQ4ODksLTE4MjU1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3Mz
-EsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5
-NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMj
-g1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4
-LC0xMjMxNzU4OTQ2XX0=
+eyJoaXN0b3J5IjpbMTIwMTcxNjg4OSwtMjE0MDE3MTU5NiwtNT
+Q0ODUwNDQ1LC0yNTE4Mzg5NzgsLTE4OTM5NTkyMDcsLTE5NzYx
+MDYxODAsMTMwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4Nz
+MsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4
+OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OT
+QwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0
+LC0yNzk2NzM5OThdfQ==
 -->
