@@ -183,7 +183,9 @@
 - OWASP Top Ten is handy for learning. They have a few projects like the ZAP proxy and Proactive Controls.
 - Defend against CSRF, which is where an attacker gives a link to do something bad to a user who's already logged in.
 	- Reverify the user is who they say who they are.
-	- Confirm with
+	- Confirm with the user that they want to do big operations.
+	- Ensure that the referrer header from the request is from the site, and not from another site or email address.
+- Defend against 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -191,11 +193,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDI5MTc3LC0xODI1NTM1NzY0LDkwOT
-k3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5
-MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMj
-E5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzky
-MzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNz
-kzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1MjE5OTEs
-MTkzOTgxMjg5Ml19
+eyJoaXN0b3J5IjpbLTE2NDk1OTkwMjYsLTE4MjU1MzU3NjQsOT
+A5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2
+NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLT
+EyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3
+OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5Nz
+I3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5
+MSwxOTM5ODEyODkyXX0=
 -->
