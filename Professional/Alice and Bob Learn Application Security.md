@@ -287,7 +287,8 @@
 ** 8 - Securing Modern Applications and Systems **
 - When a new tech comes out, the tendency for engineers is to not care about security and rush to use something new and cool. Avoid that.
 - APIs and Microservices:
-	- Use an API gateway to get free AUTHN / AUTHZ
+	- Use an API gateway to get free AUTHN / AUTHZ as well as protect against DOS attacks. They can also help throttle and ensure resources aren't overloaded.
+	- Input
 
 
 
@@ -297,7 +298,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1ODg4MzU2LC0xODkzOTU5MjA3LC0xOT
+eyJoaXN0b3J5IjpbMTIxMjk0ODM0LC0xODkzOTU5MjA3LC0xOT
 c2MTA2MTgwLDEzMDM5NDQ4ODksLTE4MjU1MzU3NjQsOTA5OTc2
 ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLD
 E1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5
