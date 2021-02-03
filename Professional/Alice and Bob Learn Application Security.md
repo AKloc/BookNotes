@@ -201,7 +201,8 @@
 	- List of free and paid tools at owasp.org/www-community/Source_Code_Analysis_Tools
 - SCA: Software Composition Analysis. Automates analysis of the components your application is using to assess risk, security, and license compliance.
 	- Can be helpful if not just to document a "Software Bill of Materials" that lists all of the components your system uses.
-	- List of paid and free tools: owasp.org/
+	- List of paid and free tools: owasp.org/www-community/Component_Analysis#tools-listing
+- IAC: Infrastructure as code. Generally a great thing for security, since it's very helpful with change management (view the diffs in a repository), Disaster Recovery, and eliminates things like humans
 
 
 **What can I do with this?**
@@ -210,11 +211,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTU3MTYzMywtMTgyNTUzNTc2NCw5MD
-k5NzY4NzMsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3
-OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMT
-IxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5
-MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mj
-c5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkx
-LDE5Mzk4MTI4OTJdfQ==
+eyJoaXN0b3J5IjpbLTc1ODg1NDc1LC0xODI1NTM1NzY0LDkwOT
+k3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5
+MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMj
+E5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzky
+MzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNz
+kzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1MjE5OTEs
+MTkzOTgxMjg5Ml19
 -->
