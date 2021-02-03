@@ -246,6 +246,14 @@
 - AppSec goals: Some use OWASP, SAMM, BSIMM as a starting point and tweak from there.
 - Create an Application Inventory that has all of your APIs, databases, applications, assets, etc. 
 	- Place this in a Configuration Mangement Database (CMDB) and make it accessible.
+	- App / API names
+	- Type of app / API / web app / SaaS / etc
+	- Urls to prod, dev, etc
+	- Links to code storage
+	- Contact info for team responsible
+	- Data sensitivity level
+	- Tech stack specifics
+	- Location
 - Training and education is important. Make the time. Use workshops, lunch and learns, mini speeches, instructors... whatever. 
 	- "If you expect your developers to know a specific security control, defense, or coding method, YOU MUST TEACH IT TO THEM."
 - Bake security concerns into the SDLC. e.g.:
@@ -315,7 +323,7 @@
 	- Use a password manager.
 	- Consider using passphrases instead of passwords.
 	- Don't reuse passwords.
-	- Use MFA
+	- Use MFA wherever possible.
 
 
 
@@ -325,7 +333,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDk0MzU3OCwxMzUxNTExMjU3LC0yMT
+eyJoaXN0b3J5IjpbLTQ2NDQ1MTI5OCwxMzUxNTExMjU3LC0yMT
 QwMTcxNTk2LC01NDQ4NTA0NDUsLTI1MTgzODk3OCwtMTg5Mzk1
 OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0ODg5LC0xODI1NTM1Nz
 Y0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0
