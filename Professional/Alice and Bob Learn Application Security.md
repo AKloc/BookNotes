@@ -285,7 +285,9 @@
 - When first starting out - SET GOALS. Don't just do everything at once.
 
 ** 8 - Securing Modern Applications and Systems **
-- 
+- When a new tech comes out, the tendency for engineers is to not care about security and rush to use something new and cool. Avoid that.
+- APIs and Microservices:
+	- Use an API gateway to get free AUTHN / AUTHZ
 
 
 
@@ -295,11 +297,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODYzNzQzNSwtMTg5Mzk1OTIwNywtMT
-k3NjEwNjE4MCwxMzAzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3
-Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5Mi
-wxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5
-OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzkyMz
-Y1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNzkz
-NCwtMTI0MDIxOTAyNl19
+eyJoaXN0b3J5IjpbOTA1ODg4MzU2LC0xODkzOTU5MjA3LC0xOT
+c2MTA2MTgwLDEzMDM5NDQ4ODksLTE4MjU1MzU3NjQsOTA5OTc2
+ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2NzkyLD
+E1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLTEyMTk5
+ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3OTIzNj
+U5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5NzI3OTM0
+LC0xMjQwMjE5MDI2XX0=
 -->
