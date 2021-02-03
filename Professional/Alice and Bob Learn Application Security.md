@@ -349,7 +349,10 @@
 
 ** 11 - Closing Thoughts **
 - How to get management on board?
-	- "Attract bees with honey". Lunch and learns, give presentations, share reports about secu
+	- "Attract bees with honey". Lunch and learns, give presentations, share reports about security issues relevant to your org. Create POCs of the problems you're concerned with.
+	- OR, get passive-aggressive. Create a "Risk Sign Off doc" that outlines all of the business risk and outstanding vulnerabilities, then ask for a C-suite signoff that they accept the risk. No one will ever sign it.
+- How to get engineers on board?
+	- 
 
 
 
@@ -359,7 +362,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc4OTk2MzEsLTQ2NDQ1MTI5OCwxMz
+eyJoaXN0b3J5IjpbLTE1Mjg5MDU5MTMsLTQ2NDQ1MTI5OCwxMz
 UxNTExMjU3LC0yMTQwMTcxNTk2LC01NDQ4NTA0NDUsLTI1MTgz
 ODk3OCwtMTg5Mzk1OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0OD
 g5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04
