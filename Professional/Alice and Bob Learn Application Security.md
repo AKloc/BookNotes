@@ -247,7 +247,11 @@
 - Create an Application Inventory that has all of your APIs, databases, applications, assets, etc. 
 	- Place this in a Configuration Mangement Database (CMDB) and make it accessible.
 - Training and education is important. Make the time. Use workshops, lunch and learns, mini speeches, instructors... whatever. 
-	- "If you expect your developers to know a specific security control, defense,
+	- "If you expect your developers to know a specific security control, defense, or coding method, YOU MUST TEACH IT TO THEM."
+- Bake security concerns into the SDLC. e.g.:
+	- Requirements: Add security / bad-guy user stories that need to be accounted for.
+	- Design: Threat model. Look for architectural security flaws.
+	- Development: SAST / DAST / coding reviews
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -255,7 +259,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzNDM2MTQ3LDEzMDM5NDQ4ODksLTE4Mj
+eyJoaXN0b3J5IjpbLTQ5MTAzNjMyLDEzMDM5NDQ4ODksLTE4Mj
 U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
 NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
 Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
