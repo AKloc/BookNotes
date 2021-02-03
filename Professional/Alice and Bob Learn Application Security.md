@@ -194,7 +194,10 @@
 - Don't do deserialization in general. Use JSON / XML / YAML / etc instead.
 
 - **Chapter 6 - Testing and Deployment **
-- 
+- Static Testing: "Testing" code itself. Doesn't have to be running.
+- Dynamic Testing: Testing the code when it's actually running.
+
+
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -202,7 +205,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0Mjg5MDksLTE4MjU1MzU3NjQsOT
+eyJoaXN0b3J5IjpbLTE5NDM0NTUxMDEsLTE4MjU1MzU3NjQsOT
 A5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2
 NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLT
 EyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3
