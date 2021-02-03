@@ -300,7 +300,7 @@
 - IAC (Infrastructure as Code)
 	- Self-documenting. Nice.
 	- Immutable. You don't patch or change your infrastructure, you change the code which then deploys different, but new infrastructure.
-- SAC (Security as Code): Somewhat newer.
+- SAC (Security as Code): Somewhat newer concept. 
 
 
 **What can I do with this?**
@@ -309,11 +309,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg5MDIxODUsLTI1MTgzODk3OCwtMT
-g5Mzk1OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0ODg5LC0xODI1
-NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NT
-UsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0
-OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNj
-Y5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0
-NiwtMTQ5OTcyNzkzNF19
+eyJoaXN0b3J5IjpbLTU0NDg1MDQ0NSwtMjUxODM4OTc4LC0xOD
+kzOTU5MjA3LC0xOTc2MTA2MTgwLDEzMDM5NDQ4ODksLTE4MjU1
+MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NS
+wtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5
+ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2Nj
+kwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2
+LC0xNDk5NzI3OTM0XX0=
 -->
