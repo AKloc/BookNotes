@@ -236,7 +236,9 @@
 	- Only service accounts should be able to access APIs / DBs / etc.
 - Deployment:
 	- Add checks to CI/CD, but RESPECT DEV AND OPS's time limits. If you slow them down too much it will ultimately undermine your work.
-	- Example checks: Scan the del
+	- Example checks: Scan the code delta between last release and current result for anything that looks like a secret. Run a software composition analysis against the delta to ensure no one added a sketchy package.
+
+** Chapter 7 - An Apps
 
 
 **What can I do with this?**
@@ -245,7 +247,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE1ODgzNjEsMTMwMzk0NDg4OSwtMT
+eyJoaXN0b3J5IjpbLTEyMDA4MzI4NzYsMTMwMzk0NDg4OSwtMT
 gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
 OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
 E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
