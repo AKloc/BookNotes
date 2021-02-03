@@ -332,7 +332,17 @@
 	- Get a cert.
 	- Watch conference talks.
 	- Gamification / CTFs.
-	- Complete courses from places like WeHackPurple.com / udemy / etc
+	- Complete courses from places like WeHackPurple.com / udemy / etc.
+- Things you can do at work:
+	- Ask for formal training at work.
+	- Create a knowledgebase of tips you want to share.
+	- Go to work conferences.
+	- Teach newbies on the team.
+	- Volunteer to do a talk.
+	- Block off calendar time to train.
+	- Volunter for tasks / tiger teams.
+- Things you can do FOR your employees:
+	- Crea
 
 
 
@@ -342,11 +352,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM3MzQyMTAsLTQ2NDQ1MTI5OCwxMz
-UxNTExMjU3LC0yMTQwMTcxNTk2LC01NDQ4NTA0NDUsLTI1MTgz
-ODk3OCwtMTg5Mzk1OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0OD
-g5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04
-ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5Mj
-IxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAs
-LTE1MTAxNjY5MDVdfQ==
+eyJoaXN0b3J5IjpbMTg4OTM3NjU2MiwtNDY0NDUxMjk4LDEzNT
+E1MTEyNTcsLTIxNDAxNzE1OTYsLTU0NDg1MDQ0NSwtMjUxODM4
+OTc4LC0xODkzOTU5MjA3LC0xOTc2MTA2MTgwLDEzMDM5NDQ4OD
+ksLTE4MjU1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4
+MzA3MTk1NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMj
+E0LDExNDQ5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwt
+MTUxMDE2NjkwNV19
 -->
