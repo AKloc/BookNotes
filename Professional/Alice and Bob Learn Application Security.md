@@ -214,7 +214,9 @@
 	- Free tools: securityheaders.com, hardenize.io, SSL Labs.
 	- SAST (Static App Security Testing) tools can also help.
 	- Some of these checks can be automated and put into a CI / CD pipeline.
-- IAST: Interactive Application Security Testing. Basically an AI
+- IAST: Interactive Application Security Testing. Basically an AI / ML agent that sits in your system, monitors it, and reports vulnerabilities.
+	- Advised to use this in a pre-prod environment.
+- 
 
 
 **What can I do with this?**
@@ -223,11 +225,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjE3NzE3LDEzMDM5NDQ4ODksLTE4Mj
-U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
-NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
-Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
-NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OT
-Q2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEs
-LTg3NTUyMTk5MV19
+eyJoaXN0b3J5IjpbMTM2NjE0Mzc2MywxMzAzOTQ0ODg5LC0xOD
+I1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5
+NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMT
+Q0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAx
+NjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1OD
+k0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODEx
+LC04NzU1MjE5OTFdfQ==
 -->
