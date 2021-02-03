@@ -254,6 +254,12 @@
 	- Development: SAST / DAST / coding reviews.
 	- Testing: SAST / DAST / SCA / IAST (the AI agent)
 - FUN FACT: Average time to detect that a data breach ahs occurred is 197 days. You have to actively look.
+- Continuous Improvement of the plan:
+	- Use metrics. Be consistent.
+	- Avoid vanity metrics that don't matter at the end of the day - e.g., lines of code added.
+	- Metrics that might matter:
+		- Are you having reoccuring incidents?
+		- How long does it take to fix vulnerabilities?
 
 
 
@@ -263,11 +269,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxMDYxODAsMTMwMzk0NDg4OSwtMT
-gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
-OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
-E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
-MTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NT
-g5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4Mzgx
-MSwtODc1NTIxOTkxXX0=
+eyJoaXN0b3J5IjpbLTE1NjA5MTY0MjAsLTE5NzYxMDYxODAsMT
+MwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0
+MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNi
+wxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0
+MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2Nz
+M5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkw
+MjYsMjA1NTY4MzgxMV19
 -->
