@@ -216,7 +216,8 @@
 	- Some of these checks can be automated and put into a CI / CD pipeline.
 - IAST: Interactive Application Security Testing. Basically an AI / ML agent that sits in your system, monitors it, and reports vulnerabilities.
 	- Advised to use this in a pre-prod environment.
-- 
+- Database Testing / Validation:
+	- Ea
 
 
 **What can I do with this?**
@@ -225,11 +226,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjE0Mzc2MywxMzAzOTQ0ODg5LC0xOD
-I1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5
-NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMT
-Q0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAx
-NjY5MDUsLTEwNzkyMzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1OD
-k0NiwtMTQ5OTcyNzkzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODEx
-LC04NzU1MjE5OTFdfQ==
+eyJoaXN0b3J5IjpbLTExNTU3MzI5NTMsMTMwMzk0NDg4OSwtMT
+gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
+OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
+E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
+MTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NT
+g5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4Mzgx
+MSwtODc1NTIxOTkxXX0=
 -->
