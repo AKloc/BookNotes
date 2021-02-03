@@ -189,6 +189,10 @@
 	- Don't use URL parameters where possible.
 	- Validate inputs using approved / accelpted lists.
 	- Create an approved list of domains that are permitted for each call. Reject anything else.
+	- Use request filtering, which is typically a feature of your tech stack.
+	- Disable unused URL schemas (file:///, dict:///, ftp://, etc)
+- Don't do deserialization in general. Use JSON / XML / YAML / etc instead.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -196,11 +200,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njg4ODQ4MCwtMTgyNTUzNTc2NCw5MD
-k5NzY4NzMsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3
-OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMT
-IxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5
-MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NTg5NDYsLTE0OTk3Mj
-c5MzQsLTEyNDAyMTkwMjYsMjA1NTY4MzgxMSwtODc1NTIxOTkx
-LDE5Mzk4MTI4OTJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTcyODUzOTIsLTE4MjU1MzU3NjQsOT
+A5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2
+NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLT
+EyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3
+OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5Nz
+I3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5
+MSwxOTM5ODEyODkyXX0=
 -->
