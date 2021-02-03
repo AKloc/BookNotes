@@ -217,7 +217,11 @@
 - IAST: Interactive Application Security Testing. Basically an AI / ML agent that sits in your system, monitors it, and reports vulnerabilities.
 	- Advised to use this in a pre-prod environment.
 - Database Testing / Validation:
-	- Ea
+	- Each account should only be able to access certain things.
+	- You shouldn't be able to connect to the server without an account.
+	- Close off all ports except what's needed for operation.
+	- Don't install any other software on the DB server.
+	- All data should be classified and labeled - is it secret / top secret / unclassified?
 
 
 **What can I do with this?**
@@ -226,11 +230,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU3MzI5NTMsMTMwMzk0NDg4OSwtMT
-gyNTUzNTc2NCw5MDk5NzY4NzMsMTAzODg0MTczMSwtODgzMDcx
-OTU1LC05NDQ1NTY3OTIsMTU4OTY1OTUxNiwxMDk1OTIyMTQsMT
-E0NDk4NjYxMywtMTIxOTk4OTQwNCwxOTE0MTMyODUwLC0xNTEw
-MTY2OTA1LC0xMDc5MjM2NTk0LC0yNzk2NzM5OTgsLTEyMzE3NT
-g5NDYsLTE0OTk3Mjc5MzQsLTEyNDAyMTkwMjYsMjA1NTY4Mzgx
-MSwtODc1NTIxOTkxXX0=
+eyJoaXN0b3J5IjpbMTIxODA0Mjc2LDEzMDM5NDQ4ODksLTE4Mj
+U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
+NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
+Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
+NjkwNSwtMTA3OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OT
+Q2LC0xNDk5NzI3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEs
+LTg3NTUyMTk5MV19
 -->
