@@ -309,7 +309,14 @@
 
 ** 9 - Good Habits **
 - Common trap - search how to write code to do x. You find the top answer, which is the most basic, stripped-down, and often least secure solution. Be careful.
-- Remove any password complexity rules
+- On Passwords:
+	- Remove any password complexity rules.
+	- Don't require password rotation.
+	- Use a password manager.
+	- Consider using passphrases instead of passwords.
+	- Don't reuse passwords.
+	- Use MFA
+
 
 
 **What can I do with this?**
@@ -318,11 +325,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTUxMTI1NywtMjE0MDE3MTU5NiwtNT
-Q0ODUwNDQ1LC0yNTE4Mzg5NzgsLTE4OTM5NTkyMDcsLTE5NzYx
-MDYxODAsMTMwMzk0NDg4OSwtMTgyNTUzNTc2NCw5MDk5NzY4Nz
-MsMTAzODg0MTczMSwtODgzMDcxOTU1LC05NDQ1NTY3OTIsMTU4
-OTY1OTUxNiwxMDk1OTIyMTQsMTE0NDk4NjYxMywtMTIxOTk4OT
-QwNCwxOTE0MTMyODUwLC0xNTEwMTY2OTA1LC0xMDc5MjM2NTk0
-LC0yNzk2NzM5OThdfQ==
+eyJoaXN0b3J5IjpbLTMwNDk0MzU3OCwxMzUxNTExMjU3LC0yMT
+QwMTcxNTk2LC01NDQ4NTA0NDUsLTI1MTgzODk3OCwtMTg5Mzk1
+OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0ODg5LC0xODI1NTM1Nz
+Y0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0
+NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2Nj
+EzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUs
+LTEwNzkyMzY1OTRdfQ==
 -->
