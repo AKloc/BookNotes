@@ -294,9 +294,12 @@
 - Containers and orchestration: Don't just trust images from anywhere.
 - Serverless:
 	- Nice because they aren't always running. Smaller attack surface, no server to attack.
-	- Still need to validate input, AUTHN, AUTHZ.
+	- Still need to validate input, AUTHN, AUTHZ between each microservice call.
 	- Use an API gateway, again.
-	- 
+	- Make SURE secrets are in a store.
+- IAC (Infrastructure as Code)
+	- Self-documenting. Nice.
+	- Immutable. You don't patch or change your infrastructure, you change the code which then d
 
 
 **What can I do with this?**
@@ -305,7 +308,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDY4MzMzMywtMjUxODM4OTc4LC0xOD
+eyJoaXN0b3J5IjpbLTQzNDkzNDc4MywtMjUxODM4OTc4LC0xOD
 kzOTU5MjA3LC0xOTc2MTA2MTgwLDEzMDM5NDQ4ODksLTE4MjU1
 MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NS
 wtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5
