@@ -281,7 +281,7 @@
 	- IDE security tools.
 	- Service mesh (encrypts and manages API communication)
 	- API gateways  (handle regular authn and authz)
-	- LE
+	- Least privilege automation tools that can drop permissions where possible and reduce surface attack area.
 
 
 
@@ -291,7 +291,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTQ4MTIyOCwtMTk3NjEwNjE4MCwxMz
+eyJoaXN0b3J5IjpbLTMwNTkxMzY1MCwtMTk3NjEwNjE4MCwxMz
 AzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQx
 NzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LD
 EwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQx
