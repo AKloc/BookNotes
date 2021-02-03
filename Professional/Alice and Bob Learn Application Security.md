@@ -222,6 +222,12 @@
 	- Close off all ports except what's needed for operation.
 	- Don't install any other software on the DB server.
 	- All data should be classified and labeled - is it secret / top secret / unclassified?
+	- No service accounts have dbo.
+	- Data is encrypted in transit and at rest.
+	- DNS resolution on the server is internal-only.
+	- Etc.
+- Testing APIs:
+	- Start with a good request, then start sending bad ones. 
 
 
 **What can I do with this?**
@@ -230,7 +236,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODA0Mjc2LDEzMDM5NDQ4ODksLTE4Mj
+eyJoaXN0b3J5IjpbNzk1MzUwNjcwLDEzMDM5NDQ4ODksLTE4Mj
 U1MzU3NjQsOTA5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1
 NSwtOTQ0NTU2NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExND
 Q5ODY2MTMsLTEyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2
