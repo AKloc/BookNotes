@@ -325,6 +325,15 @@
 	- Don't reuse passwords.
 	- Use MFA wherever possible.
 
+** 10 - Continuous Learning **
+- Things you can do on your own:
+	- Read books.
+	- Follow blogs.
+	- Get a cert.
+	- Watch conference talks.
+	- Gamification / CTFs.
+	- Complete courses from places like WeHackPurple.com / udemy / etc
+
 
 
 **What can I do with this?**
@@ -333,11 +342,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQ1MTI5OCwxMzUxNTExMjU3LC0yMT
-QwMTcxNTk2LC01NDQ4NTA0NDUsLTI1MTgzODk3OCwtMTg5Mzk1
-OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0ODg5LC0xODI1NTM1Nz
-Y0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0
-NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2Nj
-EzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUs
-LTEwNzkyMzY1OTRdfQ==
+eyJoaXN0b3J5IjpbLTEyODM3MzQyMTAsLTQ2NDQ1MTI5OCwxMz
+UxNTExMjU3LC0yMTQwMTcxNTk2LC01NDQ4NTA0NDUsLTI1MTgz
+ODk3OCwtMTg5Mzk1OTIwNywtMTk3NjEwNjE4MCwxMzAzOTQ0OD
+g5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4ODQxNzMxLC04
+ODMwNzE5NTUsLTk0NDU1Njc5MiwxNTg5NjU5NTE2LDEwOTU5Mj
+IxNCwxMTQ0OTg2NjEzLC0xMjE5OTg5NDA0LDE5MTQxMzI4NTAs
+LTE1MTAxNjY5MDVdfQ==
 -->
