@@ -196,7 +196,10 @@
 - **Chapter 6 - Testing and Deployment **
 - Static Testing: "Testing" code itself. Doesn't have to be running.
 - Dynamic Testing: Testing the code when it's actually running.
-
+- SAST: Static Application Security Testing. 
+	- Generally provide a lot of results that can be false positives, but should be waded through.
+	- List of free and paid tools at owasp.org/www-community/Source_Code_Analysis_Tools
+- SCA: Software Composition Analysis. 
 
 
 **What can I do with this?**
@@ -205,11 +208,11 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM0NTUxMDEsLTE4MjU1MzU3NjQsOT
-A5OTc2ODczLDEwMzg4NDE3MzEsLTg4MzA3MTk1NSwtOTQ0NTU2
-NzkyLDE1ODk2NTk1MTYsMTA5NTkyMjE0LDExNDQ5ODY2MTMsLT
-EyMTk5ODk0MDQsMTkxNDEzMjg1MCwtMTUxMDE2NjkwNSwtMTA3
-OTIzNjU5NCwtMjc5NjczOTk4LC0xMjMxNzU4OTQ2LC0xNDk5Nz
-I3OTM0LC0xMjQwMjE5MDI2LDIwNTU2ODM4MTEsLTg3NTUyMTk5
-MSwxOTM5ODEyODkyXX0=
+eyJoaXN0b3J5IjpbNDYxMDc3NTEwLC0xODI1NTM1NzY0LDkwOT
+k3Njg3MywxMDM4ODQxNzMxLC04ODMwNzE5NTUsLTk0NDU1Njc5
+MiwxNTg5NjU5NTE2LDEwOTU5MjIxNCwxMTQ0OTg2NjEzLC0xMj
+E5OTg5NDA0LDE5MTQxMzI4NTAsLTE1MTAxNjY5MDUsLTEwNzky
+MzY1OTQsLTI3OTY3Mzk5OCwtMTIzMTc1ODk0NiwtMTQ5OTcyNz
+kzNCwtMTI0MDIxOTAyNiwyMDU1NjgzODExLC04NzU1MjE5OTEs
+MTkzOTgxMjg5Ml19
 -->
