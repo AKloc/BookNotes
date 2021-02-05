@@ -59,12 +59,14 @@
 **What can I do with this?**
 - "DesignDecisions.md"
 - In general, I like the idea that making your system obvious is a great thing to prioritize in design. I'll probably look at my code in a new light.
+- This might be a good book to assign to mid-level engineers.
 
 **Personal Bottom Line**
 - 8/10
 - Nothing groundbreaking, good reinforcing concepts.
+- Have a few good takeaways.
 - A lot of fluff with the examples, BUT they were very easy to skip over.
 - Not sure I agree with the takes on TDD not being desirable because it restricts design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzEzNjcwLC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbMjA3Nzg2ODkxOSwtNTE1NTUyODA4XX0=
 -->
