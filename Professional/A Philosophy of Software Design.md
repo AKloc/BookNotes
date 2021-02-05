@@ -25,7 +25,7 @@
 	- DON'T WANT: Shallow modules whose interface is complicated relative to the functionality they provide.
 		- "Classitis"
 - "Information hiding": Modules should hide complexity in them rather than pass them to whoever's using them through the interface. e.g., things like retry logic.
-- "Temporal Decomposition:" the bad design of designing code structure based on execution order.
+- "Temporal Decomposition:" the bad design approach of designing code structure based on execution order.
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -35,5 +35,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjI2MDUzNCwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbMjg5NDM5MTM0LC01MTU1NTI4MDhdfQ==
 -->
