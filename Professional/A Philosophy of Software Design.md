@@ -20,8 +20,9 @@
 - "Depth"
 	- Modules (classes / services / etc) should minimize dependencies between each other. They have an interface and an implementation.
 	- Interfaces should be SIMPLE. Don't show unimportant stuff. LESS IS BETTER.
-	- Implementations should be 
-	- 
+	- Implementations should have lots of functionality.
+	- WHAT YOU WANT: Small, simple interfaces with implementations that offer lots of functionality. These two together = "Deep modules".
+	- S
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -31,5 +32,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzY2MzI4LC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbLTIwNTUxNzMyNTAsLTUxNTU1MjgwOF19
 -->
