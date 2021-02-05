@@ -53,9 +53,8 @@
 	- Be CONSISTENT
 	- If it's hard to name the variable, then re-think your design, because it probably isn't clean / obvious.
 - Modifying existing code? Continue to develop strategically. Don't just make the system work (tactically). Refactor if it makes sense.
-
 - Much more important for code to be READABLE than easily writable.
-- 
+- Writing for performance: Make code simple. Don't "if" everywhere.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -63,5 +62,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTYzMDAyOCwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbLTY1OTY0NzI0NSwtNTE1NTUyODA4XX0=
 -->
