@@ -22,7 +22,9 @@
 	- Interfaces should be SIMPLE. Don't show unimportant stuff. LESS IS BETTER.
 	- Implementations should have lots of functionality.
 	- WHAT YOU WANT: Small, simple interfaces with implementations that offer lots of functionality. These two together = "Deep modules".
-	- S
+	- DON'T WANT: Shallow modules whose interface is complicated relative to the functionality they provide.
+		- "Classitis"
+- "Information hiding": Modules should encap
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -32,5 +34,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUxNzMyNTAsLTUxNTU1MjgwOF19
+eyJoaXN0b3J5IjpbLTEyMDY2NzYwMzMsLTUxNTU1MjgwOF19
 -->
