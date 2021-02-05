@@ -4,6 +4,10 @@
 - Highly rated, was in the book club, always looking for design perspective.
  
 **Main Takeaways & Metacognition**
+- Two goals:
+	- Describe what complexity is and why it matters
+	- Present techniques to reduce it.
+- Complexity = anything that makes code hard to  
 - Basically, the most important thing you can do is shoot for a clean design.
 - Much more important for code to be READABLE than easily writable.
 - 
@@ -14,5 +18,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTU1MjgwOF19
+eyJoaXN0b3J5IjpbMTQ4MzIwMTA1OSwtNTE1NTUyODA4XX0=
 -->
