@@ -18,7 +18,9 @@
 	- Strategic programming: "Working code isn't enough." Primary objective is to produce a great design that also happens to work.
 		- How much to invest? Spend 10-20% on investing in good design.
 - "Depth"
-	- Modules (classes / services / etc) should minimize dependencies between each other.
+	- Modules (classes / services / etc) should minimize dependencies between each other. They have an interface and an implementation.
+	- Interfaces should be SIMPLE. Don't show unimportant stuff. LESS IS BETTER.
+	- Implementations should be 
 	- 
 - Much more important for code to be READABLE than easily writable.
 - 
@@ -29,5 +31,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjAwNTA5NCwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbMTA0MzY2MzI4LC01MTU1NTI4MDhdfQ==
 -->
