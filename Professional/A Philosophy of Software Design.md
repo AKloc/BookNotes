@@ -38,7 +38,8 @@
 	- Don't split up methods unless it actually makes the system simpler. Not a problem to have long methods. Each method should do one thing, completely.
 - Exceptions / errors: THROWING EXCEPTIONS EVERYWHERE IS LAZY. Can you really not handle the cases internally? If so, do it, don't make it the issue of the person using your interface.
 	- Maybe you can ignore them entirely.
-	- 
+	- Sometimes just crashing is OK if it makes sense.
+- Design things twice. Every time. Going with your gut is rarely the best solution
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -50,5 +51,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDA4NTM5NSwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbMjA0NjY1NjQ0OSwtNTE1NTUyODA4XX0=
 -->
