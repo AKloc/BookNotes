@@ -45,7 +45,11 @@
 	- GENERAL GOAL: Comments should document information on the designer's mind that can't be reflected in code, or things that aren't obvious.
 	- Keep comments close to the code they're for.
 	- Write your comments BEFORE your code, not after.
-
+- Naming:
+	- Take your time and come up with great names.
+	- Shouldn't be more than two or three words.
+	- Be PRECISE
+	- Be CONSISTENT
 
 - Much more important for code to be READABLE than easily writable.
 - 
@@ -56,5 +60,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTU0MzIwMCwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbNTQ5NDE2MDkxLC01MTU1NTI4MDhdfQ==
 -->
