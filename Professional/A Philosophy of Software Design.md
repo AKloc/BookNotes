@@ -45,6 +45,7 @@
 	- GENERAL GOAL: Comments should document information on the designer's mind that can't be reflected in code, or things that aren't obvious.
 	- Keep comments close to the code they're for.
 	- Write your comments BEFORE your code, not after.
+	- No obvious place for your comment? Create a "DesignDecisions.md" file in your code, write your comment, and reference it.
 - Naming:
 	- Take your time and come up with great names.
 	- Shouldn't be more than two or three words.
@@ -62,5 +63,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDM2NDY4NCwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbLTQwNTYzMDAyOCwtNTE1NTUyODA4XX0=
 -->
