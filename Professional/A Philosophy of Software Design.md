@@ -24,7 +24,8 @@
 	- WHAT YOU WANT: Small, simple interfaces with implementations that offer lots of functionality. These two together = "Deep modules".
 	- DON'T WANT: Shallow modules whose interface is complicated relative to the functionality they provide.
 		- "Classitis"
-- "Information hiding": Modules should encap
+- "Information hiding": Modules should hide complexity in them rather than pass them to whoever's using them through the interface. e.g., things like retry logic.
+- "Temporal Decomposition:" the bad design of designing code structure based on execution order.
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -34,5 +35,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY2NzYwMzMsLTUxNTU1MjgwOF19
+eyJoaXN0b3J5IjpbLTc3NjI2MDUzNCwtNTE1NTUyODA4XX0=
 -->
