@@ -26,6 +26,10 @@
 		- "Classitis"
 - "Information hiding": Modules should hide complexity in them rather than pass them to whoever's using them through the interface. e.g., things like retry logic.
 - "Temporal Decomposition:" the bad design approach of designing code structure based on execution order.
+- Make classes general purpose. An interface should be general enough to support multiple uses.
+	- Ask yourself: What's the smallest / simplest interface I could create
+
+
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -35,5 +39,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NDM5MTM0LC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbMTM5NDgwMTI0MSwtNTE1NTUyODA4XX0=
 -->
