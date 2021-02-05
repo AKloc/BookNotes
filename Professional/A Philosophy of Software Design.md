@@ -12,6 +12,9 @@
 	- Complexity causes "Change amplification," which means you have to change code in many different places often.
 	- Complexity requires more "Cognitive load," which is how much a developer needs to know in order to do something to the code.
 - Basically, the most important thing you can do is try to be obvious and clean.
+- Tactical programming: Doing the least amount of work to get a job done.
+	- Sometimes "pros" at this are mislabeled as heroes when all they're doing is leaving tons of technical debt behind that someone else will have to repay.
+- Strategic programming: "
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -21,5 +24,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI3NzAzNTEsLTUxNTU1MjgwOF19
+eyJoaXN0b3J5IjpbODY0MTUxMzczLC01MTU1NTI4MDhdfQ==
 -->
