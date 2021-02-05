@@ -36,7 +36,9 @@
 	- Pass-through variables that are used through chains of methods. Try using a context object instead, particularly for things like configuration.
 	- Dividing up classes too much. If two classes overlap conceptually, share information, are used together frequently, or don't make sense without looking at each other, combine them.
 	- Don't split up methods unless it actually makes the system simpler. Not a problem to have long methods. Each method should do one thing, completely.
-- Exceptions / errors: Define them out of e
+- Exceptions / errors: THROWING EXCEPTIONS EVERYWHERE IS LAZY. Can you really not handle the cases internally? If so, do it, don't make it the issue of the person using your interface.
+	- Maybe you can ignore them entirely.
+	- 
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -48,5 +50,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MzM1NTk2LC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbMTEzNDA4NTM5NSwtNTE1NTUyODA4XX0=
 -->
