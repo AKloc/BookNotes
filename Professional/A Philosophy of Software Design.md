@@ -42,8 +42,9 @@
 - Design things twice. Every time. Going with your gut is rarely the best solution. This is hard, and you are not stupid. Take the time.
 - Comments:
 	- Pretty straightforward. Make them readable, don't overuse them, use good and descriptive variable names, use them at different levels.
+	- GENERAL GOAL: Comments should document the 
 	- Keep comments close to the code they're for.
-	- Recommend
+	- Write your comments BEFORE your code, not after.
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -55,5 +56,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMjE3MDAzLC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbLTQyNzg1ODU4MCwtNTE1NTUyODA4XX0=
 -->
