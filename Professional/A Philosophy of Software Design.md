@@ -25,7 +25,7 @@
 	- DON'T WANT: Shallow modules whose interface is complicated relative to the functionality they provide.
 		- "Classitis"
 - "Information hiding": Modules should hide complexity in them rather than pass them to whoever's using them through the interface. e.g., things like retry logic.
-	- Pull complexity DO
+	- Pull complexity DOWN into implementation. Don't let it float up to interfaces.
 - "Temporal Decomposition:" the bad design approach of designing code structure based on execution order.
 - Make classes general purpose. An interface should be general enough to support multiple uses.
 	- Ask yourself: What's the smallest / simplest interface I could create?
@@ -34,6 +34,8 @@
 	- Pass-through methods.
 	- Using decorators (an object extends another object to extend its functionality). Why not add it to the base class?
 	- Pass-through variables that are used through chains of methods. Try using a context object instead, particularly for things like configuration.
+	- Dividing up classes too much. If two classes overlap conceptually, share information, are used together frequently, or don't make sense without looking at each other, combine them.
+	- 
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -45,5 +47,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNTk4NTgyLC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbOTg0NzM0NDQ0LC01MTU1NTI4MDhdfQ==
 -->
