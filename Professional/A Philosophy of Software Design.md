@@ -35,7 +35,8 @@
 	- Using decorators (an object extends another object to extend its functionality). Why not add it to the base class?
 	- Pass-through variables that are used through chains of methods. Try using a context object instead, particularly for things like configuration.
 	- Dividing up classes too much. If two classes overlap conceptually, share information, are used together frequently, or don't make sense without looking at each other, combine them.
-	- 
+	- Don't split up methods unless it actually makes the system simpler. Not a problem to have long methods. Each method should do one thing, completely.
+- Exceptions / errors: Define them out of e
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -47,5 +48,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0NzM0NDQ0LC01MTU1NTI4MDhdfQ==
+eyJoaXN0b3J5IjpbNTY0MzM1NTk2LC01MTU1NTI4MDhdfQ==
 -->
