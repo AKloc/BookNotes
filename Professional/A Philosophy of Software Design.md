@@ -4,7 +4,9 @@
 - Highly rated, was in the book club, always looking for design perspective.
  
 **Main Takeaways & Metacognition**
-- Basicall
+- Basically, the most important thing you can do is shoot for a clean design.
+- Much more important for code to be READABLE than easily writable.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -12,5 +14,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTM3NDA1XX0=
+eyJoaXN0b3J5IjpbLTUxNTU1MjgwOF19
 -->
