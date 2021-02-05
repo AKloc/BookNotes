@@ -10,8 +10,8 @@
 - Complexity = anything that makes code hard to understand or change.
 	- "If you write a piece of code and it's simple to you but complex to others, it's complex."
 	- Complexity causes "Change amplification," which means you have to change code in many different places often.
-	- Complexit
-- Basically, the most important thing you can do is shoot for a clean design.
+	- Complexity requires more "Cognitive load," which is how much a developer needs to know in order to do something to the code.
+- Basically, the most important thing you can do is try to be obvious and clean.
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -21,5 +21,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDEwMTAyMywtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbLTE3NjI3NzAzNTEsLTUxNTU1MjgwOF19
 -->
