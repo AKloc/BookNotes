@@ -39,7 +39,11 @@
 - Exceptions / errors: THROWING EXCEPTIONS EVERYWHERE IS LAZY. Can you really not handle the cases internally? If so, do it, don't make it the issue of the person using your interface.
 	- Maybe you can ignore them entirely.
 	- Sometimes just crashing is OK if it makes sense.
-- Design things twice. Every time. Going with your gut is rarely the best solution
+- Design things twice. Every time. Going with your gut is rarely the best solution. This is hard, and you are not stupid. Take the time.
+- Comments:
+	- Pretty straightforward. Make them readable, don't overuse them, use good and descriptive variable names, use them at different levels.
+	- Keep comments close to the code they're for.
+	- Recommend
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -51,5 +55,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjY1NjQ0OSwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbNTgzMjE3MDAzLC01MTU1NTI4MDhdfQ==
 -->
