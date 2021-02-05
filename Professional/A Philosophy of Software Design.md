@@ -42,7 +42,7 @@
 - Design things twice. Every time. Going with your gut is rarely the best solution. This is hard, and you are not stupid. Take the time.
 - Comments:
 	- Pretty straightforward. Make them readable, don't overuse them, use good and descriptive variable names, use them at different levels.
-	- GENERAL GOAL: Comments should document the 
+	- GENERAL GOAL: Comments should document information on the designer's mind that can't be reflected in code, or things that aren't obvious.
 	- Keep comments close to the code they're for.
 	- Write your comments BEFORE your code, not after.
 
@@ -56,5 +56,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzg1ODU4MCwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbMTU2NTU0MzIwMCwtNTE1NTUyODA4XX0=
 -->
