@@ -27,7 +27,11 @@
 - "Information hiding": Modules should hide complexity in them rather than pass them to whoever's using them through the interface. e.g., things like retry logic.
 - "Temporal Decomposition:" the bad design approach of designing code structure based on execution order.
 - Make classes general purpose. An interface should be general enough to support multiple uses.
-	- Ask yourself: What's the smallest / simplest interface I could create
+	- Ask yourself: What's the smallest / simplest interface I could create?
+- Design red flags:
+	- Layers of abstraction that don't line up.
+	- Pass-through methods.
+	- Using decorators (an object extends another object to extend its
 
 
 - Much more important for code to be READABLE than easily writable.
@@ -39,5 +43,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDgwMTI0MSwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbMTQ0NzIwMjE3NiwtNTE1NTUyODA4XX0=
 -->
