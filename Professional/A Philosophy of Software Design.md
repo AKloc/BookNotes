@@ -57,10 +57,11 @@
 - Writing for performance: Make code simple. Don't "if" everywhere.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- "DesignDecisions.md"
+- In general, I like the idea that making your system obvious is a great thing to prioritize in design. I'll probably look at my code in
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTY0NzI0NSwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbMjcxNzg4NTU3LC01MTU1NTI4MDhdfQ==
 -->
