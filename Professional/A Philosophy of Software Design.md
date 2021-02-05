@@ -17,6 +17,9 @@
 		- Sometimes "pros" at this are mislabeled as heroes when all they're doing is leaving tons of technical debt behind that someone else will have to repay.
 	- Strategic programming: "Working code isn't enough." Primary objective is to produce a great design that also happens to work.
 		- How much to invest? Spend 10-20% on investing in good design.
+- "Depth"
+	- Modules (classes / services / etc) should minimize dependencies between each other.
+	- 
 - Much more important for code to be READABLE than easily writable.
 - 
 
@@ -26,5 +29,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMyOTUxMzksLTUxNTU1MjgwOF19
+eyJoaXN0b3J5IjpbMTgwMjAwNTA5NCwtNTE1NTUyODA4XX0=
 -->
