@@ -1,4 +1,3 @@
-
 ## Digital Minimalism (August 2020)
 
 **Main Takeaways**
@@ -38,5 +37,5 @@
 - Has literally, and permanently, changed my attitude towards some of these digital mediums.
 - General observation, or maybe confirmation bias - it's funny how many of these types of books are based on ROI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjIxODQ2NV19
+eyJoaXN0b3J5IjpbMTk4MjYxMzcxMSwxNDE2MjE4NDY1XX0=
 -->
