@@ -23,8 +23,8 @@
 
 **Personal Bottom Line**
 - 8/10
-- Knew of these ideas already.
-- Well-written, 
+- Knew of these ideas already, minus the general concept of open borders, but got what I wanted out of the book.
+- Well-written, was easy to speed read. Everything was supported with some sort of interesting story or study without getting boring.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTUxMTE1NV19
+eyJoaXN0b3J5IjpbLTEzMTYzNjQ3OF19
 -->
