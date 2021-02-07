@@ -16,10 +16,13 @@
 - Don't feel like a sucker for being an idealist. Women's voting, abolishment of slavery, etc were once thought of as extreme ideal ideas.
 
 **What can I do with this?**
-- I'd love to pitch the idea of offering reduced-hour
+- I'd love to pitch the idea of offering reduced-hour work weeks as a perk.
+- I should volunteer.
+- Maybe I should do something with givedirectly.
+- Woodworking comes up CONSTANTLY. I should try that.
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjAyNjQ4OF19
+eyJoaXN0b3J5IjpbNDIxNTE5MDYzXX0=
 -->
