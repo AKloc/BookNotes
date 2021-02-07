@@ -11,13 +11,15 @@
 - The best way to reduce poverty is literally to give poor people money. Actual studies show that those people will use the money to help themselves, not drugs / booze / whatever.
 	- Same with homelessness. Give them a home.
 - Borders are a crazy concept when you think about it. Enforcing them wasn't even a thing until WW2. Today they're used to segment haves from have-nots, limit incomes, etc. If borders were lifted general wealth of the world would skyrocket.
-- Idea with shorter work weeks isn't to let people be lazy and do nothing, which they ultimately don't like - it's to let them do the things
+- Idea with shorter work weeks isn't to let people be lazy and do nothing, which they ultimately don't like - it's to let them do the things that matter to them. e.g., woodworking, volunteering, etc.
+- Problem with the political left is that they want to treat symptoms rather than causes, and don't have strong enough convictions. Has lead to erosion and rise of the right.
+- Don't feel like a sucker for being an idealist. Women's voting, abolishment of slavery, etc were once thought of as extreme ideal ideas.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- I'd love to pitch the idea of offering reduced-hour
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzY2MTk0N119
+eyJoaXN0b3J5IjpbMTg5NjAyNjQ4OF19
 -->
