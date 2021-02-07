@@ -13,6 +13,7 @@
 
 **Personal Bottom Line**
 - x/10
+- DNF - wasn't particularly engaging, especially knowing that the companies being written about no longer exist and were never big enough to be a name that I'd recognize. Might revisit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODExMTA5MTRdfQ==
+eyJoaXN0b3J5IjpbMTIxNjQ2NTEzOSwtMTI4MTExMDkxNF19
 -->
