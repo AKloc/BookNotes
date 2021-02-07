@@ -1,5 +1,4 @@
-
-## Brotopia
+## Brotopia (December 2020)
 
 **Purpose For Reading**
 - Diversity is a major issue in the industry. I want to raise my awareness of the history, the issues, and what sorts of things I might be able to do to help.
@@ -31,5 +30,5 @@
 - Another effective empathy lens.
 - Like that a good amount of time is spent on the "why this is important for businesses" and actual potential solutions are recommended.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODI4Njg4XX0=
+eyJoaXN0b3J5IjpbLTExNzc3OTg0NjgsNTE3ODI4Njg4XX0=
 -->
