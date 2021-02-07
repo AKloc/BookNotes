@@ -1,4 +1,4 @@
-## A Philosophy of Software Design
+## A Philosophy of Software Design (Feb 2021)
 
 **Purpose For Reading**
 - Highly rated, was in the book club, always looking for design perspective.
@@ -68,5 +68,6 @@
 - A lot of fluff with the examples, BUT they were very easy to skip over.
 - Not sure I agree with the takes on TDD not being desirable because it restricts design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Nzg2ODkxOSwtNTE1NTUyODA4XX0=
+eyJoaXN0b3J5IjpbODI1MDc3MzIwLDIwNzc4Njg5MTksLTUxNT
+U1MjgwOF19
 -->
