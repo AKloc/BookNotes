@@ -4,7 +4,7 @@
 - A literary classic, cover art looked cool.
  
 **Main Takeaways & Metacognition**
-- 120 pages of a self-imporant 19th century neckbeard ranting about how he's so mad that he can't function.
+- 120 pages of a self-imporant 19th century neckbeard ranting about how he's so mad that he can't function. Literally about a guy who invites himself to a farewell dinner party for a person he doesn't even like, is furious about it, meets a
 - Why doesn't he just fire his servant?
 
 **What can I do with this?**
@@ -14,5 +14,5 @@
 - 3/10
 - Author did a great job conveying the aimless thought process of the subject, but... so what?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTA1Mzc3Nl19
+eyJoaXN0b3J5IjpbMTY1NTY2NTE3Nl19
 -->
