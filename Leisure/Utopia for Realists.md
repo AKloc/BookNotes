@@ -19,12 +19,12 @@
 - I'd love to pitch the idea of offering reduced-hour work weeks as a perk.
 - I should volunteer.
 - Maybe I should do something with givedirectly.
-- Woodworking comes up CONSTANTLY. I really need to try that.
+- Woodworking comes up CONSTANTLY. I really need to try it.
 
 **Personal Bottom Line**
 - 8/10
 - Knew of these ideas already.
 - Well-written, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU3ODM4ODldfQ==
+eyJoaXN0b3J5IjpbMTAwOTUxMTE1NV19
 -->
