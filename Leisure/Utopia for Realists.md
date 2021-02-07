@@ -10,7 +10,8 @@
 - Too many "bullshit jobs," leading to further unhappiness. People get that they're not doing a lot of meaningful work and don't like it, either.
 - The best way to reduce poverty is literally to give poor people money. Actual studies show that those people will use the money to help themselves, not drugs / booze / whatever.
 	- Same with homelessness. Give them a home.
-- Borders are a crazy concept when you think about it. Enforcing them wasn't even a thing until WW2. Today they're used to segment haves from have-nots, limit incomes, etc. If bo
+- Borders are a crazy concept when you think about it. Enforcing them wasn't even a thing until WW2. Today they're used to segment haves from have-nots, limit incomes, etc. If borders were lifted general wealth of the world would skyrocket.
+- Idea with shorter work weeks isn't to let people be lazy and do nothing, which they ultimately don't like - it's to let them do the things
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -18,5 +19,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzM1NzQwOV19
+eyJoaXN0b3J5IjpbMTI4NzY2MTk0N119
 -->
