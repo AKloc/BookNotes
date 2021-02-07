@@ -20,7 +20,7 @@
 
 **Bottom Line**
 - 3/10, emphasizing that that reflects my personal attitude toward the book and not a universal judgement on it. I couldn't finish it. To be fair, and probably much to the book's joy, I probably could have determined that this was a philosophical book instead of a practical one by taking a look at the TOC.
-- Philosophically, it wasn't particularly interesting. Yes, books are for exchanging information, and the reader has to figure out what the author is attempting to say. It doesn't take 20 pages of fluff to express that concept along with another 5 about how the reader generally can't respond to the author, because it's a book. Oi.
+- Philosophically, it wasn't particularly interesting. Yes, books are for exchanging information, and the reader has to figure out what the author is attempting to say. It doesn't take 20 pages of fluff to express that concept along with another 5 about how the reader generally can't respond to the author, because it's a book. Plodding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzE5MTQ5MywxNTIwMTE2MDYyXX0=
+eyJoaXN0b3J5IjpbMjM1Mjg2MDc0LDE1MjAxMTYwNjJdfQ==
 -->
