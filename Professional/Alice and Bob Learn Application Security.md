@@ -359,12 +359,12 @@
 
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- Define an AppSec plan.
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3OTI1Mjk1LDE5NDUxNjI4NDIsLTQ2ND
+eyJoaXN0b3J5IjpbOTU3Njc3MDY5LDE5NDUxNjI4NDIsLTQ2ND
 Q1MTI5OCwxMzUxNTExMjU3LC0yMTQwMTcxNTk2LC01NDQ4NTA0
 NDUsLTI1MTgzODk3OCwtMTg5Mzk1OTIwNywtMTk3NjEwNjE4MC
 wxMzAzOTQ0ODg5LC0xODI1NTM1NzY0LDkwOTk3Njg3MywxMDM4
