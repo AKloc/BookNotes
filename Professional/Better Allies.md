@@ -10,6 +10,7 @@
 	- "Ladies" isn't necessarily great.
 	- "Guys" -> "Everyone", "folks", "crew"
 	- "Ladies and gentlemen" -> "Distinguished guests"
+	- "lame" -> "subpar", "mediocre," "disappointing"
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -17,5 +18,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDYxMTc5NSwtMTQ4NTgwMjM5MF19
+eyJoaXN0b3J5IjpbMTUwNzU1NTY4MiwtOTU0NjExNzk1LC0xND
+g1ODAyMzkwXX0=
 -->
