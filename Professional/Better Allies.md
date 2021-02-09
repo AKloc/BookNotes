@@ -5,7 +5,11 @@
  
 **Main Takeaways & Metacognition**
 - What are the majo
-- 
+- "Everyday Language" chapter has tons of things I could improve on.
+	- Use "they", even when referring to an individual.
+	- "Ladies" isn't necessarily great.
+	- "Guys" -> "Everyone", "folks", "crew"
+	- "Ladies and gentlemen" -> "Distinguished guests"
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -13,5 +17,5 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4MDIzOTBdfQ==
+eyJoaXN0b3J5IjpbLTk1NDYxMTc5NSwtMTQ4NTgwMjM5MF19
 -->
