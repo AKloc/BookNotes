@@ -12,9 +12,9 @@
 	- "Ladies and gentlemen" -> "Distinguished guests"
 	- "lame" -> "subpar", "mediocre," "disappointing"
 	- "powwow" -> "meeting," "check-in", "talk"
-	- "spirit animal" -> "patronus
+	- "spirit animal" -> "patronus"
 	- Technical jargon:
-		- "master / slave"
+		- "master / slave" -> "primary / replica"
 		- "whitelist / blacklist" -> "safelist / blocklist"
 
 **What can I do with this?**
@@ -23,6 +23,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0OTMwNTQ1LC05NTQ2MTE3OTUsLTE0OD
-U4MDIzOTBdfQ==
+eyJoaXN0b3J5IjpbMTcwMjk0Mzk3NywtOTU0NjExNzk1LC0xND
+g1ODAyMzkwXX0=
 -->
