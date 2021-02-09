@@ -19,10 +19,11 @@
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
+- Write a plugin for chat / email / etc that looks for bad terms (like the above) and offers replacements?
 
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjk0Mzk3NywtOTU0NjExNzk1LC0xND
+eyJoaXN0b3J5IjpbLTkyNTA0OTc5NiwtOTU0NjExNzk1LC0xND
 g1ODAyMzkwXX0=
 -->
