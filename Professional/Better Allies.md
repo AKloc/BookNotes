@@ -13,7 +13,9 @@
 	- "lame" -> "subpar", "mediocre," "disappointing"
 	- "powwow" -> "meeting," "check-in", "talk"
 	- "spirit animal" -> "patronus
-	- Technical jargon
+	- Technical jargon:
+		- "master / slave"
+		- "whitelist / blacklist" -> "safelist / blocklist"
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -21,6 +23,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYyODIzMTQsLTk1NDYxMTc5NSwtMT
-Q4NTgwMjM5MF19
+eyJoaXN0b3J5IjpbNzY0OTMwNTQ1LC05NTQ2MTE3OTUsLTE0OD
+U4MDIzOTBdfQ==
 -->
