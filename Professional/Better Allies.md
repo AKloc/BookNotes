@@ -12,6 +12,8 @@
 	- "Ladies and gentlemen" -> "Distinguished guests"
 	- "lame" -> "subpar", "mediocre," "disappointing"
 	- "powwow" -> "meeting," "check-in", "talk"
+	- "spirit animal" -> "patronus
+	- Technical jargon
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -19,6 +21,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTk0NDgzNCwtOTU0NjExNzk1LC0xND
-g1ODAyMzkwXX0=
+eyJoaXN0b3J5IjpbLTE3MTYyODIzMTQsLTk1NDYxMTc5NSwtMT
+Q4NTgwMjM5MF19
 -->
