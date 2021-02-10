@@ -4,7 +4,12 @@
 - I'm hoping for some reasonable goals / actions I can take to help under-represented groups while avoiding pitfalls I might not be aware of.
  
 **Main Takeaways & Metacognition**
-- No one is the perfect ally, everyone is on a journey. 
+- No one is the perfect ally, everyone is on a journey. This isn't about earning a badge or saying you're a definitively great human.
+- You will screw up, and your ideas of what being a good ally are will probably change over time, and that's OK.
+- Privilege:
+	- A set of unearned benefits bestowed on a group
+	- Often invisible to those who have it.
+	- 
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -28,6 +33,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODAyOTM4LC05MjUwNDk3OTYsLTk1ND
-YxMTc5NSwtMTQ4NTgwMjM5MF19
+eyJoaXN0b3J5IjpbMTY4NTg0NTMzMCwtOTI1MDQ5Nzk2LC05NT
+Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
