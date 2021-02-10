@@ -57,7 +57,10 @@
 - On hiring / job descriptions:
 	- Be cognizant of the pictures you're using.
 	- Highlight paternal / family leave benefits
-	- Don't use alphalanguage like "high-powered" / "results-drive" / "action-oriented" 
+	- Don't use alpha-ish language like "high-powered" / "competitive" / "results-drive" / "action-oriented" 
+	- DO include "ability to work on a diverse team with a diverse range of people"
+	- LIMIT TO FIVE REQUIREMENTS, AND MAKE SURE THEY'RE ACTUAL REQUIREMENTS. 
+		- Remember the studies that show that women tended to apply for jobs only when
 
 **What can I do with this?**
 - Write a plugin for chat / email / etc that looks for bad terms (like the above) and offers replacements?
@@ -69,7 +72,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDYyODA2LC0yMDk1OTA1NTAxLDE0Mz
-k5NjA1NTIsLTkyNTA0OTc5NiwtOTU0NjExNzk1LC0xNDg1ODAy
-MzkwXX0=
+eyJoaXN0b3J5IjpbMjA5ODIxOTM3MCwtMjA5NTkwNTUwMSwxND
+M5OTYwNTUyLC05MjUwNDk3OTYsLTk1NDYxMTc5NSwtMTQ4NTgw
+MjM5MF19
 -->
