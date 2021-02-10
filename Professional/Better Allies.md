@@ -7,9 +7,9 @@
 - No one is the perfect ally, everyone is on a journey. This isn't about earning a badge or saying you're a definitively great human.
 - You will screw up, and your ideas of what being a good ally are will probably change over time, and that's OK.
 - Privilege:
-	- A set of unearned benefits bestowed on a group
+	- A set of unearned benefits bestowed on a group. Not a bad thing, just means someone with privilege has less obstacles than person without.
 	- Often invisible to those who have it.
-	- 
+	- Point of knowing you have privilege is so that you're aware of it and can be empathetic to those who might be less privileged. 
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -33,6 +33,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTg0NTMzMCwtOTI1MDQ5Nzk2LC05NT
+eyJoaXN0b3J5IjpbMTcwNTUyOTExMywtOTI1MDQ5Nzk2LC05NT
 Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
