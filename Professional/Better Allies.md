@@ -33,7 +33,11 @@
 	- Focus on actions.
 - Red flag language to watch out for:
 	- "Not a culture fit" -> But is it a culture ADD? (LOVE THIS)
-	- "I don't want to lower the bar.
+	- "I don't want to lower the bar."
+	- "I want to see them prove they can handle the responsibility before giving it to them."
+	- "Can you take notes / order the food / clean up?"
+- How do you confront discrimination / inappropriate behavior?
+- 
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -57,6 +61,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mzg1NjA5NiwtOTI1MDQ5Nzk2LC05NT
-Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
+eyJoaXN0b3J5IjpbLTExMjg2MDc2NzIsLTkyNTA0OTc5NiwtOT
+U0NjExNzk1LC0xNDg1ODAyMzkwXX0=
 -->
