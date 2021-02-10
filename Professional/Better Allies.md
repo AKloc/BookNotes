@@ -60,7 +60,9 @@
 	- Don't use alpha-ish language like "high-powered" / "competitive" / "results-drive" / "action-oriented" 
 	- DO include "ability to work on a diverse team with a diverse range of people"
 	- LIMIT TO FIVE REQUIREMENTS, AND MAKE SURE THEY'RE ACTUAL REQUIREMENTS. 
-		- Remember the studies that show that women tended to apply for jobs only when
+		- Remember the studies that show that women tended to apply for jobs only when they felt like they had 100% of requirements met!
+		- Cut "nice to have" requirements. 
+		- Don't make 
 
 **What can I do with this?**
 - Write a plugin for chat / email / etc that looks for bad terms (like the above) and offers replacements?
@@ -72,7 +74,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODIxOTM3MCwtMjA5NTkwNTUwMSwxND
+eyJoaXN0b3J5IjpbMTYyMTI4NDk5NSwtMjA5NTkwNTUwMSwxND
 M5OTYwNTUyLC05MjUwNDk3OTYsLTk1NDYxMTc5NSwtMTQ4NTgw
 MjM5MF19
 -->
