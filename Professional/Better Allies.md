@@ -29,7 +29,11 @@
 	- Be open and respectful. Acknowledge anything said. Listen.
 	- DON'T GET DEFENSIVE. You're not debating, you're here to listen and learn.
 		- "Pushing back against statements about one's own privilege is one of the quickest ways to shut down communication."
-	- Embrace your inner bias. We ALL have our unconscious biases
+	- Embrace your inner bias. We ALL have our unconscious biases. That's human. It's fine to admit it.
+	- Focus on actions.
+- Red flag language to watch out for:
+	- "Not a culture fit" -> But is it a culture ADD? (LOVE THIS)
+	- "I don't want to lower the bar.
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -53,6 +57,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDgwMDg3NSwtOTI1MDQ5Nzk2LC05NT
+eyJoaXN0b3J5IjpbLTI0Mzg1NjA5NiwtOTI1MDQ5Nzk2LC05NT
 Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
