@@ -71,13 +71,14 @@
 - Write a plugin for chat / email / etc that looks for bad terms (like the above) and offers replacements?
 - Try to stop using offensive everyday bad language.
 - Up my game in promoting and hiring under-represented groups.
-- Sponsor more.
+- Sponsor more, and deliberately. Maybe a goal for this year?
 - "I'd like to hear more about x's thought" when interrupted.
 
 **Personal Bottom Line**
-- x/10
+- 8.5/10
+- Gave me a lot to think about and improve on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTIyNTMwLDcwNjEzMzQzNywtMjA5NT
-kwNTUwMSwxNDM5OTYwNTUyLC05MjUwNDk3OTYsLTk1NDYxMTc5
-NSwtMTQ4NTgwMjM5MF19
+eyJoaXN0b3J5IjpbLTk0MzA4MjcyOSw3MDYxMzM0MzcsLTIwOT
+U5MDU1MDEsMTQzOTk2MDU1MiwtOTI1MDQ5Nzk2LC05NTQ2MTE3
+OTUsLTE0ODU4MDIzOTBdfQ==
 -->
