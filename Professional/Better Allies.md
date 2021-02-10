@@ -54,6 +54,10 @@
 		- "master / slave" -> "primary / replica"
 		- "whitelist / blacklist" -> "safelist / blocklist"
 - There's an interesting dynamic I wish the book got into - how do I ask someone from an under-represented group how I can improve as a white male?
+- On hiring / job descriptions:
+	- Be cognizant of the pictures you're using.
+	- Highlight paternal / family leave benefits
+	- Don't use alphalanguage like "high-powered" / "results-drive" / "action-oriented" 
 
 **What can I do with this?**
 - Write a plugin for chat / email / etc that looks for bad terms (like the above) and offers replacements?
@@ -65,6 +69,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5MDU1MDEsMTQzOTk2MDU1MiwtOT
-I1MDQ5Nzk2LC05NTQ2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
+eyJoaXN0b3J5IjpbMzgzNDYyODA2LC0yMDk1OTA1NTAxLDE0Mz
+k5NjA1NTIsLTkyNTA0OTc5NiwtOTU0NjExNzk1LC0xNDg1ODAy
+MzkwXX0=
 -->
