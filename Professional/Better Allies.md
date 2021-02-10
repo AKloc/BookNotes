@@ -62,7 +62,9 @@
 	- LIMIT TO FIVE REQUIREMENTS, AND MAKE SURE THEY'RE ACTUAL REQUIREMENTS. 
 		- Remember the studies that show that women tended to apply for jobs only when they felt like they had 100% of requirements met!
 		- Cut "nice to have" requirements. 
-		- Don't make 
+		- Don't make postings intimidating!
+	- Place postings in multiple areas. e.g., LinkedIn is 95% male applicants.
+	- Ask employees to recommend people from under-represented groups, and offer referral bonuses.
 
 **What can I do with this?**
 - Write a plugin for chat / email / etc that looks for bad terms (like the above) and offers replacements?
@@ -74,7 +76,7 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTI4NDk5NSwtMjA5NTkwNTUwMSwxND
-M5OTYwNTUyLC05MjUwNDk3OTYsLTk1NDYxMTc5NSwtMTQ4NTgw
-MjM5MF19
+eyJoaXN0b3J5IjpbNzA2MTMzNDM3LC0yMDk1OTA1NTAxLDE0Mz
+k5NjA1NTIsLTkyNTA0OTc5NiwtOTU0NjExNzk1LC0xNDg1ODAy
+MzkwXX0=
 -->
