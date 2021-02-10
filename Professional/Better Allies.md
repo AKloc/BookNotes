@@ -16,7 +16,10 @@
 	- Amplifier: Works to make sure marginalized voices are heard. e.g., "I'd like to go back to what x was saying," creating a meeting code of conduct, inviting individuals to speak at staff meetings.
 	- Advocate: Works to bring marginalized individuals into highly exclusive circles.
 	- Scholar: learns as much as possible about underrepresented groups and their challenges. Listens, asks, learns.
-	- The upstander: The opposite of a bystander. Calls people out
+	- The upstander: The opposite of a bystander. Calls out and combats wrongdoing.
+	- The confidant: Creates safe spaces for underrepresented groups so they can express fears, frustrations, and needs.
+- "The best allies are willing to make mistakes and KEEP TRYING."
+- Knights: Basically white knights. They want to make marginalized groups damsels in dist
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -40,6 +43,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mzg3NjksLTkyNTA0OTc5NiwtOTU0Nj
-ExNzk1LC0xNDg1ODAyMzkwXX0=
+eyJoaXN0b3J5IjpbLTE3MzIxMjQ0MjksLTkyNTA0OTc5NiwtOT
+U0NjExNzk1LC0xNDg1ODAyMzkwXX0=
 -->
