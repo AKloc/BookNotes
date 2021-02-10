@@ -73,12 +73,13 @@
 - Up my game in promoting and hiring under-represented groups.
 - Sponsor more, and deliberately. Maybe a goal for this year?
 - "I'd like to hear more about x's thought" when interrupted.
+- Revise job postings based on above.
 
 **Personal Bottom Line**
 - 8.5/10
-- Gave me a lot to think about and improve on
+- Gave me a lot to think about and some definite action items.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzA4MjcyOSw3MDYxMzM0MzcsLTIwOT
+eyJoaXN0b3J5IjpbLTUxNjcxODUyNiw3MDYxMzM0MzcsLTIwOT
 U5MDU1MDEsMTQzOTk2MDU1MiwtOTI1MDQ5Nzk2LC05NTQ2MTE3
 OTUsLTE0ODU4MDIzOTBdfQ==
 -->
