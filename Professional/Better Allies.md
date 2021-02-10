@@ -24,7 +24,10 @@
 	- What am I trying to accomplish by doing / saying this?
 	- How many people is this going to help?
 	- If I do this, is it going to matter a year from now?
-	- Will this 
+- Asking / talking about unconscious bias:
+	- Open by acknowledging fears. "I'm worried I'm going to put my foot in my mouth..."
+	- Be open and respectful. Acknowledge anything said. Listen.
+	- DON'T GET DEFENSIVE
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -48,6 +51,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgyNzcwNDAsLTkyNTA0OTc5NiwtOT
-U0NjExNzk1LC0xNDg1ODAyMzkwXX0=
+eyJoaXN0b3J5IjpbNjM0OTA3NywtOTI1MDQ5Nzk2LC05NTQ2MT
+E3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
