@@ -38,8 +38,9 @@
 	- "Can you take notes / order the food / clean up?"
 - How do you confront discrimination / inappropriate behavior?
 	- Verbalize what you saw. "Did you just say x?" "I think what I just heard is y."
-	- Bring up prior behavior "I've always thought you were a fair-minded person, so I'm surprised to hear you say that"
-	- Set
+	- Bring up prior behavior. "I've always thought you were a fair-minded person, so I'm surprised to hear you say that"
+	- Set boundaries. "Don't say racist stuff around me."
+	- DO NOT just call someone a racist / misogynist / etc. That will immediately just shut them down.
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -63,6 +64,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NDM4OTgzLC05MjUwNDk3OTYsLTk1ND
-YxMTc5NSwtMTQ4NTgwMjM5MF19
+eyJoaXN0b3J5IjpbMTQzOTk2MDU1MiwtOTI1MDQ5Nzk2LC05NT
+Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
