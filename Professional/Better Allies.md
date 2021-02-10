@@ -10,6 +10,9 @@
 	- A set of unearned benefits bestowed on a group. Not a bad thing, just means someone with privilege has less obstacles than person without.
 	- Often invisible to those who have it.
 	- Point of knowing you have privilege is so that you're aware of it and can be empathetic to those who might be less privileged. 
+- Roles an ally can play:
+	- Sponsor: helping individuals gain credibility and exposure by vocally supporting their work, recommending them for promotions and stretch assignments, etc.
+	- Champion:
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -33,6 +36,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTUyOTExMywtOTI1MDQ5Nzk2LC05NT
+eyJoaXN0b3J5IjpbLTk4MDkzODA3NywtOTI1MDQ5Nzk2LC05NT
 Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
