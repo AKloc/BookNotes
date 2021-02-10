@@ -19,6 +19,7 @@
 	- The upstander: The opposite of a bystander. Calls out and combats wrongdoing.
 	- The confidant: Creates safe spaces for underrepresented groups so they can express fears, frustrations, and needs.
 - "The best allies are willing to make mistakes and KEEP TRYING."
+	- You will never be a perfect ally. Consider it a challenge to be a better one.
 - Knights: Basically white knights. They want to make marginalized groups damsels in distress. Virtue signaling, basically. Ask yourself...
 	- What am I trying to accomplish by doing / saying this?
 	- How many people is this going to help?
@@ -47,6 +48,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTQ1NTU0NCwtOTI1MDQ5Nzk2LC05NT
-Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODgyNzcwNDAsLTkyNTA0OTc5NiwtOT
+U0NjExNzk1LC0xNDg1ODAyMzkwXX0=
 -->
