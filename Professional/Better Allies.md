@@ -13,7 +13,9 @@
 - Roles an ally can play:
 	- Sponsor: helping individuals gain credibility and exposure by vocally supporting their work, recommending them for promotions and stretch assignments, etc.
 	- Champion: Same as sponsor, but more publicly / visibly. e.g., directing questions toward "the expert", advocating for individuals to do talks, etc.
-	- Amplifier: Works to make sure margina
+	- Amplifier: Works to make sure marginalized voices are heard. e.g., "I'd like to go back to what x was saying," creating a meeting code of conduct, inviting individuals to speak at staff meetings.
+	- Advocate: Works to bring marginalized individuals into highly exclusive circles.
+	- Scholar: learns as
 - "Everyday Language" chapter has tons of things I could improve on.
 	- Use "they", even when referring to an individual.
 	- "Ladies" isn't necessarily great.
@@ -37,6 +39,6 @@
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDAwODE3NywtOTI1MDQ5Nzk2LC05NT
+eyJoaXN0b3J5IjpbMjA0NjAxODIzMywtOTI1MDQ5Nzk2LC05NT
 Q2MTE3OTUsLTE0ODU4MDIzOTBdfQ==
 -->
