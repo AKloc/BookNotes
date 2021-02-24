@@ -9,8 +9,10 @@ ___
 	- How do you provide good performance to clients?
 	- How do you scale?
 - THREE MAIN CONCERNS when designing software:
-	- Reliability: continuing to work correctly, even when things go wrong.
-		- Faults: 
+	- **Reliability**: continuing to work correctly, even when things go wrong.
+		- Faults: when a single component deviates from spec.
+		- Failure: when the whole system stops providing the required service.
+		- It's better to tolerate faults than prevent them.
 	- Scalability
 	- Maintainability
 
@@ -28,5 +30,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDQ1ODU1NF19
+eyJoaXN0b3J5IjpbMTU5MjM3MDU3OV19
 -->
