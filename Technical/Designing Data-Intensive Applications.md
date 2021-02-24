@@ -28,7 +28,10 @@ ___
 			- Usually good plans end up doing a mix of both.
 			- "Elastic": systems that can AUTOMATICALLY add resources as load increases.
 			- "An architecture that scales well for a application is built around assumptions of which operations will be common and which will be rare - the load parameters."
-	- Maintainability: 
+	- Maintainability: designing software in such a way that it will minimize pain during maintenance. Pays attention to three principles:
+		- Operability
+		- Simplicity
+		- Evolvability
 
 
 
@@ -44,6 +47,6 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY1MjU2MTksLTIwMzE0Nzc2ODJdfQ
+eyJoaXN0b3J5IjpbLTE2MTUzNTc0MDUsLTIwMzE0Nzc2ODJdfQ
 ==
 -->
