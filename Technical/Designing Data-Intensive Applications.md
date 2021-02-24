@@ -8,6 +8,11 @@ ___
 	- How do you ensure the data is correct and complete?
 	- How do you provide good performance to clients?
 	- How do you scale?
+- THREE MAIN CONCERNS when designing software:
+	- Reliability: continuing to work correctly, even when things go wrong.
+		- Faults: 
+	- Scalability
+	- Maintainability
 
 
 
@@ -23,5 +28,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg3NDk0OTZdfQ==
+eyJoaXN0b3J5IjpbMTU1NDQ1ODU1NF19
 -->
