@@ -17,7 +17,8 @@ ___
 	- **Scalability**: a system's ability to cope with increased load.
 		- "If the system grows in a particular way, what are our options for coping with the growth?"
 		- Load: needs to be described by "load parameters," e.g. requests per second to a server, ratio of reads to writes, number of enrollees online, hit rate on cache... 
-		- Twitter example: They zeroed in on two critical operations, posting a tweet and viewing the home timeline and then designed for scalability with those in mind. Their strategies changesd
+		- Twitter example: They zeroed in on two critical operations, posting a tweet and viewing the home timeline and then designed for scalability with those in mind. Their strategies changed as the platform gained steam by doing things like treating a celebrity's tweets differently from a normie's.
+		- Once you have load factors, you can investigate what happens to the system when those load factors increa
 	- Maintainability
 
 
@@ -34,5 +35,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTYzOTg2N119
+eyJoaXN0b3J5IjpbMTQyMTQxODUyNV19
 -->
