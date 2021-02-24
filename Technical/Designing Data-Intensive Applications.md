@@ -15,6 +15,8 @@ ___
 		- It's better to tolerate faults than prevent them.
 		- Reliability is also concerned with reducing human errors by making the system simple to use, hiding the areas where people make the most mistakes, logging and monitoring, etc. CONFIGURATION ERRORS ARE LEADING CAUSE OF OUTAGES.
 	- **Scalability**: a system's ability to cope with increased load.
+		- "If the system grows in a particular way, what are our options for coping with the growth?"
+		- Load: needs to be described by "load parameters," e.g. requests per second to a server, ratio of reads to writes, number of enrollees online, hit rate on cache..
 	- Maintainability
 
 
@@ -31,5 +33,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQyMjYyMV19
+eyJoaXN0b3J5IjpbNzYzMzA3MTE5XX0=
 -->
