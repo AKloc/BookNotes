@@ -31,7 +31,10 @@ ___
 	- Maintainability: designing software in such a way that it will minimize pain during maintenance. Pays attention to three principles:
 		- Operability: making routine tasks easy, allowing the ops team to focus their efforts on high-value activities. e.g.: providing good monitoring and logging, support for automation and integration with standard tools, good documentation, self-healing...
 		- Simplicity: Actively managing complexity and its symptoms. Reducing complexity improves the maintainability of software. FINDING GOOD ABSTRACTIONS (see "A Philosophy of Software Design")
-		- Evolvability: Make changes easy. Goes back to simplicity and good abstra
+		- Evolvability: Make changes easy. Goes back to simplicity and good abstractions, agile mindset.
+___
+### Chapter 2 - Data Models and Query Languages
+
 
 
 
@@ -47,6 +50,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ1NTM5NjIsLTIwMzE0Nzc2ODJdfQ
-==
+eyJoaXN0b3J5IjpbLTI1MjA3MjI4NCwtMjAzMTQ3NzY4Ml19
 -->
