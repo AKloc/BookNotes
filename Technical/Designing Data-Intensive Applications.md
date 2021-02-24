@@ -18,7 +18,8 @@ ___
 		- "If the system grows in a particular way, what are our options for coping with the growth?"
 		- Load: needs to be described by "load parameters," e.g. requests per second to a server, ratio of reads to writes, number of enrollees online, hit rate on cache... 
 		- Twitter example: They zeroed in on two critical operations, posting a tweet and viewing the home timeline and then designed for scalability with those in mind. Their strategies changed as the platform gained steam by doing things like treating a celebrity's tweets differently from a normie's.
-		- Once you have load factors, you can investigate what happens to the system when those load factors increa
+		- Once you have load factors, you can investigate what happens to the system when those load factors increase. Does CPU / memory go up? If so, how much do you have to increase specs in order to keep performance high?
+			- "Performance" can mean different things. e.g., Hadoop cares about throughput and how long it takes to run a job. A web serv
 	- Maintainability
 
 
@@ -35,5 +36,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTQxODUyNV19
+eyJoaXN0b3J5IjpbNzg0MjU2MjY4XX0=
 -->
