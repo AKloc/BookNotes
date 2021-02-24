@@ -23,7 +23,10 @@ ___
 			- "Latency" is the time a request is waiting to be handled.
 			- Response time should be thought of as a distribution of values, not a single. **Use percentiles**, like the median at p50. Also look at how bad outliers are in the p95-99 areas, aka "tail latencies". Percentiles are good to use for SLAs / SLOs (Service Level Objectives) anyhow.
 		- How to cope with load?
-			- Scale up (add CPU
+			- Scale up (get better hardware)
+			- Scale out (get more hardware and distribute load, aka "shared-nothing architecture").
+			- Usually good plans end up doing a mix of both.
+			- "Elastic": 
 	- Maintainability
 
 
@@ -40,5 +43,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODMxNTEyOCwtMjAzMTQ3NzY4Ml19
+eyJoaXN0b3J5IjpbMTQ2ODg1NjQ2NSwtMjAzMTQ3NzY4Ml19
 -->
