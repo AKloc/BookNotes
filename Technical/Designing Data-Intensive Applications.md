@@ -21,7 +21,9 @@ ___
 		- Once you have load factors, you can investigate what happens to the system when those load factors increase. Does CPU / memory go up? If so, how much do you have to increase specs in order to keep performance high?
 			- "Performance" can mean different things. e.g., Hadoop cares about throughput and how long it takes to run a job. A web server will care more about how long it takes to deliver a response after receiving a request.
 			- "Latency" is the time a request is waiting to be handled.
-			- Response time should be thought of as a distribution of values, not a single. Use percentiles, like the median at p50. Also look at how bad outliers are in the p95-99 areas, aka "tail latencies".
+			- Response time should be thought of as a distribution of values, not a single. **Use percentiles**, like the median at p50. Also look at how bad outliers are in the p95-99 areas, aka "tail latencies". Percentiles are good to use for SLAs / SLOs (Service Level Objectives) anyhow.
+		- How to cope with load?
+			- Scale up (add CPU
 	- Maintainability
 
 
@@ -38,5 +40,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE0Nzc2ODJdfQ==
+eyJoaXN0b3J5IjpbMjAxODMxNTEyOCwtMjAzMTQ3NzY4Ml19
 -->
