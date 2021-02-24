@@ -37,7 +37,8 @@ ___
 - Relational databases: organizes data into "relations" (which are tables), where each relation is an unordered collection of "tuples" (rows).
 - NoSQL: "Not Only SQL". Main drivers:
 	- Wanting greater scalability for huge datasets or very fast writes / throughput
-	- 
+	- Wanting to use open source software
+	- Using 
 
 
 **Purpose For Reading**
@@ -52,7 +53,7 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUwNzUzNCwtNzIxODk3MDc3LC0xNj
-IzNzEyMTI0LDY0MjEzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzA0MTc5NzcsLTcyMTg5NzA3NywtMT
+YyMzcxMjEyNCw2NDIxMzYzNSwtMjUyMDcyMjg0LC0yMDMxNDc3
+NjgyXX0=
 -->
