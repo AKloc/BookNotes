@@ -26,8 +26,9 @@ ___
 			- Scale up (get better hardware)
 			- Scale out (get more hardware and distribute load, aka "shared-nothing architecture").
 			- Usually good plans end up doing a mix of both.
-			- "Elastic": 
-	- Maintainability
+			- "Elastic": systems that can AUTOMATICALLY add resources as load increases.
+			- "An architecture that scales well for a application is built around assumptions of which operations will be common and which will be rare - the load parameters."
+	- Maintainability: 
 
 
 
@@ -43,5 +44,6 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODg1NjQ2NSwtMjAzMTQ3NzY4Ml19
+eyJoaXN0b3J5IjpbLTIxMjY1MjU2MTksLTIwMzE0Nzc2ODJdfQ
+==
 -->
