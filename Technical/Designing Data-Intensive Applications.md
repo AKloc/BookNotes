@@ -13,8 +13,8 @@ ___
 		- Faults: when a single component deviates from spec.
 		- Failure: when the whole system stops providing the required service.
 		- It's better to tolerate faults than prevent them.
-		- Reliability is also concerned with reducing human errors by making the system simple to use, hiding the areas where people make the most mistakes, etc.
-	- Scalability
+		- Reliability is also concerned with reducing human errors by making the system simple to use, hiding the areas where people make the most mistakes, logging and monitoring, etc. CONFIGURATION ERRORS ARE LEADING CAUSE OF OUTAGES.
+	- **Scalability**: a system's ability to cope with increased load.
 	- Maintainability
 
 
@@ -31,5 +31,5 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzgxODgyMl19
+eyJoaXN0b3J5IjpbLTE4NjQyMjYyMV19
 -->
