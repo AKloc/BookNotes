@@ -34,7 +34,7 @@ ___
 		- Evolvability: Make changes easy. Goes back to simplicity and good abstractions, agile mindset.
 ___
 ### Chapter 2 - Data Models and Query Languages
-- SQL: organizes data into "relations" (which are tables), where each relation is an unordered collection of "tuples" (rows)
+- Relational databases: organizes data into "relations" (which are tables), where each relation is an unordered collection of "tuples" (rows).
 
 
 
@@ -50,6 +50,6 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkyOTU4LC0xNjIzNzEyMTI0LDY0Mj
-EzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2ODJdfQ==
+eyJoaXN0b3J5IjpbLTcyMTg5NzA3NywtMTYyMzcxMjEyNCw2ND
+IxMzYzNSwtMjUyMDcyMjg0LC0yMDMxNDc3NjgyXX0=
 -->
