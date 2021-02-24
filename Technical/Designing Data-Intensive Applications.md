@@ -29,8 +29,8 @@ ___
 			- "Elastic": systems that can AUTOMATICALLY add resources as load increases.
 			- "An architecture that scales well for a application is built around assumptions of which operations will be common and which will be rare - the load parameters."
 	- Maintainability: designing software in such a way that it will minimize pain during maintenance. Pays attention to three principles:
-		- Operability
-		- Simplicity
+		- Operability: making routine tasks easy, allowing the ops team to focus their efforts on high-value activities. e.g.: providing good monitoring and logging, support for automation and integration with standard tools, good documentation, self-healing...
+		- Simplicity: Activel
 		- Evolvability
 
 
@@ -47,6 +47,6 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUzNTc0MDUsLTIwMzE0Nzc2ODJdfQ
+eyJoaXN0b3J5IjpbLTE1OTY5MzUyNzAsLTIwMzE0Nzc2ODJdfQ
 ==
 -->
