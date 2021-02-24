@@ -35,7 +35,7 @@ ___
 ___
 ### Chapter 2 - Data Models and Query Languages
 - Relational databases: organizes data into "relations" (which are tables), where each relation is an unordered collection of "tuples" (rows).
-
+- No
 
 
 **Purpose For Reading**
@@ -50,6 +50,7 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTg5NzA3NywtMTYyMzcxMjEyNCw2ND
-IxMzYzNSwtMjUyMDcyMjg0LC0yMDMxNDc3NjgyXX0=
+eyJoaXN0b3J5IjpbMTgyMTE4MTI0NywtNzIxODk3MDc3LC0xNj
+IzNzEyMTI0LDY0MjEzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2
+ODJdfQ==
 -->
