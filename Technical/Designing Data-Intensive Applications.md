@@ -40,6 +40,7 @@ ___
 	- Wanting to use open source software
 	- Using specialized queries not well-supported by relational
 	- Frustration with strict schemas.
+- "Polyglot persistence":
 
 
 **Purpose For Reading**
@@ -54,7 +55,7 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjA1ODczMywtNzIxODk3MDc3LC0xNj
-IzNzEyMTI0LDY0MjEzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDY0ODcwMzksLTcyMTg5NzA3NywtMT
+YyMzcxMjEyNCw2NDIxMzYzNSwtMjUyMDcyMjg0LC0yMDMxNDc3
+NjgyXX0=
 -->
