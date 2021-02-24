@@ -38,7 +38,8 @@ ___
 - NoSQL: "Not Only SQL". Main drivers:
 	- Wanting greater scalability for huge datasets or very fast writes / throughput
 	- Wanting to use open source software
-	- Using 
+	- Using specialized queries not well-supported by relational
+	- Frustration with strict schemas.
 
 
 **Purpose For Reading**
@@ -53,7 +54,7 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA0MTc5NzcsLTcyMTg5NzA3NywtMT
-YyMzcxMjEyNCw2NDIxMzYzNSwtMjUyMDcyMjg0LC0yMDMxNDc3
-NjgyXX0=
+eyJoaXN0b3J5IjpbMTU5NjA1ODczMywtNzIxODk3MDc3LC0xNj
+IzNzEyMTI0LDY0MjEzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2
+ODJdfQ==
 -->
