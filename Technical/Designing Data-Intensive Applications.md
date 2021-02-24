@@ -34,7 +34,7 @@ ___
 		- Evolvability: Make changes easy. Goes back to simplicity and good abstractions, agile mindset.
 ___
 ### Chapter 2 - Data Models and Query Languages
-- SQL:
+- SQL: 
 
 
 
@@ -50,6 +50,6 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMTM2MzUsLTI1MjA3MjI4NCwtMjAzMT
-Q3NzY4Ml19
+eyJoaXN0b3J5IjpbLTE1ODgxMTM2MzcsNjQyMTM2MzUsLTI1Mj
+A3MjI4NCwtMjAzMTQ3NzY4Ml19
 -->
