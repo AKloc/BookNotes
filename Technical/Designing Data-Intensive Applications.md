@@ -42,6 +42,7 @@ ___
 	- Frustration with strict schemas.
 - "Polyglot persistence": Using relational along with nonrelational in the same app.
 - "Impedance mismatch": The idea that an object in an app isn't easily / obviously represented in a relational database. It requires an awkward translation layer.
+- 
 
 
 **Purpose For Reading**
@@ -56,8 +57,8 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUxMjIxNjgsMjAyMzY2MTMzOSwxNj
-IzMDE2MjQ0LDE2NTY2NzQ4NTUsLTcyMTg5NzA3NywtMTYyMzcx
-MjEyNCw2NDIxMzYzNSwtMjUyMDcyMjg0LC0yMDMxNDc3NjgyXX
-0=
+eyJoaXN0b3J5IjpbLTM3ODcyNTMzMSwyMDIzNjYxMzM5LDE2Mj
+MwMTYyNDQsMTY1NjY3NDg1NSwtNzIxODk3MDc3LC0xNjIzNzEy
+MTI0LDY0MjEzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2ODJdfQ
+==
 -->
