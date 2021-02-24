@@ -41,7 +41,7 @@ ___
 	- Using specialized queries not well-supported by relational
 	- Frustration with strict schemas.
 - "Polyglot persistence": Using relational along with nonrelational in the same app.
-- "Impedance mismatch": 
+- "Impedance mismatch": Basically 
 
 
 **Purpose For Reading**
@@ -56,7 +56,7 @@ ___
 **Personal Bottom Line**
 - x/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjY3NDg1NSwtNzIxODk3MDc3LC0xNj
-IzNzEyMTI0LDY0MjEzNjM1LC0yNTIwNzIyODQsLTIwMzE0Nzc2
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDk2OTY2MzksMTY1NjY3NDg1NSwtNz
+IxODk3MDc3LC0xNjIzNzEyMTI0LDY0MjEzNjM1LC0yNTIwNzIy
+ODQsLTIwMzE0Nzc2ODJdfQ==
 -->
