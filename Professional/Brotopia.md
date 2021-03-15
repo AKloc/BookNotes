@@ -31,8 +31,8 @@
 - Like that a good amount of time is spent on the "why this is important for businesses" and actual potential solutions are recommended.
 
 
-Olga recommends: 
+Olga recommends: "Technically Wrong"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTg2MTI1NiwtMTE3Nzc5ODQ2OCw1MT
-c4Mjg2ODhdfQ==
+eyJoaXN0b3J5IjpbLTk3ODgwNTIzLC0xMTc3Nzk4NDY4LDUxNz
+gyODY4OF19
 -->
