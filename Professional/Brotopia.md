@@ -29,6 +29,10 @@
 - Got lost in this book. Really well-written, very convincing.
 - Another effective empathy lens.
 - Like that a good amount of time is spent on the "why this is important for businesses" and actual potential solutions are recommended.
+
+
+Olga recommends: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc3OTg0NjgsNTE3ODI4Njg4XX0=
+eyJoaXN0b3J5IjpbMTI0MTg2MTI1NiwtMTE3Nzc5ODQ2OCw1MT
+c4Mjg2ODhdfQ==
 -->
