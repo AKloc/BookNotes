@@ -15,6 +15,11 @@
 	- Hack dopamine by rewarding yourself by doing things you put off.
 	- Be mindful when you satisfy a dopamine urge, like eating a snack you know you shouldn't - did it really make you feel better? Keep noting those things.
 - If / when you slip up, forgive yourself. Guilt makes you weaker. Punishment doesn't help.
+- Tempted?
+	- Wait ten minutes.
+	- Think about what you're doing as a deliberate choice to give up on the best possible long-term goal (like getting thinner).
+	- Write a letter to your future self.
+- Self-control is contagious
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -23,5 +28,5 @@
 - x/10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzIyNDkyOV19
+eyJoaXN0b3J5IjpbLTg3NDU1OTU2XX0=
 -->
