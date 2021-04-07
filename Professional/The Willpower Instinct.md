@@ -21,14 +21,15 @@
 	- Think about how proud you've felt in the past for beating these urges in the past.
 - Self-control is contagious. Get more people invested in what you're doing. Increase your accountability.
 - Spend a little time in the morning thinking about today's goals.
-- Trying to sup
+- Trying to suppress thoughts / emotions / cravings is HARMFUL and often backfires. Much like anxiety attacks, you should acknowledge and observe these feelings without acting on them, if possible. Don't ignore or pretend they don't exist.
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- Some good tactics around resisting temptations.
+- Good reinforcement around the concept of letting 
 
 **Personal Bottom Line**
 - x/10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NTY2NzY5XX0=
+eyJoaXN0b3J5IjpbLTcxOTU4MDMxMV19
 -->
