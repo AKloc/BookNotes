@@ -29,10 +29,8 @@
 
 **Personal Bottom Line**
 - 6/10
-- Was ironicalla slog to get through. Already knew most of the strategies. Simple concepts that didn't need three different examples each to hammer home.
+- Was ironically a slog to get through. Already knew most of the strategies. Simple concepts that didn't need three different examples each to hammer home.
 - The breakdowns at the end of the chapter were great, though.
-- 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTAzNjQ1XX0=
+eyJoaXN0b3J5IjpbLTI5OTE4MzU5N119
 -->
