@@ -13,7 +13,8 @@
 - Willpower can be increased by exercising it regularly, like a muscle. 
 - Dopamine isn't about reward, it's about the PROMISE of reward. It doesn't always pan out. Advertisers look for how to trigger that.
 	- Hack dopamine by rewarding yourself by doing things you put off.
-	- Be mindful when you satisfy a dopamine urge, like eating a snack you know you shouldn't - did it really make you feel better? Keep notcing t
+	- Be mindful when you satisfy a dopamine urge, like eating a snack you know you shouldn't - did it really make you feel better? Keep noting those things.
+- If / when you slip up, forgive yourself. Guilt makes you weaker. Punishment doesn't help.
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -22,5 +23,5 @@
 - x/10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE0NDcwOTJdfQ==
+eyJoaXN0b3J5IjpbMTI0MzIyNDkyOV19
 -->
