@@ -25,11 +25,14 @@
 
 **What can I do with this?**
 - Some good tactics around resisting temptations.
-- Good reinforcement around the concept of letting 
+- Good reinforcement around the concept of letting cravings "wash over you"
 
 **Personal Bottom Line**
-- x/10
+- 6/10
+- Was ironicalla slog to get through. Already knew most of the strategies. Simple concepts that didn't need three different examples each to hammer home.
+- The breakdowns at the end of the chapter were great, though.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTU4MDMxMV19
+eyJoaXN0b3J5IjpbLTI5OTAzNjQ1XX0=
 -->
