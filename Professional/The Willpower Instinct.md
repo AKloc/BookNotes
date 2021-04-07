@@ -1,7 +1,7 @@
 ## The Willpower Instinct
 
 **Purpose For Reading**
-- What am I hoping to get out of reading this?
+- Always looking for tools against procrastination and improving self-control, particularly since I'm starting a new job.
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -13,5 +13,5 @@
 - x/10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMjQwOTk1XX0=
+eyJoaXN0b3J5IjpbLTUzNTEyMzM4Nl19
 -->
