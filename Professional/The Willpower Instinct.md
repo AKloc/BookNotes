@@ -18,8 +18,10 @@
 - Tempted?
 	- Wait ten minutes.
 	- Think about what you're doing as a deliberate choice to give up on the best possible long-term goal (like getting thinner).
-	- Write a letter to your future self.
-- Self-control is contagious
+	- Think about how proud you've felt in the past for beating these urges in the past.
+- Self-control is contagious. Get more people invested in what you're doing. Increase your accountability.
+- Spend a little time in the morning thinking about today's goals.
+- Trying to sup
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -28,5 +30,5 @@
 - x/10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDU1OTU2XX0=
+eyJoaXN0b3J5IjpbNjY3NTY2NzY5XX0=
 -->
