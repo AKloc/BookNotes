@@ -1,7 +1,7 @@
 ## Present! A Techie's Guide to Public Speaking
 
 **Purpose For Reading**
-- Starting a new management job soon. Haven't had to do a presentation in a while. Looking at this book as a potential way to help shake some of the rust off and learn some new 
+- Starting a new management job soon. Haven't had to do a presentation in a while. Looking at this book as a potential way to help shake some of the rust off and learn some new tricks. Karen Catlin also wrote "Better Allies," which I enjoyed.
  
 **Main Takeaways & Metacognition**
 - What are the major themes / points made?
@@ -13,5 +13,5 @@
 - x/10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMTUwNzI4XX0=
+eyJoaXN0b3J5IjpbMTIwMDUzMjMxNl19
 -->
