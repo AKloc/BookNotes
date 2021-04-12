@@ -16,7 +16,12 @@
 	- They make abstract ideas concrete.
 	- Are memorable and repeatable.
 - Humor: Only make fun of yourself. No one else.
-- Structur
+- Structuring stories: Use arcs.
+	- Context
+	- Challenge
+	- Available solutions
+	- Final takeaways
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -29,5 +34,5 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzQ2ODExMCwxMjAwNTMyMzE2XX0=
+eyJoaXN0b3J5IjpbMzcyOTUzODY3LDEyMDA1MzIzMTZdfQ==
 -->
