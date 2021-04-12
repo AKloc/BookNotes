@@ -28,7 +28,14 @@
 	- Motivation
 	- Takeaways
 	- Conclusion
-- Talk through your outline multiple times until you hit the tim
+- Talk through your outline multiple times until you hit the time you're shooting for and delivery is smooth.
+	- Practice by yourself.
+	- Then in front of a camera.
+	- Then in front of one person.
+	- Then in front of a small audience.
+- Stage Fright: Difference between being nervous and having true fear. Pre-talk nerves impact EVERYONE.
+	- Strike a power pose for a few minutes.
+	- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -41,6 +48,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI1MTAwOTgsMzcyOTUzODY3LDEyMD
-A1MzIzMTZdfQ==
+eyJoaXN0b3J5IjpbMTkyNzk3ODkwMiwzNzI5NTM4NjcsMTIwMD
+UzMjMxNl19
 -->
