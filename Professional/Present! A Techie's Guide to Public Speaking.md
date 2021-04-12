@@ -56,10 +56,12 @@
 	- Make sure the tech works.
 	- Have a copy of your presentation on your laptop, on the cloud, on a drive, in both your presentation format as well as PDF format.
 	- Check out the stage. What's your walking plan?
-	- Plan out your time. Arrive an hour early, test tech, leave 20 minutes to chat with attend
+	- Plan out your time. Arrive an hour early, test tech, leave 20 minutes to chat with attendees?
 
 **What can I do with this?**
-- What actions am I going to take based on this book, if any?
+- I should do a lightning talk at CodeMash.
+- Like the angle that for any sort of conversation that's going to take any time, to not lean on slides. Tell stories. Even if they're for work meetings.
+- Have some good checklist items in these notes.
 
 **Personal Bottom Line**
 - 7.5/10
@@ -69,6 +71,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MzQ1NTg4LC0xMzQ2OTIwNzQyLDM3Mj
-k1Mzg2NywxMjAwNTMyMzE2XX0=
+eyJoaXN0b3J5IjpbMTU3MDU4NDYyNSwtMTM0NjkyMDc0MiwzNz
+I5NTM4NjcsMTIwMDUzMjMxNl19
 -->
