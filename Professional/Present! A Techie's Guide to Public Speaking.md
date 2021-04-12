@@ -11,11 +11,11 @@
 
 **Personal Bottom Line**
 - 7.5/10
-- Good reinforcement around 
+- Good reinforcement around stuff 
 - Really quick read despite being 260 pages in length. Chapter summaries are great. Chapters themselves are short.
 - Would've liked to see more around stage fright.
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTc0MDU3OCwxMjAwNTMyMzE2XX0=
+eyJoaXN0b3J5IjpbLTQzMjMwMjczMCwxMjAwNTMyMzE2XX0=
 -->
