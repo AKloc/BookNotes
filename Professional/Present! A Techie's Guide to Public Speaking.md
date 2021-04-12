@@ -5,7 +5,11 @@
  
 **Main Takeaways & Metacognition**
 - Talks should be conversational. Imagine you're chatting with someone in the audience, that should be the tone.
-- 
+- Talk about real-life experience.
+- INVENTORY METHOD
+	- Used to find experiences and expertise you can share.
+- Think about your audience and focus on what they're looking for.
+	- Audience persona? Motiv
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -18,5 +22,5 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NTk3MzI1LDEyMDA1MzIzMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MjcwMDA3OCwxMjAwNTMyMzE2XX0=
 -->
