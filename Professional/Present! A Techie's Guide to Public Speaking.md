@@ -9,7 +9,14 @@
 - INVENTORY METHOD
 	- Used to find experiences and expertise you can share.
 - Think about your audience and focus on what they're looking for.
-	- Audience persona? Motiv
+	- Audience persona? Motivation? Experience level? What takeaways should they have? What questions will they have?
+- Stories are huge.
+	- Help the audience empathize with a problem.
+	- They're relatable, because they're real.
+	- They make abstract ideas concrete.
+	- Are memorable and repeatable.
+- Humor: Only make fun of yourself. No one else.
+- Structur
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -22,5 +29,5 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjcwMDA3OCwxMjAwNTMyMzE2XX0=
+eyJoaXN0b3J5IjpbMjAzMzQ2ODExMCwxMjAwNTMyMzE2XX0=
 -->
