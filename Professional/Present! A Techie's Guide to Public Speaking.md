@@ -48,7 +48,10 @@
 - Slides: Create only AFTER you've developed your talk.
 	- You don't ever want to be dependent on your slides.
 	- Limit to 2-3 words per slide, 4-5 words per bullet point, 5 bullets per slide.
-- 
+- Q&A:
+	- Anticipate questions in advance.
+	- "I don't know" is OK, and it's also OK to ask if anyone in the audience knows the answer.
+	- "Take it offline" strategy
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -61,6 +64,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc5ODc4ODIsMzcyOTUzODY3LDEyMD
+eyJoaXN0b3J5IjpbLTEzNDY5MjA3NDIsMzcyOTUzODY3LDEyMD
 A1MzIzMTZdfQ==
 -->
