@@ -39,8 +39,12 @@
 	- Meet and greet audience before you go onstage to make some "friends"
 	- PRACTICE
 	- Identify and name specific anxieties. This is a version of acknowledging anxiety rather than suppressing it. Anticipate it and ACCEPT it.
-- Delivery:
-	- Experimen
+- Delivery: Experiment with style. Factors:
+	- Body language
+	- Eye contact (10-20 seconds, if in a big arena, look 2/3s up the middle of the audience)
+	- Gestures (holding up numbers, etc)
+	- Walking (can be used to show progress through your talk)
+	- Vocal inflections
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -53,6 +57,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNDE1MjA3LDM3Mjk1Mzg2NywxMjAwNT
-MyMzE2XX0=
+eyJoaXN0b3J5IjpbLTU0NDgwOTY2MSwzNzI5NTM4NjcsMTIwMD
+UzMjMxNl19
 -->
