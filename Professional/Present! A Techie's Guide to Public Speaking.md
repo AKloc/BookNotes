@@ -45,6 +45,10 @@
 	- Gestures (holding up numbers, etc)
 	- Walking (can be used to show progress through your talk)
 	- Vocal inflections
+- Slides: Create only AFTER you've developed your talk.
+	- You don't ever want to be dependent on your slides.
+	- Limit to 2-3 words per slide, 4-5 words per bullet point, 5 bullets per slide.
+- 
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -57,6 +61,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDgwOTY2MSwzNzI5NTM4NjcsMTIwMD
-UzMjMxNl19
+eyJoaXN0b3J5IjpbLTEzMjc5ODc4ODIsMzcyOTUzODY3LDEyMD
+A1MzIzMTZdfQ==
 -->
