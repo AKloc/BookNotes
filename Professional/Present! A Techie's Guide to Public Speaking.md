@@ -23,9 +23,12 @@
 	- Final takeaways
 - Before putting a talk together, put a proposal together first, send it out, see if there's interest. Basically an outline of the talk with summary, takeaways, format, audience, your bio.
 - CREATE AN OUTLINE.
-	- This is NOT a script.
+	- This is NOT a script. Similar to what I already do today.
 	- Introduction
-	- 
+	- Motivation
+	- Takeaways
+	- Conclusion
+- Talk through your outline multiple times until you hit the tim
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -38,6 +41,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYzMjAxMDgsMzcyOTUzODY3LDEyMD
+eyJoaXN0b3J5IjpbLTEyNDI1MTAwOTgsMzcyOTUzODY3LDEyMD
 A1MzIzMTZdfQ==
 -->
