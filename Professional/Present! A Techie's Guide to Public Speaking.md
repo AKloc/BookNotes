@@ -52,6 +52,11 @@
 	- Anticipate questions in advance.
 	- "I don't know" is OK, and it's also OK to ask if anyone in the audience knows the answer.
 	- "Take it offline" strategy
+- Before you present:
+	- Make sure the tech works.
+	- Have a copy of your presentation on your laptop, on the cloud, on a drive, in both your presentation format as well as PDF format.
+	- Check out the stage. What's your walking plan?
+	- Plan out your time. Arrive an hour early, test tech, leave 20 minutes to chat with attend
 
 **What can I do with this?**
 - What actions am I going to take based on this book, if any?
@@ -64,6 +69,6 @@
 - A lot of really good information on giving general talks - I was looking for more about doing better presentations within a company, but it covered all of that material and went a little further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY5MjA3NDIsMzcyOTUzODY3LDEyMD
-A1MzIzMTZdfQ==
+eyJoaXN0b3J5IjpbMzY1MzQ1NTg4LC0xMzQ2OTIwNzQyLDM3Mj
+k1Mzg2NywxMjAwNTMyMzE2XX0=
 -->
